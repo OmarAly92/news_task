@@ -1,0 +1,5 @@
+{
+  "reaction": "like",
+  "clientMutationId": "uuid-101",
+  "expectedVersion": 3
+}

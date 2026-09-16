@@ -1,0 +1,67 @@
+{
+  "id": "a_marathon_record_falls",
+  "title": "Marathon Record Falls on Fast Berlin Course",
+  "summary": "Perfect conditions help shave nine seconds off the world best.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/marathon-record-falls-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Arena News",
+  "author": {
+    "id": "u_leo",
+    "name": "Leo Marchetti",
+    "avatar": "https://picsum.photos/seed/leo/120",
+    "bio": "Football and Olympic sports analyst."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-08T10:33:00Z",
+  "updatedAt": "2026-09-08T12:00:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/marathon-record-falls/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/marathon-record-falls-1/900/600",
+    "https://picsum.photos/seed/marathon-record-falls-2/900/600",
+    "https://picsum.photos/seed/marathon-record-falls-3/900/600"
+  ],
+  "tags": [
+    "athletics",
+    "marathon"
+  ],
+  "related": [
+    "a_basketball_rookie_sets",
+    "a_goalkeeper_saves_two",
+    "a_cycling_tour_reroutes"
+  ],
+  "likes": 205,
+  "comments": 46,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

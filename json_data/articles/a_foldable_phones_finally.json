@@ -1,0 +1,67 @@
+{
+  "id": "a_foldable_phones_finally",
+  "title": "Foldable Phones Finally Reach Mainstream Pricing",
+  "summary": "Cheaper hinges and panels bring foldables under the flagship line.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/foldable-phones-finally-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "The hard part was never the technology, it was the coordination."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    }
+  ],
+  "source": "Future Stack",
+  "author": {
+    "id": "u_tom",
+    "name": "Tom Okafor",
+    "avatar": "https://picsum.photos/seed/tom/120",
+    "bio": "Developer tools and open source reporter."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-11T00:18:00Z",
+  "updatedAt": "2026-09-11T00:32:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/foldable-phones-finally/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/foldable-phones-finally-1/900/600",
+    "https://picsum.photos/seed/foldable-phones-finally-2/900/600",
+    "https://picsum.photos/seed/foldable-phones-finally-3/900/600"
+  ],
+  "tags": [
+    "hardware",
+    "mobile"
+  ],
+  "related": [
+    "a_passkeys_replace_passwords",
+    "a_quantum_startups_report",
+    "a_dart_tooling"
+  ],
+  "likes": 347,
+  "comments": 30,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

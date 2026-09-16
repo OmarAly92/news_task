@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "newVersion": 19,
+  "applied": [
+    "uuid-101",
+    "uuid-102"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_fintech_firms_seek",
+  "title": "Fintech Firms Seek Bank Charters to Cut Costs",
+  "summary": "Owning the rails lets startups keep more of each transaction.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/fintech-firms-seek-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Market Brief",
+  "author": {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "avatar": "https://picsum.photos/seed/priya/120",
+    "bio": "Covers startups, venture capital, and fintech."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-10T12:02:00Z",
+  "updatedAt": "2026-09-10T12:49:00Z",
+  "readTimeMinutes": 5,
+  "image": "https://picsum.photos/seed/fintech-firms-seek/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/fintech-firms-seek-1/900/600",
+    "https://picsum.photos/seed/fintech-firms-seek-2/900/600",
+    "https://picsum.photos/seed/fintech-firms-seek-3/900/600"
+  ],
+  "tags": [
+    "fintech",
+    "banking"
+  ],
+  "related": [
+    "a_airlines_post_record",
+    "a_remote_work_policies",
+    "a_payroll_data_shows"
+  ],
+  "likes": 274,
+  "comments": 28,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

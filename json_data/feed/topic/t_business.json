@@ -1,0 +1,350 @@
+{
+  "data": [
+    {
+      "id": "a_retailers_bet_on",
+      "title": "Retailers Bet on Smaller Stores in City Centers",
+      "summary": "Compact formats target commuters and same day pickup.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T22:56:19Z",
+      "image": "https://picsum.photos/seed/retailers-bet-on/900/600",
+      "tags": [
+        "retail"
+      ],
+      "likes": 252,
+      "comments": 19,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_market_week",
+      "title": "Markets Open Higher as Technology Shares Advance",
+      "summary": "Investors watch inflation data and earnings guidance.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T19:45:00Z",
+      "image": "https://picsum.photos/seed/market/900/600",
+      "tags": [
+        "markets"
+      ],
+      "likes": 51,
+      "comments": 8,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 1
+    },
+    {
+      "id": "a_luxury_brands_slow",
+      "title": "Luxury Brands Slow Expansion Amid Softer Demand",
+      "summary": "Fewer store openings as spending cools in key markets.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T01:16:00Z",
+      "image": "https://picsum.photos/seed/luxury-brands-slow/900/600",
+      "tags": [
+        "luxury",
+        "retail"
+      ],
+      "likes": 115,
+      "comments": 44,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_electric_truck_maker",
+      "title": "Electric Truck Maker Lands Major Fleet Order",
+      "summary": "A logistics giant commits to two thousand vehicles by 2028.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T06:14:00Z",
+      "image": "https://picsum.photos/seed/electric-truck-maker/900/600",
+      "tags": [
+        "ev",
+        "logistics"
+      ],
+      "likes": 391,
+      "comments": 53,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_grocery_chains_expand",
+      "title": "Grocery Chains Expand Private Label Brands",
+      "summary": "Store brands gain share as shoppers trade down.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T03:50:00Z",
+      "image": "https://picsum.photos/seed/grocery-chains-expand/900/600",
+      "tags": [
+        "retail",
+        "consumer"
+      ],
+      "likes": 314,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_small_businesses_adopt",
+      "title": "Small Businesses Adopt AI Bookkeeping Tools",
+      "summary": "Automated ledgers cut accounting hours for shop owners.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T01:46:00Z",
+      "image": "https://picsum.photos/seed/small-businesses-adopt/900/600",
+      "tags": [
+        "ai",
+        "small-business"
+      ],
+      "likes": 117,
+      "comments": 54,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_airlines_post_record",
+      "title": "Airlines Post Record Summer Passenger Numbers",
+      "summary": "Strong leisure demand offsets higher fuel costs.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T23:22:00Z",
+      "image": "https://picsum.photos/seed/airlines-post-record/900/600",
+      "tags": [
+        "travel",
+        "earnings"
+      ],
+      "likes": 387,
+      "comments": 49,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_shipping_costs_fall",
+      "title": "Shipping Costs Fall as Port Congestion Eases",
+      "summary": "Container rates drop to pre-pandemic levels on key routes.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T10:31:00Z",
+      "image": "https://picsum.photos/seed/shipping-costs-fall/900/600",
+      "tags": [
+        "logistics",
+        "trade"
+      ],
+      "likes": 332,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_chip_shortage_ends",
+      "title": "Chip Shortage Ends as Inventories Normalize",
+      "summary": "Automakers report full supply for the first time in three years.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T06:22:00Z",
+      "image": "https://picsum.photos/seed/chip-shortage-ends/900/600",
+      "tags": [
+        "supply-chain",
+        "semiconductors"
+      ],
+      "likes": 332,
+      "comments": 1,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_payroll_data_shows",
+      "title": "Payroll Data Shows Steady Wage Growth",
+      "summary": "Earnings rise faster than prices for a fourth month.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T02:22:00Z",
+      "image": "https://picsum.photos/seed/payroll-data-shows/900/600",
+      "tags": [
+        "economy",
+        "jobs"
+      ],
+      "likes": 17,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_fintech_firms_seek",
+      "title": "Fintech Firms Seek Bank Charters to Cut Costs",
+      "summary": "Owning the rails lets startups keep more of each transaction.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-10T12:02:00Z",
+      "image": "https://picsum.photos/seed/fintech-firms-seek/900/600",
+      "tags": [
+        "fintech",
+        "banking"
+      ],
+      "likes": 274,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_energy_companies_shift",
+      "title": "Energy Companies Shift Budgets Toward Renewables",
+      "summary": "Capital spending on wind and solar overtakes oil exploration.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-09T11:09:00Z",
+      "image": "https://picsum.photos/seed/energy-companies-shift/900/600",
+      "tags": [
+        "energy",
+        "renewables"
+      ],
+      "likes": 309,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_central_banks_signal",
+      "title": "Central Banks Signal Pause on Interest Rate Hikes",
+      "summary": "Policy makers point to cooling prices and slower hiring.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "image": "https://picsum.photos/seed/central-banks-signal/900/600",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "likes": 188,
+      "comments": 2,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_remote_work_policies",
+      "title": "Remote Work Policies Settle Into Hybrid Norm",
+      "summary": "Most large employers land on three days in the office.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T12:03:00Z",
+      "image": "https://picsum.photos/seed/remote-work-policies/900/600",
+      "tags": [
+        "workplace"
+      ],
+      "likes": 53,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_startup_funding_rebounds",
+      "title": "Startup Funding Rebounds in Third Quarter Report",
+      "summary": "Late stage rounds return as valuations settle.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T02:21:00Z",
+      "image": "https://picsum.photos/seed/startup-funding-rebounds/900/600",
+      "tags": [
+        "startups",
+        "venture"
+      ],
+      "likes": 368,
+      "comments": 32,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    }
+  ],
+  "page": 1,
+  "pageSize": 15,
+  "total": 15,
+  "nextCursor": null
+}

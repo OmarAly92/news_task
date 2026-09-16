@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "id": "a_open_source_maintainers",
+      "title": "Open Source Maintainers Push Back on Licensing Changes",
+      "summary": "Community projects weigh forks after a popular license switch.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T11:52:00Z",
+      "image": "https://picsum.photos/seed/open-source-maintainers/900/600",
+      "tags": [
+        "open-source",
+        "licensing"
+      ],
+      "likes": 18,
+      "comments": 25,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_shipping_costs_fall",
+      "title": "Shipping Costs Fall as Port Congestion Eases",
+      "summary": "Container rates drop to pre-pandemic levels on key routes.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T10:31:00Z",
+      "image": "https://picsum.photos/seed/shipping-costs-fall/900/600",
+      "tags": [
+        "logistics",
+        "trade"
+      ],
+      "likes": 332,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_cricket_board_introduces",
+      "title": "Cricket Board Introduces Shorter Format Trial",
+      "summary": "A sixty ball match aims to attract younger fans.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T09:15:00Z",
+      "image": "https://picsum.photos/seed/cricket-board-introduces/900/600",
+      "tags": [
+        "cricket"
+      ],
+      "likes": 342,
+      "comments": 8,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_golf_prodigy_wins",
+      "title": "Golf Prodigy Wins First Major at Nineteen",
+      "summary": "A final round sixty five clinches the youngest win in decades.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T07:51:00Z",
+      "image": "https://picsum.photos/seed/golf-prodigy-wins/900/600",
+      "tags": [
+        "golf"
+      ],
+      "likes": 183,
+      "comments": 16,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_chip_shortage_ends",
+      "title": "Chip Shortage Ends as Inventories Normalize",
+      "summary": "Automakers report full supply for the first time in three years.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T06:22:00Z",
+      "image": "https://picsum.photos/seed/chip-shortage-ends/900/600",
+      "tags": [
+        "supply-chain",
+        "semiconductors"
+      ],
+      "likes": 332,
+      "comments": 1,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_new_catalyst_turns",
+      "title": "New Catalyst Turns Carbon Dioxide Into Fuel",
+      "summary": "A copper alloy converts emissions into ethanol at room temperature.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T03:52:00Z",
+      "image": "https://picsum.photos/seed/new-catalyst-turns/900/600",
+      "tags": [
+        "chemistry",
+        "energy"
+      ],
+      "likes": 310,
+      "comments": 11,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_payroll_data_shows",
+      "title": "Payroll Data Shows Steady Wage Growth",
+      "summary": "Earnings rise faster than prices for a fourth month.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T02:22:00Z",
+      "image": "https://picsum.photos/seed/payroll-data-shows/900/600",
+      "tags": [
+        "economy",
+        "jobs"
+      ],
+      "likes": 17,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_foldable_phones_finally",
+      "title": "Foldable Phones Finally Reach Mainstream Pricing",
+      "summary": "Cheaper hinges and panels bring foldables under the flagship line.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T00:18:00Z",
+      "image": "https://picsum.photos/seed/foldable-phones-finally/900/600",
+      "tags": [
+        "hardware",
+        "mobile"
+      ],
+      "likes": 347,
+      "comments": 30,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_webassembly_runtimes_move",
+      "title": "WebAssembly Runtimes Move Into Production Backends",
+      "summary": "Sandboxed modules replace containers for lightweight services.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T21:52:00Z",
+      "image": "https://picsum.photos/seed/webassembly-runtimes-move/900/600",
+      "tags": [
+        "wasm",
+        "backend"
+      ],
+      "likes": 234,
+      "comments": 15,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_lab_grown_wood",
+      "title": "Lab Grown Wood Could Cut Deforestation",
+      "summary": "Plant cells cultured in tanks form usable timber.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T20:34:00Z",
+      "image": "https://picsum.photos/seed/lab-grown-wood/900/600",
+      "tags": [
+        "biotech",
+        "materials"
+      ],
+      "likes": 62,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    }
+  ],
+  "page": 5,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": "feed_6"
+}

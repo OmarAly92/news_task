@@ -1,0 +1,352 @@
+{
+  "data": [
+    {
+      "id": "a_clean_energy",
+      "title": "Battery Breakthrough Improves Grid Storage Efficiency",
+      "summary": "Researchers report longer cycle life in early trials.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T06:10:00Z",
+      "image": "https://picsum.photos/seed/energy/900/600",
+      "tags": [
+        "energy",
+        "research"
+      ],
+      "likes": 96,
+      "comments": 11,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_fusion_reactor_sustains",
+      "title": "Fusion Reactor Sustains Plasma for Record Duration",
+      "summary": "The reaction held steady for more than six minutes.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T04:55:33Z",
+      "image": "https://picsum.photos/seed/fusion-reactor-sustains/900/600",
+      "tags": [
+        "fusion",
+        "energy"
+      ],
+      "likes": 166,
+      "comments": 17,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_deep_sea_expedition",
+      "title": "Deep Sea Expedition Discovers Dozens of Species",
+      "summary": "Remote vehicles film life at depths beyond four kilometers.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T01:24:13Z",
+      "image": "https://picsum.photos/seed/deep-sea-expedition/900/600",
+      "tags": [
+        "oceans",
+        "biology"
+      ],
+      "likes": 353,
+      "comments": 7,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_ancient_dna_rewrites",
+      "title": "Ancient DNA Rewrites Story of Early Migration",
+      "summary": "Genomes from a cave site point to an earlier crossing.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-13T10:00:00Z",
+      "image": "https://picsum.photos/seed/ancient-dna-rewrites/900/600",
+      "tags": [
+        "genetics",
+        "archaeology"
+      ],
+      "likes": 259,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_telescope_captures_earliest",
+      "title": "Telescope Captures Earliest Galaxy Yet Observed",
+      "summary": "Light from the object left it three hundred million years after the big bang.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-12T14:17:00Z",
+      "image": "https://picsum.photos/seed/telescope-captures-earliest/900/600",
+      "tags": [
+        "space",
+        "astronomy"
+      ],
+      "likes": 160,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_volcano_monitoring_gets",
+      "title": "Volcano Monitoring Gets Real-Time Satellite Feed",
+      "summary": "Thermal imaging alerts arrive within minutes of activity.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T21:21:00Z",
+      "image": "https://picsum.photos/seed/volcano-monitoring-gets/900/600",
+      "tags": [
+        "geology",
+        "satellites"
+      ],
+      "likes": 262,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_researchers_map_coral",
+      "title": "Researchers Map Coral Genome to Aid Reef Recovery",
+      "summary": "Heat tolerant genes could guide restoration efforts.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T19:25:00Z",
+      "image": "https://picsum.photos/seed/researchers-map-coral/900/600",
+      "tags": [
+        "biology",
+        "climate"
+      ],
+      "likes": 36,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_new_catalyst_turns",
+      "title": "New Catalyst Turns Carbon Dioxide Into Fuel",
+      "summary": "A copper alloy converts emissions into ethanol at room temperature.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T03:52:00Z",
+      "image": "https://picsum.photos/seed/new-catalyst-turns/900/600",
+      "tags": [
+        "chemistry",
+        "energy"
+      ],
+      "likes": 310,
+      "comments": 11,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_lab_grown_wood",
+      "title": "Lab Grown Wood Could Cut Deforestation",
+      "summary": "Plant cells cultured in tanks form usable timber.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T20:34:00Z",
+      "image": "https://picsum.photos/seed/lab-grown-wood/900/600",
+      "tags": [
+        "biotech",
+        "materials"
+      ],
+      "likes": 62,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_mars_rover_finds",
+      "title": "Mars Rover Finds Evidence of Ancient River Delta",
+      "summary": "Layered sediments suggest water flowed for thousands of years.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T08:03:00Z",
+      "image": "https://picsum.photos/seed/mars-rover-finds/900/600",
+      "tags": [
+        "space",
+        "mars"
+      ],
+      "likes": 313,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 5
+    },
+    {
+      "id": "a_climate_models_sharpen",
+      "title": "Climate Models Sharpen Regional Rainfall Forecasts",
+      "summary": "Higher resolution simulations improve seasonal predictions.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T03:08:00Z",
+      "image": "https://picsum.photos/seed/climate-models-sharpen/900/600",
+      "tags": [
+        "climate",
+        "research"
+      ],
+      "likes": 184,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_ocean_current_slowdown",
+      "title": "Ocean Current Slowdown Confirmed by New Study",
+      "summary": "Decades of measurements show a weakening Atlantic circulation.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T23:06:00Z",
+      "image": "https://picsum.photos/seed/ocean-current-slowdown/900/600",
+      "tags": [
+        "oceans",
+        "climate"
+      ],
+      "likes": 111,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_physicists_measure_gravity",
+      "title": "Physicists Measure Gravity at Microscopic Scale",
+      "summary": "The experiment detects attraction between milligram masses.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T21:13:00Z",
+      "image": "https://picsum.photos/seed/physicists-measure-gravity/900/600",
+      "tags": [
+        "physics"
+      ],
+      "likes": 54,
+      "comments": 25,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_bird_migration_tracked",
+      "title": "Bird Migration Tracked With Tiny Solar Tags",
+      "summary": "Lightweight sensors reveal routes across three continents.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T12:19:00Z",
+      "image": "https://picsum.photos/seed/bird-migration-tracked/900/600",
+      "tags": [
+        "ecology",
+        "wildlife"
+      ],
+      "likes": 21,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_asteroid_sample_reveals",
+      "title": "Asteroid Sample Reveals Building Blocks of Life",
+      "summary": "Returned dust contains amino acids and water bearing minerals.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-08T19:31:00Z",
+      "image": "https://picsum.photos/seed/asteroid-sample-reveals/900/600",
+      "tags": [
+        "space",
+        "astrobiology"
+      ],
+      "likes": 177,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    }
+  ],
+  "page": 1,
+  "pageSize": 15,
+  "total": 15,
+  "nextCursor": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_museum_returns_artifacts",
+  "title": "Museum Returns Artifacts After Decade of Talks",
+  "summary": "Bronze pieces head home following a landmark agreement.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/museum-returns-artifacts-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    }
+  ],
+  "source": "Screen & Stage",
+  "author": {
+    "id": "u_noah",
+    "name": "Noah Fischer",
+    "avatar": "https://picsum.photos/seed/noah/120",
+    "bio": "Film, theater, and music columnist."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-13T08:42:00Z",
+  "updatedAt": "2026-09-13T09:47:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/museum-returns-artifacts/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/museum-returns-artifacts-1/900/600",
+    "https://picsum.photos/seed/museum-returns-artifacts-2/900/600",
+    "https://picsum.photos/seed/museum-returns-artifacts-3/900/600"
+  ],
+  "tags": [
+    "museums",
+    "heritage"
+  ],
+  "related": [
+    "a_poetry_sales_climb",
+    "a_streaming_series_revives",
+    "a_film_festival_opens"
+  ],
+  "likes": 146,
+  "comments": 18,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 6
+}

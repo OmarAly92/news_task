@@ -1,0 +1,67 @@
+{
+  "id": "a_walking_ten_minutes",
+  "title": "Walking Ten Minutes Daily Improves Mood, Study Finds",
+  "summary": "Short outdoor walks match some medication effects for mild cases.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/walking-ten-minutes-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Pulse Report",
+  "author": {
+    "id": "u_amira",
+    "name": "Amira Farouk",
+    "avatar": "https://picsum.photos/seed/amira/120",
+    "bio": "Public health policy reporter."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-13T11:44:00Z",
+  "updatedAt": "2026-09-13T12:05:00Z",
+  "readTimeMinutes": 3,
+  "image": "https://picsum.photos/seed/walking-ten-minutes/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/walking-ten-minutes-1/900/600",
+    "https://picsum.photos/seed/walking-ten-minutes-2/900/600",
+    "https://picsum.photos/seed/walking-ten-minutes-3/900/600"
+  ],
+  "tags": [
+    "fitness",
+    "mental-health"
+  ],
+  "related": [
+    "a_hospitals_adopt_ai",
+    "a_wearables_detect_irregular",
+    "a_new_guidelines_lower"
+  ],
+  "likes": 53,
+  "comments": 10,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

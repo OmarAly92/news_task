@@ -1,0 +1,67 @@
+{
+  "id": "a_architecture_award_goes",
+  "title": "Architecture Award Goes to Timber Library",
+  "summary": "The mass timber building sets a new bar for public spaces.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/architecture-award-goes-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "The hard part was never the technology, it was the coordination."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    }
+  ],
+  "source": "Art Signal",
+  "author": {
+    "id": "u_noah",
+    "name": "Noah Fischer",
+    "avatar": "https://picsum.photos/seed/noah/120",
+    "bio": "Film, theater, and music columnist."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-12T21:03:00Z",
+  "updatedAt": "2026-09-12T22:02:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/architecture-award-goes/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/architecture-award-goes-1/900/600",
+    "https://picsum.photos/seed/architecture-award-goes-2/900/600",
+    "https://picsum.photos/seed/architecture-award-goes-3/900/600"
+  ],
+  "tags": [
+    "architecture",
+    "awards"
+  ],
+  "related": [
+    "a_photography_show_documents",
+    "a_poetry_sales_climb",
+    "a_dance_troupe_blends"
+  ],
+  "likes": 181,
+  "comments": 29,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 6
+}

@@ -1,0 +1,347 @@
+{
+  "data": [
+    {
+      "id": "a_goalkeeper_saves_two",
+      "title": "Goalkeeper Saves Two Penalties in Derby Draw",
+      "summary": "Heroics keep the points shared in a fiery local clash.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-14T02:29:39Z",
+      "image": "https://picsum.photos/seed/goalkeeper-saves-two/900/600",
+      "tags": [
+        "football",
+        "derby"
+      ],
+      "likes": 306,
+      "comments": 56,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_rugby_union_tightens",
+      "title": "Rugby Union Tightens Concussion Protocols",
+      "summary": "Players face longer mandatory rest after head knocks.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T20:44:26Z",
+      "image": "https://picsum.photos/seed/rugby-union-tightens/900/600",
+      "tags": [
+        "rugby",
+        "safety"
+      ],
+      "likes": 95,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_league_approves_expansion",
+      "title": "League Approves Expansion to Two New Cities",
+      "summary": "Franchises will begin play in the 2028 season.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T16:49:00Z",
+      "image": "https://picsum.photos/seed/league-approves-expansion/900/600",
+      "tags": [
+        "basketball",
+        "league"
+      ],
+      "likes": 178,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_olympic_committee_adds",
+      "title": "Olympic Committee Adds Climbing Relay Event",
+      "summary": "The team format debuts at the next summer games.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T13:45:00Z",
+      "image": "https://picsum.photos/seed/olympic-committee-adds/900/600",
+      "tags": [
+        "olympics",
+        "climbing"
+      ],
+      "likes": 215,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_swimmers_break_relay",
+      "title": "Swimmers Break Relay Mark at World Championships",
+      "summary": "A blistering final leg secures gold and a new record.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T02:53:00Z",
+      "image": "https://picsum.photos/seed/swimmers-break-relay/900/600",
+      "tags": [
+        "swimming",
+        "world-championships"
+      ],
+      "likes": 251,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_esports_finals_draw",
+      "title": "Esports Finals Draw Record Online Audience",
+      "summary": "Peak viewership tops five million concurrent streams.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-12T15:44:00Z",
+      "image": "https://picsum.photos/seed/esports-finals-draw/900/600",
+      "tags": [
+        "esports"
+      ],
+      "likes": 307,
+      "comments": 60,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_cycling_tour_reroutes",
+      "title": "Cycling Tour Reroutes Stage After Heavy Rain",
+      "summary": "Organizers cut a mountain pass to keep riders safe.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T16:20:00Z",
+      "image": "https://picsum.photos/seed/cycling-tour-reroutes/900/600",
+      "tags": [
+        "cycling"
+      ],
+      "likes": 193,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_cricket_board_introduces",
+      "title": "Cricket Board Introduces Shorter Format Trial",
+      "summary": "A sixty ball match aims to attract younger fans.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T09:15:00Z",
+      "image": "https://picsum.photos/seed/cricket-board-introduces/900/600",
+      "tags": [
+        "cricket"
+      ],
+      "likes": 342,
+      "comments": 8,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_golf_prodigy_wins",
+      "title": "Golf Prodigy Wins First Major at Nineteen",
+      "summary": "A final round sixty five clinches the youngest win in decades.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T07:51:00Z",
+      "image": "https://picsum.photos/seed/golf-prodigy-wins/900/600",
+      "tags": [
+        "golf"
+      ],
+      "likes": 183,
+      "comments": 16,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_formula_teams_unveil",
+      "title": "Formula Teams Unveil Lighter Chassis for New Season",
+      "summary": "Rule changes push engineers toward smaller, nimbler cars.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T18:02:00Z",
+      "image": "https://picsum.photos/seed/formula-teams-unveil/900/600",
+      "tags": [
+        "motorsport"
+      ],
+      "likes": 63,
+      "comments": 7,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_tennis_star_announces",
+      "title": "Tennis Star Announces Return After Injury Layoff",
+      "summary": "Comeback planned for the season's first hard court swing.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T05:40:00Z",
+      "image": "https://picsum.photos/seed/tennis-star-announces/900/600",
+      "tags": [
+        "tennis"
+      ],
+      "likes": 91,
+      "comments": 47,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_underdogs_stun_champions",
+      "title": "Underdogs Stun Champions in Cup Final Thriller",
+      "summary": "A late header seals a first major trophy for the club.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T03:26:00Z",
+      "image": "https://picsum.photos/seed/underdogs-stun-champions/900/600",
+      "tags": [
+        "football",
+        "cup-final"
+      ],
+      "likes": 232,
+      "comments": 42,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_marathon_record_falls",
+      "title": "Marathon Record Falls on Fast Berlin Course",
+      "summary": "Perfect conditions help shave nine seconds off the world best.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T10:33:00Z",
+      "image": "https://picsum.photos/seed/marathon-record-falls/900/600",
+      "tags": [
+        "athletics",
+        "marathon"
+      ],
+      "likes": 205,
+      "comments": 46,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_youth_academy_produces",
+      "title": "Youth Academy Produces Third Straight Debutant",
+      "summary": "Another teenager steps up to the senior squad.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T08:14:00Z",
+      "image": "https://picsum.photos/seed/youth-academy-produces/900/600",
+      "tags": [
+        "football",
+        "youth"
+      ],
+      "likes": 117,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_basketball_rookie_sets",
+      "title": "Basketball Rookie Sets Scoring Record in Debut",
+      "summary": "Forty two points mark the best first game in league history.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T05:57:00Z",
+      "image": "https://picsum.photos/seed/basketball-rookie-sets/900/600",
+      "tags": [
+        "basketball",
+        "rookie"
+      ],
+      "likes": 140,
+      "comments": 37,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    }
+  ],
+  "page": 1,
+  "pageSize": 15,
+  "total": 15,
+  "nextCursor": null
+}

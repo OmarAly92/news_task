@@ -1,0 +1,67 @@
+{
+  "id": "a_quantum_startups_report",
+  "title": "Quantum Startups Report First Error-Corrected Qubits",
+  "summary": "Logical qubits stay stable long enough for small algorithms.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/quantum-startups-report-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    }
+  ],
+  "source": "Mobile Daily",
+  "author": {
+    "id": "u_tom",
+    "name": "Tom Okafor",
+    "avatar": "https://picsum.photos/seed/tom/120",
+    "bio": "Developer tools and open source reporter."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-10T16:37:00Z",
+  "updatedAt": "2026-09-10T16:50:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/quantum-startups-report/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/quantum-startups-report-1/900/600",
+    "https://picsum.photos/seed/quantum-startups-report-2/900/600",
+    "https://picsum.photos/seed/quantum-startups-report-3/900/600"
+  ],
+  "tags": [
+    "quantum",
+    "research"
+  ],
+  "related": [
+    "a_open_source_maintainers",
+    "a_lowcode_tools_reshape",
+    "a_webassembly_runtimes_move"
+  ],
+  "likes": 96,
+  "comments": 47,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

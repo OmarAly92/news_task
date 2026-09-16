@@ -1,0 +1,306 @@
+{
+  "data": [
+    {
+      "id": "a_museum_returns_artifacts",
+      "title": "Museum Returns Artifacts After Decade of Talks",
+      "summary": "Bronze pieces head home following a landmark agreement.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-13T08:42:00Z",
+      "image": "https://picsum.photos/seed/museum-returns-artifacts/900/600",
+      "tags": [
+        "museums",
+        "heritage"
+      ],
+      "likes": 146,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_architecture_award_goes",
+      "title": "Architecture Award Goes to Timber Library",
+      "summary": "The mass timber building sets a new bar for public spaces.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T21:03:00Z",
+      "image": "https://picsum.photos/seed/architecture-award-goes/900/600",
+      "tags": [
+        "architecture",
+        "awards"
+      ],
+      "likes": 181,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_poetry_sales_climb",
+      "title": "Poetry Sales Climb as Short Verse Goes Viral",
+      "summary": "Social platforms drive a new generation of readers.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T12:36:00Z",
+      "image": "https://picsum.photos/seed/poetry-sales-climb/900/600",
+      "tags": [
+        "books",
+        "poetry"
+      ],
+      "likes": 377,
+      "comments": 14,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_novelist_wins_prize",
+      "title": "Novelist Wins Prize for Debut About Migration",
+      "summary": "Judges praise the book's quiet, precise storytelling.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T10:15:00Z",
+      "image": "https://picsum.photos/seed/novelist-wins-prize/900/600",
+      "tags": [
+        "books",
+        "awards"
+      ],
+      "likes": 338,
+      "comments": 46,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 6
+    },
+    {
+      "id": "a_streaming_series_revives",
+      "title": "Streaming Series Revives Interest in Folk Music",
+      "summary": "Soundtrack sales surge as viewers discover traditional songs.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T07:57:00Z",
+      "image": "https://picsum.photos/seed/streaming-series-revives/900/600",
+      "tags": [
+        "music",
+        "streaming"
+      ],
+      "likes": 200,
+      "comments": 24,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_theater_company_stages",
+      "title": "Theater Company Stages Play in Total Darkness",
+      "summary": "Audiences experience the drama through sound alone.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-10T18:35:00Z",
+      "image": "https://picsum.photos/seed/theater-company-stages/900/600",
+      "tags": [
+        "theater"
+      ],
+      "likes": 332,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_video_game_soundtrack",
+      "title": "Video Game Soundtrack Performed by Symphony",
+      "summary": "Orchestral arrangements sell out a three night run.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T19:49:00Z",
+      "image": "https://picsum.photos/seed/video-game-soundtrack/900/600",
+      "tags": [
+        "music",
+        "games"
+      ],
+      "likes": 174,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_photography_show_documents",
+      "title": "Photography Show Documents Vanishing Villages",
+      "summary": "Portraits capture communities before relocation.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T15:57:00Z",
+      "image": "https://picsum.photos/seed/photography-show-documents/900/600",
+      "tags": [
+        "photography",
+        "exhibition"
+      ],
+      "likes": 107,
+      "comments": 54,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_dance_troupe_blends",
+      "title": "Dance Troupe Blends Robotics and Ballet",
+      "summary": "Mechanical partners share the stage with human dancers.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T14:27:00Z",
+      "image": "https://picsum.photos/seed/dance-troupe-blends/900/600",
+      "tags": [
+        "dance",
+        "technology"
+      ],
+      "likes": 139,
+      "comments": 57,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_film_festival_opens",
+      "title": "Film Festival Opens With Restored Silent Classic",
+      "summary": "A century old print returns with a newly composed score.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T09:26:00Z",
+      "image": "https://picsum.photos/seed/film-festival-opens/900/600",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "likes": 325,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_street_artists_transform",
+      "title": "Street Artists Transform Abandoned Rail Yard",
+      "summary": "Murals and light installations open the site to the public.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T02:03:00Z",
+      "image": "https://picsum.photos/seed/street-artists-transform/900/600",
+      "tags": [
+        "art",
+        "urban"
+      ],
+      "likes": 215,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_fashion_week_spotlights",
+      "title": "Fashion Week Spotlights Upcycled Collections",
+      "summary": "Designers rework deadstock fabric into runway pieces.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-08T23:33:00Z",
+      "image": "https://picsum.photos/seed/fashion-week-spotlights/900/600",
+      "tags": [
+        "fashion",
+        "sustainability"
+      ],
+      "likes": 27,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_podcast_adaptation_tops",
+      "title": "Podcast Adaptation Tops Book Charts",
+      "summary": "A true crime series becomes a bestselling paperback.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-08T00:30:00Z",
+      "image": "https://picsum.photos/seed/podcast-adaptation-tops/900/600",
+      "tags": [
+        "books",
+        "podcasts"
+      ],
+      "likes": 103,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    }
+  ],
+  "page": 1,
+  "pageSize": 13,
+  "total": 13,
+  "nextCursor": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "a_cycling_tour_reroutes",
+  "title": "Cycling Tour Reroutes Stage After Heavy Rain",
+  "summary": "Organizers cut a mountain pass to keep riders safe.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/cycling-tour-reroutes-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Arena News",
+  "author": {
+    "id": "u_leo",
+    "name": "Leo Marchetti",
+    "avatar": "https://picsum.photos/seed/leo/120",
+    "bio": "Football and Olympic sports analyst."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-11T16:20:00Z",
+  "updatedAt": "2026-09-11T16:33:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/cycling-tour-reroutes/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/cycling-tour-reroutes-1/900/600",
+    "https://picsum.photos/seed/cycling-tour-reroutes-2/900/600",
+    "https://picsum.photos/seed/cycling-tour-reroutes-3/900/600"
+  ],
+  "tags": [
+    "cycling"
+  ],
+  "related": [
+    "a_cricket_board_introduces",
+    "a_formula_teams_unveil",
+    "a_olympic_committee_adds"
+  ],
+  "likes": 193,
+  "comments": 55,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_startup_funding_rebounds",
+  "title": "Startup Funding Rebounds in Third Quarter Report",
+  "summary": "Late stage rounds return as valuations settle.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/startup-funding-rebounds-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    }
+  ],
+  "source": "Startup Post",
+  "author": {
+    "id": "u_lina",
+    "name": "Lina Adel",
+    "avatar": "https://picsum.photos/seed/lina/120",
+    "bio": "Markets reporter based in London."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-08T02:21:00Z",
+  "updatedAt": "2026-09-08T03:09:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/startup-funding-rebounds/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/startup-funding-rebounds-1/900/600",
+    "https://picsum.photos/seed/startup-funding-rebounds-2/900/600",
+    "https://picsum.photos/seed/startup-funding-rebounds-3/900/600"
+  ],
+  "tags": [
+    "startups",
+    "venture"
+  ],
+  "related": [
+    "a_chip_shortage_ends",
+    "a_shipping_costs_fall",
+    "a_central_banks_signal"
+  ],
+  "likes": 368,
+  "comments": 32,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

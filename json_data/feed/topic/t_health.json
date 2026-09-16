@@ -1,0 +1,329 @@
+{
+  "data": [
+    {
+      "id": "a_gene_therapy_restores",
+      "title": "Gene Therapy Restores Hearing in Early Trial",
+      "summary": "Children born deaf respond to sound within weeks.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-14T03:37:06Z",
+      "image": "https://picsum.photos/seed/gene-therapy-restores/900/600",
+      "tags": [
+        "gene-therapy",
+        "research"
+      ],
+      "likes": 127,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_malaria_vaccine_rollout",
+      "title": "Malaria Vaccine Rollout Reaches Ten Million Children",
+      "summary": "Health ministries report sharp drops in severe cases.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-14T00:02:46Z",
+      "image": "https://picsum.photos/seed/malaria-vaccine-rollout/900/600",
+      "tags": [
+        "vaccines",
+        "global-health"
+      ],
+      "likes": 61,
+      "comments": 27,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_mental_health_apps",
+      "title": "Mental Health Apps Face New Privacy Standards",
+      "summary": "Regulators require clear consent before sharing session data.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T18:28:00Z",
+      "image": "https://picsum.photos/seed/mental-health-apps/900/600",
+      "tags": [
+        "mental-health",
+        "privacy"
+      ],
+      "likes": 310,
+      "comments": 58,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_allergy_season_grows",
+      "title": "Allergy Season Grows Longer With Warmer Springs",
+      "summary": "Pollen counts start weeks earlier than two decades ago.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T15:35:00Z",
+      "image": "https://picsum.photos/seed/allergy-season-grows/900/600",
+      "tags": [
+        "allergies",
+        "climate"
+      ],
+      "likes": 233,
+      "comments": 27,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_walking_ten_minutes",
+      "title": "Walking Ten Minutes Daily Improves Mood, Study Finds",
+      "summary": "Short outdoor walks match some medication effects for mild cases.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T11:44:00Z",
+      "image": "https://picsum.photos/seed/walking-ten-minutes/900/600",
+      "tags": [
+        "fitness",
+        "mental-health"
+      ],
+      "likes": 53,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_new_guidelines_lower",
+      "title": "New Guidelines Lower Blood Pressure Targets",
+      "summary": "Doctors advised to treat earlier in at risk patients.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T04:43:00Z",
+      "image": "https://picsum.photos/seed/new-guidelines-lower/900/600",
+      "tags": [
+        "heart",
+        "guidelines"
+      ],
+      "likes": 56,
+      "comments": 40,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_sleep_study_links",
+      "title": "Sleep Study Links Screen Time to Shorter Rest",
+      "summary": "Late night scrolling cuts sleep by nearly an hour on average.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-12T23:03:00Z",
+      "image": "https://picsum.photos/seed/sleep-study-links/900/600",
+      "tags": [
+        "sleep",
+        "research"
+      ],
+      "likes": 104,
+      "comments": 50,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_wearables_detect_irregular",
+      "title": "Wearables Detect Irregular Heartbeat Earlier",
+      "summary": "Watch alerts lead to diagnoses months ahead of symptoms.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-12T17:27:00Z",
+      "image": "https://picsum.photos/seed/wearables-detect-irregular/900/600",
+      "tags": [
+        "wearables",
+        "heart"
+      ],
+      "likes": 43,
+      "comments": 22,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_nurse_shortage_prompts",
+      "title": "Nurse Shortage Prompts Fast-Track Training",
+      "summary": "Accelerated programs aim to fill thousands of open posts.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-11T14:05:00Z",
+      "image": "https://picsum.photos/seed/nurse-shortage-prompts/900/600",
+      "tags": [
+        "workforce",
+        "hospitals"
+      ],
+      "likes": 407,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_mediterranean_diet_cuts",
+      "title": "Mediterranean Diet Cuts Heart Risk in Large Trial",
+      "summary": "Ten year data confirms benefits across age groups.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T14:11:00Z",
+      "image": "https://picsum.photos/seed/mediterranean-diet-cuts/900/600",
+      "tags": [
+        "nutrition",
+        "heart"
+      ],
+      "likes": 105,
+      "comments": 4,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_sugar_tax_shows",
+      "title": "Sugar Tax Shows Measurable Drop in Consumption",
+      "summary": "Sales of sweetened drinks fall by a fifth since the levy.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T09:45:00Z",
+      "image": "https://picsum.photos/seed/sugar-tax-shows/900/600",
+      "tags": [
+        "policy",
+        "nutrition"
+      ],
+      "likes": 38,
+      "comments": 51,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_hospitals_adopt_ai",
+      "title": "Hospitals Adopt AI Triage in Emergency Rooms",
+      "summary": "Early pilots shorten wait times for urgent cases.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T04:32:00Z",
+      "image": "https://picsum.photos/seed/hospitals-adopt-ai/900/600",
+      "tags": [
+        "ai",
+        "hospitals"
+      ],
+      "likes": 226,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_telehealth_visits_stabilize",
+      "title": "Telehealth Visits Stabilize After Pandemic Surge",
+      "summary": "Virtual care settles at a quarter of all appointments.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-09T07:12:00Z",
+      "image": "https://picsum.photos/seed/telehealth-visits-stabilize/900/600",
+      "tags": [
+        "telehealth"
+      ],
+      "likes": 136,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_removed_story",
+      "title": "Air Quality Alerts Now Delivered via Phone",
+      "summary": "A national service warns residents before smog peaks.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-08T15:29:00Z",
+      "image": "https://picsum.photos/seed/removed-story/900/600",
+      "tags": [
+        "air-quality",
+        "public-health"
+      ],
+      "likes": 305,
+      "comments": 11,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    }
+  ],
+  "page": 1,
+  "pageSize": 14,
+  "total": 14,
+  "nextCursor": null
+}

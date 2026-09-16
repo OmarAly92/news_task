@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "id": "a_market_week",
+      "title": "Markets Open Higher as Technology Shares Advance",
+      "summary": "Investors watch inflation data and earnings guidance.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T19:45:00Z",
+      "image": "https://picsum.photos/seed/market/900/600",
+      "tags": [
+        "markets"
+      ],
+      "likes": 51,
+      "comments": 8,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 1
+    },
+    {
+      "id": "a_mental_health_apps",
+      "title": "Mental Health Apps Face New Privacy Standards",
+      "summary": "Regulators require clear consent before sharing session data.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T18:28:00Z",
+      "image": "https://picsum.photos/seed/mental-health-apps/900/600",
+      "tags": [
+        "mental-health",
+        "privacy"
+      ],
+      "likes": 310,
+      "comments": 58,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_league_approves_expansion",
+      "title": "League Approves Expansion to Two New Cities",
+      "summary": "Franchises will begin play in the 2028 season.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T16:49:00Z",
+      "image": "https://picsum.photos/seed/league-approves-expansion/900/600",
+      "tags": [
+        "basketball",
+        "league"
+      ],
+      "likes": 178,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_allergy_season_grows",
+      "title": "Allergy Season Grows Longer With Warmer Springs",
+      "summary": "Pollen counts start weeks earlier than two decades ago.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T15:35:00Z",
+      "image": "https://picsum.photos/seed/allergy-season-grows/900/600",
+      "tags": [
+        "allergies",
+        "climate"
+      ],
+      "likes": 233,
+      "comments": 27,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_olympic_committee_adds",
+      "title": "Olympic Committee Adds Climbing Relay Event",
+      "summary": "The team format debuts at the next summer games.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T13:45:00Z",
+      "image": "https://picsum.photos/seed/olympic-committee-adds/900/600",
+      "tags": [
+        "olympics",
+        "climbing"
+      ],
+      "likes": 215,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_walking_ten_minutes",
+      "title": "Walking Ten Minutes Daily Improves Mood, Study Finds",
+      "summary": "Short outdoor walks match some medication effects for mild cases.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T11:44:00Z",
+      "image": "https://picsum.photos/seed/walking-ten-minutes/900/600",
+      "tags": [
+        "fitness",
+        "mental-health"
+      ],
+      "likes": 53,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_ancient_dna_rewrites",
+      "title": "Ancient DNA Rewrites Story of Early Migration",
+      "summary": "Genomes from a cave site point to an earlier crossing.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-13T10:00:00Z",
+      "image": "https://picsum.photos/seed/ancient-dna-rewrites/900/600",
+      "tags": [
+        "genetics",
+        "archaeology"
+      ],
+      "likes": 259,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_museum_returns_artifacts",
+      "title": "Museum Returns Artifacts After Decade of Talks",
+      "summary": "Bronze pieces head home following a landmark agreement.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-13T08:42:00Z",
+      "image": "https://picsum.photos/seed/museum-returns-artifacts/900/600",
+      "tags": [
+        "museums",
+        "heritage"
+      ],
+      "likes": 146,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_smart_home_standards",
+      "title": "Smart Home Standards Finally Talk to Each Other",
+      "summary": "A unified protocol lets devices from rival brands pair instantly.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-13T07:05:00Z",
+      "image": "https://picsum.photos/seed/smart-home-standards/900/600",
+      "tags": [
+        "iot",
+        "smart-home"
+      ],
+      "likes": 13,
+      "comments": 19,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_new_guidelines_lower",
+      "title": "New Guidelines Lower Blood Pressure Targets",
+      "summary": "Doctors advised to treat earlier in at risk patients.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T04:43:00Z",
+      "image": "https://picsum.photos/seed/new-guidelines-lower/900/600",
+      "tags": [
+        "heart",
+        "guidelines"
+      ],
+      "likes": 56,
+      "comments": 40,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    }
+  ],
+  "page": 2,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": "feed_3"
+}

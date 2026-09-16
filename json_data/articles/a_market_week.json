@@ -1,0 +1,66 @@
+{
+  "id": "a_market_week",
+  "title": "Markets Open Higher as Technology Shares Advance",
+  "summary": "Investors watch inflation data and earnings guidance.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/market-week-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "The hard part was never the technology, it was the coordination."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    }
+  ],
+  "source": "Market Brief",
+  "author": {
+    "id": "u_lina",
+    "name": "Lina Adel",
+    "avatar": "https://picsum.photos/seed/lina/120",
+    "bio": "Markets reporter based in London."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-13T19:45:00Z",
+  "updatedAt": "2026-09-13T20:00:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/market/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/market-week-1/900/600",
+    "https://picsum.photos/seed/market-week-2/900/600",
+    "https://picsum.photos/seed/market-week-3/900/600"
+  ],
+  "tags": [
+    "markets"
+  ],
+  "related": [
+    "a_payroll_data_shows",
+    "a_remote_work_policies",
+    "a_luxury_brands_slow"
+  ],
+  "likes": 51,
+  "comments": 8,
+  "isLiked": false,
+  "isBookmarked": true,
+  "version": 1
+}

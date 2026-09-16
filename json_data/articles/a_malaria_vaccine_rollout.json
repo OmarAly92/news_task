@@ -1,0 +1,67 @@
+{
+  "id": "a_malaria_vaccine_rollout",
+  "title": "Malaria Vaccine Rollout Reaches Ten Million Children",
+  "summary": "Health ministries report sharp drops in severe cases.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/malaria-vaccine-rollout-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Wellness Today",
+  "author": {
+    "id": "u_sara",
+    "name": "Sara Khalil",
+    "avatar": "https://picsum.photos/seed/sara/120",
+    "bio": "Health and medicine journalist."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-14T00:02:46Z",
+  "updatedAt": "2026-09-14T00:14:46Z",
+  "readTimeMinutes": 3,
+  "image": "https://picsum.photos/seed/malaria-vaccine-rollout/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/malaria-vaccine-rollout-1/900/600",
+    "https://picsum.photos/seed/malaria-vaccine-rollout-2/900/600",
+    "https://picsum.photos/seed/malaria-vaccine-rollout-3/900/600"
+  ],
+  "tags": [
+    "vaccines",
+    "global-health"
+  ],
+  "related": [
+    "a_gene_therapy_restores",
+    "a_nurse_shortage_prompts",
+    "a_sleep_study_links"
+  ],
+  "likes": 61,
+  "comments": 27,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_asteroid_sample_reveals",
+  "title": "Asteroid Sample Reveals Building Blocks of Life",
+  "summary": "Returned dust contains amino acids and water bearing minerals.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/asteroid-sample-reveals-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "Lab Notes",
+  "author": {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "avatar": "https://picsum.photos/seed/hana/120",
+    "bio": "Space and astronomy writer."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-08T19:31:00Z",
+  "updatedAt": "2026-09-08T20:30:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/asteroid-sample-reveals/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/asteroid-sample-reveals-1/900/600",
+    "https://picsum.photos/seed/asteroid-sample-reveals-2/900/600",
+    "https://picsum.photos/seed/asteroid-sample-reveals-3/900/600"
+  ],
+  "tags": [
+    "space",
+    "astrobiology"
+  ],
+  "related": [
+    "a_physicists_measure_gravity",
+    "a_ancient_dna_rewrites",
+    "a_climate_models_sharpen"
+  ],
+  "likes": 177,
+  "comments": 28,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

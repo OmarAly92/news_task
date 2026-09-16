@@ -1,0 +1,67 @@
+{
+  "id": "a_wearables_detect_irregular",
+  "title": "Wearables Detect Irregular Heartbeat Earlier",
+  "summary": "Watch alerts lead to diagnoses months ahead of symptoms.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/wearables-detect-irregular-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    }
+  ],
+  "source": "Pulse Report",
+  "author": {
+    "id": "u_sara",
+    "name": "Sara Khalil",
+    "avatar": "https://picsum.photos/seed/sara/120",
+    "bio": "Health and medicine journalist."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-12T17:27:00Z",
+  "updatedAt": "2026-09-12T18:41:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/wearables-detect-irregular/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/wearables-detect-irregular-1/900/600",
+    "https://picsum.photos/seed/wearables-detect-irregular-2/900/600",
+    "https://picsum.photos/seed/wearables-detect-irregular-3/900/600"
+  ],
+  "tags": [
+    "wearables",
+    "heart"
+  ],
+  "related": [
+    "a_malaria_vaccine_rollout",
+    "a_hospitals_adopt_ai",
+    "a_new_guidelines_lower"
+  ],
+  "likes": 43,
+  "comments": 22,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

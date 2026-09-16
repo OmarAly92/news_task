@@ -1,0 +1,1974 @@
+{
+  "data": [
+    {
+      "id": "a_flutter_roadmap",
+      "title": "Flutter Team Shares the Next Performance Roadmap",
+      "summary": "New rendering and tooling work targets smoother apps.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-14T08:30:00Z",
+      "image": "https://picsum.photos/seed/flutter-news/900/600",
+      "tags": [
+        "flutter",
+        "mobile"
+      ],
+      "likes": 184,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 3
+    },
+    {
+      "id": "a_clean_energy",
+      "title": "Battery Breakthrough Improves Grid Storage Efficiency",
+      "summary": "Researchers report longer cycle life in early trials.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T06:10:00Z",
+      "image": "https://picsum.photos/seed/energy/900/600",
+      "tags": [
+        "energy",
+        "research"
+      ],
+      "likes": 96,
+      "comments": 11,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_fusion_reactor_sustains",
+      "title": "Fusion Reactor Sustains Plasma for Record Duration",
+      "summary": "The reaction held steady for more than six minutes.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T04:55:33Z",
+      "image": "https://picsum.photos/seed/fusion-reactor-sustains/900/600",
+      "tags": [
+        "fusion",
+        "energy"
+      ],
+      "likes": 166,
+      "comments": 17,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_gene_therapy_restores",
+      "title": "Gene Therapy Restores Hearing in Early Trial",
+      "summary": "Children born deaf respond to sound within weeks.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-14T03:37:06Z",
+      "image": "https://picsum.photos/seed/gene-therapy-restores/900/600",
+      "tags": [
+        "gene-therapy",
+        "research"
+      ],
+      "likes": 127,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_goalkeeper_saves_two",
+      "title": "Goalkeeper Saves Two Penalties in Derby Draw",
+      "summary": "Heroics keep the points shared in a fiery local clash.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-14T02:29:39Z",
+      "image": "https://picsum.photos/seed/goalkeeper-saves-two/900/600",
+      "tags": [
+        "football",
+        "derby"
+      ],
+      "likes": 306,
+      "comments": 56,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_deep_sea_expedition",
+      "title": "Deep Sea Expedition Discovers Dozens of Species",
+      "summary": "Remote vehicles film life at depths beyond four kilometers.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T01:24:13Z",
+      "image": "https://picsum.photos/seed/deep-sea-expedition/900/600",
+      "tags": [
+        "oceans",
+        "biology"
+      ],
+      "likes": 353,
+      "comments": 7,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_malaria_vaccine_rollout",
+      "title": "Malaria Vaccine Rollout Reaches Ten Million Children",
+      "summary": "Health ministries report sharp drops in severe cases.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-14T00:02:46Z",
+      "image": "https://picsum.photos/seed/malaria-vaccine-rollout/900/600",
+      "tags": [
+        "vaccines",
+        "global-health"
+      ],
+      "likes": 61,
+      "comments": 27,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_retailers_bet_on",
+      "title": "Retailers Bet on Smaller Stores in City Centers",
+      "summary": "Compact formats target commuters and same day pickup.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T22:56:19Z",
+      "image": "https://picsum.photos/seed/retailers-bet-on/900/600",
+      "tags": [
+        "retail"
+      ],
+      "likes": 252,
+      "comments": 19,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_lowcode_tools_reshape",
+      "title": "Low-Code Tools Reshape Internal Enterprise Apps",
+      "summary": "Business teams ship dashboards without waiting for engineering.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-13T21:56:53Z",
+      "image": "https://picsum.photos/seed/lowcode-tools-reshape/900/600",
+      "tags": [
+        "low-code",
+        "enterprise"
+      ],
+      "likes": 60,
+      "comments": 45,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_rugby_union_tightens",
+      "title": "Rugby Union Tightens Concussion Protocols",
+      "summary": "Players face longer mandatory rest after head knocks.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T20:44:26Z",
+      "image": "https://picsum.photos/seed/rugby-union-tightens/900/600",
+      "tags": [
+        "rugby",
+        "safety"
+      ],
+      "likes": 95,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_market_week",
+      "title": "Markets Open Higher as Technology Shares Advance",
+      "summary": "Investors watch inflation data and earnings guidance.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T19:45:00Z",
+      "image": "https://picsum.photos/seed/market/900/600",
+      "tags": [
+        "markets"
+      ],
+      "likes": 51,
+      "comments": 8,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 1
+    },
+    {
+      "id": "a_mental_health_apps",
+      "title": "Mental Health Apps Face New Privacy Standards",
+      "summary": "Regulators require clear consent before sharing session data.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T18:28:00Z",
+      "image": "https://picsum.photos/seed/mental-health-apps/900/600",
+      "tags": [
+        "mental-health",
+        "privacy"
+      ],
+      "likes": 310,
+      "comments": 58,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_league_approves_expansion",
+      "title": "League Approves Expansion to Two New Cities",
+      "summary": "Franchises will begin play in the 2028 season.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T16:49:00Z",
+      "image": "https://picsum.photos/seed/league-approves-expansion/900/600",
+      "tags": [
+        "basketball",
+        "league"
+      ],
+      "likes": 178,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_allergy_season_grows",
+      "title": "Allergy Season Grows Longer With Warmer Springs",
+      "summary": "Pollen counts start weeks earlier than two decades ago.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T15:35:00Z",
+      "image": "https://picsum.photos/seed/allergy-season-grows/900/600",
+      "tags": [
+        "allergies",
+        "climate"
+      ],
+      "likes": 233,
+      "comments": 27,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_olympic_committee_adds",
+      "title": "Olympic Committee Adds Climbing Relay Event",
+      "summary": "The team format debuts at the next summer games.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T13:45:00Z",
+      "image": "https://picsum.photos/seed/olympic-committee-adds/900/600",
+      "tags": [
+        "olympics",
+        "climbing"
+      ],
+      "likes": 215,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_walking_ten_minutes",
+      "title": "Walking Ten Minutes Daily Improves Mood, Study Finds",
+      "summary": "Short outdoor walks match some medication effects for mild cases.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T11:44:00Z",
+      "image": "https://picsum.photos/seed/walking-ten-minutes/900/600",
+      "tags": [
+        "fitness",
+        "mental-health"
+      ],
+      "likes": 53,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_ancient_dna_rewrites",
+      "title": "Ancient DNA Rewrites Story of Early Migration",
+      "summary": "Genomes from a cave site point to an earlier crossing.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-13T10:00:00Z",
+      "image": "https://picsum.photos/seed/ancient-dna-rewrites/900/600",
+      "tags": [
+        "genetics",
+        "archaeology"
+      ],
+      "likes": 259,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_museum_returns_artifacts",
+      "title": "Museum Returns Artifacts After Decade of Talks",
+      "summary": "Bronze pieces head home following a landmark agreement.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-13T08:42:00Z",
+      "image": "https://picsum.photos/seed/museum-returns-artifacts/900/600",
+      "tags": [
+        "museums",
+        "heritage"
+      ],
+      "likes": 146,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_smart_home_standards",
+      "title": "Smart Home Standards Finally Talk to Each Other",
+      "summary": "A unified protocol lets devices from rival brands pair instantly.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-13T07:05:00Z",
+      "image": "https://picsum.photos/seed/smart-home-standards/900/600",
+      "tags": [
+        "iot",
+        "smart-home"
+      ],
+      "likes": 13,
+      "comments": 19,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_new_guidelines_lower",
+      "title": "New Guidelines Lower Blood Pressure Targets",
+      "summary": "Doctors advised to treat earlier in at risk patients.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T04:43:00Z",
+      "image": "https://picsum.photos/seed/new-guidelines-lower/900/600",
+      "tags": [
+        "heart",
+        "guidelines"
+      ],
+      "likes": 56,
+      "comments": 40,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_swimmers_break_relay",
+      "title": "Swimmers Break Relay Mark at World Championships",
+      "summary": "A blistering final leg secures gold and a new record.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T02:53:00Z",
+      "image": "https://picsum.photos/seed/swimmers-break-relay/900/600",
+      "tags": [
+        "swimming",
+        "world-championships"
+      ],
+      "likes": 251,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_luxury_brands_slow",
+      "title": "Luxury Brands Slow Expansion Amid Softer Demand",
+      "summary": "Fewer store openings as spending cools in key markets.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T01:16:00Z",
+      "image": "https://picsum.photos/seed/luxury-brands-slow/900/600",
+      "tags": [
+        "luxury",
+        "retail"
+      ],
+      "likes": 115,
+      "comments": 44,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_sleep_study_links",
+      "title": "Sleep Study Links Screen Time to Shorter Rest",
+      "summary": "Late night scrolling cuts sleep by nearly an hour on average.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-12T23:03:00Z",
+      "image": "https://picsum.photos/seed/sleep-study-links/900/600",
+      "tags": [
+        "sleep",
+        "research"
+      ],
+      "likes": 104,
+      "comments": 50,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_architecture_award_goes",
+      "title": "Architecture Award Goes to Timber Library",
+      "summary": "The mass timber building sets a new bar for public spaces.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T21:03:00Z",
+      "image": "https://picsum.photos/seed/architecture-award-goes/900/600",
+      "tags": [
+        "architecture",
+        "awards"
+      ],
+      "likes": 181,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_architecture_patterns",
+      "title": "Clean Architecture Patterns Gain Ground in Mobile Teams",
+      "summary": "Layered designs and testable domains are becoming the default.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-12T18:55:00Z",
+      "image": "https://picsum.photos/seed/architecture-patterns/900/600",
+      "tags": [
+        "architecture",
+        "flutter",
+        "mobile"
+      ],
+      "likes": 131,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_wearables_detect_irregular",
+      "title": "Wearables Detect Irregular Heartbeat Earlier",
+      "summary": "Watch alerts lead to diagnoses months ahead of symptoms.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-12T17:27:00Z",
+      "image": "https://picsum.photos/seed/wearables-detect-irregular/900/600",
+      "tags": [
+        "wearables",
+        "heart"
+      ],
+      "likes": 43,
+      "comments": 22,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_esports_finals_draw",
+      "title": "Esports Finals Draw Record Online Audience",
+      "summary": "Peak viewership tops five million concurrent streams.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-12T15:44:00Z",
+      "image": "https://picsum.photos/seed/esports-finals-draw/900/600",
+      "tags": [
+        "esports"
+      ],
+      "likes": 307,
+      "comments": 60,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_telescope_captures_earliest",
+      "title": "Telescope Captures Earliest Galaxy Yet Observed",
+      "summary": "Light from the object left it three hundred million years after the big bang.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-12T14:17:00Z",
+      "image": "https://picsum.photos/seed/telescope-captures-earliest/900/600",
+      "tags": [
+        "space",
+        "astronomy"
+      ],
+      "likes": 160,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_poetry_sales_climb",
+      "title": "Poetry Sales Climb as Short Verse Goes Viral",
+      "summary": "Social platforms drive a new generation of readers.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T12:36:00Z",
+      "image": "https://picsum.photos/seed/poetry-sales-climb/900/600",
+      "tags": [
+        "books",
+        "poetry"
+      ],
+      "likes": 377,
+      "comments": 14,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_novelist_wins_prize",
+      "title": "Novelist Wins Prize for Debut About Migration",
+      "summary": "Judges praise the book's quiet, precise storytelling.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T10:15:00Z",
+      "image": "https://picsum.photos/seed/novelist-wins-prize/900/600",
+      "tags": [
+        "books",
+        "awards"
+      ],
+      "likes": 338,
+      "comments": 46,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 6
+    },
+    {
+      "id": "a_streaming_series_revives",
+      "title": "Streaming Series Revives Interest in Folk Music",
+      "summary": "Soundtrack sales surge as viewers discover traditional songs.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T07:57:00Z",
+      "image": "https://picsum.photos/seed/streaming-series-revives/900/600",
+      "tags": [
+        "music",
+        "streaming"
+      ],
+      "likes": 200,
+      "comments": 24,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_electric_truck_maker",
+      "title": "Electric Truck Maker Lands Major Fleet Order",
+      "summary": "A logistics giant commits to two thousand vehicles by 2028.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T06:14:00Z",
+      "image": "https://picsum.photos/seed/electric-truck-maker/900/600",
+      "tags": [
+        "ev",
+        "logistics"
+      ],
+      "likes": 391,
+      "comments": 53,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_grocery_chains_expand",
+      "title": "Grocery Chains Expand Private Label Brands",
+      "summary": "Store brands gain share as shoppers trade down.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T03:50:00Z",
+      "image": "https://picsum.photos/seed/grocery-chains-expand/900/600",
+      "tags": [
+        "retail",
+        "consumer"
+      ],
+      "likes": 314,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_small_businesses_adopt",
+      "title": "Small Businesses Adopt AI Bookkeeping Tools",
+      "summary": "Automated ledgers cut accounting hours for shop owners.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T01:46:00Z",
+      "image": "https://picsum.photos/seed/small-businesses-adopt/900/600",
+      "tags": [
+        "ai",
+        "small-business"
+      ],
+      "likes": 117,
+      "comments": 54,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_airlines_post_record",
+      "title": "Airlines Post Record Summer Passenger Numbers",
+      "summary": "Strong leisure demand offsets higher fuel costs.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T23:22:00Z",
+      "image": "https://picsum.photos/seed/airlines-post-record/900/600",
+      "tags": [
+        "travel",
+        "earnings"
+      ],
+      "likes": 387,
+      "comments": 49,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_volcano_monitoring_gets",
+      "title": "Volcano Monitoring Gets Real-Time Satellite Feed",
+      "summary": "Thermal imaging alerts arrive within minutes of activity.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T21:21:00Z",
+      "image": "https://picsum.photos/seed/volcano-monitoring-gets/900/600",
+      "tags": [
+        "geology",
+        "satellites"
+      ],
+      "likes": 262,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_researchers_map_coral",
+      "title": "Researchers Map Coral Genome to Aid Reef Recovery",
+      "summary": "Heat tolerant genes could guide restoration efforts.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T19:25:00Z",
+      "image": "https://picsum.photos/seed/researchers-map-coral/900/600",
+      "tags": [
+        "biology",
+        "climate"
+      ],
+      "likes": 36,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_chipmakers_race_to",
+      "title": "Chipmakers Race to Cut Power Draw in Data Centers",
+      "summary": "New accelerators promise the same throughput at half the wattage.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T17:47:00Z",
+      "image": "https://picsum.photos/seed/chipmakers-race-to/900/600",
+      "tags": [
+        "hardware",
+        "energy"
+      ],
+      "likes": 312,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_cycling_tour_reroutes",
+      "title": "Cycling Tour Reroutes Stage After Heavy Rain",
+      "summary": "Organizers cut a mountain pass to keep riders safe.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T16:20:00Z",
+      "image": "https://picsum.photos/seed/cycling-tour-reroutes/900/600",
+      "tags": [
+        "cycling"
+      ],
+      "likes": 193,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_nurse_shortage_prompts",
+      "title": "Nurse Shortage Prompts Fast-Track Training",
+      "summary": "Accelerated programs aim to fill thousands of open posts.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-11T14:05:00Z",
+      "image": "https://picsum.photos/seed/nurse-shortage-prompts/900/600",
+      "tags": [
+        "workforce",
+        "hospitals"
+      ],
+      "likes": 407,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_open_source_maintainers",
+      "title": "Open Source Maintainers Push Back on Licensing Changes",
+      "summary": "Community projects weigh forks after a popular license switch.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T11:52:00Z",
+      "image": "https://picsum.photos/seed/open-source-maintainers/900/600",
+      "tags": [
+        "open-source",
+        "licensing"
+      ],
+      "likes": 18,
+      "comments": 25,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_shipping_costs_fall",
+      "title": "Shipping Costs Fall as Port Congestion Eases",
+      "summary": "Container rates drop to pre-pandemic levels on key routes.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T10:31:00Z",
+      "image": "https://picsum.photos/seed/shipping-costs-fall/900/600",
+      "tags": [
+        "logistics",
+        "trade"
+      ],
+      "likes": 332,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_cricket_board_introduces",
+      "title": "Cricket Board Introduces Shorter Format Trial",
+      "summary": "A sixty ball match aims to attract younger fans.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T09:15:00Z",
+      "image": "https://picsum.photos/seed/cricket-board-introduces/900/600",
+      "tags": [
+        "cricket"
+      ],
+      "likes": 342,
+      "comments": 8,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_golf_prodigy_wins",
+      "title": "Golf Prodigy Wins First Major at Nineteen",
+      "summary": "A final round sixty five clinches the youngest win in decades.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T07:51:00Z",
+      "image": "https://picsum.photos/seed/golf-prodigy-wins/900/600",
+      "tags": [
+        "golf"
+      ],
+      "likes": 183,
+      "comments": 16,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_chip_shortage_ends",
+      "title": "Chip Shortage Ends as Inventories Normalize",
+      "summary": "Automakers report full supply for the first time in three years.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T06:22:00Z",
+      "image": "https://picsum.photos/seed/chip-shortage-ends/900/600",
+      "tags": [
+        "supply-chain",
+        "semiconductors"
+      ],
+      "likes": 332,
+      "comments": 1,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_new_catalyst_turns",
+      "title": "New Catalyst Turns Carbon Dioxide Into Fuel",
+      "summary": "A copper alloy converts emissions into ethanol at room temperature.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T03:52:00Z",
+      "image": "https://picsum.photos/seed/new-catalyst-turns/900/600",
+      "tags": [
+        "chemistry",
+        "energy"
+      ],
+      "likes": 310,
+      "comments": 11,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_payroll_data_shows",
+      "title": "Payroll Data Shows Steady Wage Growth",
+      "summary": "Earnings rise faster than prices for a fourth month.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T02:22:00Z",
+      "image": "https://picsum.photos/seed/payroll-data-shows/900/600",
+      "tags": [
+        "economy",
+        "jobs"
+      ],
+      "likes": 17,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_foldable_phones_finally",
+      "title": "Foldable Phones Finally Reach Mainstream Pricing",
+      "summary": "Cheaper hinges and panels bring foldables under the flagship line.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T00:18:00Z",
+      "image": "https://picsum.photos/seed/foldable-phones-finally/900/600",
+      "tags": [
+        "hardware",
+        "mobile"
+      ],
+      "likes": 347,
+      "comments": 30,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_webassembly_runtimes_move",
+      "title": "WebAssembly Runtimes Move Into Production Backends",
+      "summary": "Sandboxed modules replace containers for lightweight services.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T21:52:00Z",
+      "image": "https://picsum.photos/seed/webassembly-runtimes-move/900/600",
+      "tags": [
+        "wasm",
+        "backend"
+      ],
+      "likes": 234,
+      "comments": 15,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_lab_grown_wood",
+      "title": "Lab Grown Wood Could Cut Deforestation",
+      "summary": "Plant cells cultured in tanks form usable timber.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T20:34:00Z",
+      "image": "https://picsum.photos/seed/lab-grown-wood/900/600",
+      "tags": [
+        "biotech",
+        "materials"
+      ],
+      "likes": 62,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_theater_company_stages",
+      "title": "Theater Company Stages Play in Total Darkness",
+      "summary": "Audiences experience the drama through sound alone.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-10T18:35:00Z",
+      "image": "https://picsum.photos/seed/theater-company-stages/900/600",
+      "tags": [
+        "theater"
+      ],
+      "likes": 332,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_quantum_startups_report",
+      "title": "Quantum Startups Report First Error-Corrected Qubits",
+      "summary": "Logical qubits stay stable long enough for small algorithms.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T16:37:00Z",
+      "image": "https://picsum.photos/seed/quantum-startups-report/900/600",
+      "tags": [
+        "quantum",
+        "research"
+      ],
+      "likes": 96,
+      "comments": 47,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_mediterranean_diet_cuts",
+      "title": "Mediterranean Diet Cuts Heart Risk in Large Trial",
+      "summary": "Ten year data confirms benefits across age groups.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T14:11:00Z",
+      "image": "https://picsum.photos/seed/mediterranean-diet-cuts/900/600",
+      "tags": [
+        "nutrition",
+        "heart"
+      ],
+      "likes": 105,
+      "comments": 4,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_fintech_firms_seek",
+      "title": "Fintech Firms Seek Bank Charters to Cut Costs",
+      "summary": "Owning the rails lets startups keep more of each transaction.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-10T12:02:00Z",
+      "image": "https://picsum.photos/seed/fintech-firms-seek/900/600",
+      "tags": [
+        "fintech",
+        "banking"
+      ],
+      "likes": 274,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_sugar_tax_shows",
+      "title": "Sugar Tax Shows Measurable Drop in Consumption",
+      "summary": "Sales of sweetened drinks fall by a fifth since the levy.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T09:45:00Z",
+      "image": "https://picsum.photos/seed/sugar-tax-shows/900/600",
+      "tags": [
+        "policy",
+        "nutrition"
+      ],
+      "likes": 38,
+      "comments": 51,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_mars_rover_finds",
+      "title": "Mars Rover Finds Evidence of Ancient River Delta",
+      "summary": "Layered sediments suggest water flowed for thousands of years.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T08:03:00Z",
+      "image": "https://picsum.photos/seed/mars-rover-finds/900/600",
+      "tags": [
+        "space",
+        "mars"
+      ],
+      "likes": 313,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 5
+    },
+    {
+      "id": "a_satellite_broadband_expands",
+      "title": "Satellite Broadband Expands to Remote Classrooms",
+      "summary": "Low orbit networks connect schools far from fiber lines.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T05:43:00Z",
+      "image": "https://picsum.photos/seed/satellite-broadband-expands/900/600",
+      "tags": [
+        "connectivity",
+        "education"
+      ],
+      "likes": 306,
+      "comments": 43,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_hospitals_adopt_ai",
+      "title": "Hospitals Adopt AI Triage in Emergency Rooms",
+      "summary": "Early pilots shorten wait times for urgent cases.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T04:32:00Z",
+      "image": "https://picsum.photos/seed/hospitals-adopt-ai/900/600",
+      "tags": [
+        "ai",
+        "hospitals"
+      ],
+      "likes": 226,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_climate_models_sharpen",
+      "title": "Climate Models Sharpen Regional Rainfall Forecasts",
+      "summary": "Higher resolution simulations improve seasonal predictions.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T03:08:00Z",
+      "image": "https://picsum.photos/seed/climate-models-sharpen/900/600",
+      "tags": [
+        "climate",
+        "research"
+      ],
+      "likes": 184,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_dart_tooling",
+      "title": "Dart Tooling Update Speeds Up Hot Reload for Large Apps",
+      "summary": "Incremental compilation cuts reload times on big codebases.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T00:50:00Z",
+      "image": "https://picsum.photos/seed/dart-tooling/900/600",
+      "tags": [
+        "dart",
+        "flutter",
+        "tooling"
+      ],
+      "likes": 357,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_ocean_current_slowdown",
+      "title": "Ocean Current Slowdown Confirmed by New Study",
+      "summary": "Decades of measurements show a weakening Atlantic circulation.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T23:06:00Z",
+      "image": "https://picsum.photos/seed/ocean-current-slowdown/900/600",
+      "tags": [
+        "oceans",
+        "climate"
+      ],
+      "likes": 111,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_physicists_measure_gravity",
+      "title": "Physicists Measure Gravity at Microscopic Scale",
+      "summary": "The experiment detects attraction between milligram masses.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T21:13:00Z",
+      "image": "https://picsum.photos/seed/physicists-measure-gravity/900/600",
+      "tags": [
+        "physics"
+      ],
+      "likes": 54,
+      "comments": 25,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_video_game_soundtrack",
+      "title": "Video Game Soundtrack Performed by Symphony",
+      "summary": "Orchestral arrangements sell out a three night run.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T19:49:00Z",
+      "image": "https://picsum.photos/seed/video-game-soundtrack/900/600",
+      "tags": [
+        "music",
+        "games"
+      ],
+      "likes": 174,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_formula_teams_unveil",
+      "title": "Formula Teams Unveil Lighter Chassis for New Season",
+      "summary": "Rule changes push engineers toward smaller, nimbler cars.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T18:02:00Z",
+      "image": "https://picsum.photos/seed/formula-teams-unveil/900/600",
+      "tags": [
+        "motorsport"
+      ],
+      "likes": 63,
+      "comments": 7,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_photography_show_documents",
+      "title": "Photography Show Documents Vanishing Villages",
+      "summary": "Portraits capture communities before relocation.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T15:57:00Z",
+      "image": "https://picsum.photos/seed/photography-show-documents/900/600",
+      "tags": [
+        "photography",
+        "exhibition"
+      ],
+      "likes": 107,
+      "comments": 54,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_dance_troupe_blends",
+      "title": "Dance Troupe Blends Robotics and Ballet",
+      "summary": "Mechanical partners share the stage with human dancers.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T14:27:00Z",
+      "image": "https://picsum.photos/seed/dance-troupe-blends/900/600",
+      "tags": [
+        "dance",
+        "technology"
+      ],
+      "likes": 139,
+      "comments": 57,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_bird_migration_tracked",
+      "title": "Bird Migration Tracked With Tiny Solar Tags",
+      "summary": "Lightweight sensors reveal routes across three continents.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T12:19:00Z",
+      "image": "https://picsum.photos/seed/bird-migration-tracked/900/600",
+      "tags": [
+        "ecology",
+        "wildlife"
+      ],
+      "likes": 21,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_energy_companies_shift",
+      "title": "Energy Companies Shift Budgets Toward Renewables",
+      "summary": "Capital spending on wind and solar overtakes oil exploration.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-09T11:09:00Z",
+      "image": "https://picsum.photos/seed/energy-companies-shift/900/600",
+      "tags": [
+        "energy",
+        "renewables"
+      ],
+      "likes": 309,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_film_festival_opens",
+      "title": "Film Festival Opens With Restored Silent Classic",
+      "summary": "A century old print returns with a newly composed score.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T09:26:00Z",
+      "image": "https://picsum.photos/seed/film-festival-opens/900/600",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "likes": 325,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_telehealth_visits_stabilize",
+      "title": "Telehealth Visits Stabilize After Pandemic Surge",
+      "summary": "Virtual care settles at a quarter of all appointments.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-09T07:12:00Z",
+      "image": "https://picsum.photos/seed/telehealth-visits-stabilize/900/600",
+      "tags": [
+        "telehealth"
+      ],
+      "likes": 136,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_tennis_star_announces",
+      "title": "Tennis Star Announces Return After Injury Layoff",
+      "summary": "Comeback planned for the season's first hard court swing.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T05:40:00Z",
+      "image": "https://picsum.photos/seed/tennis-star-announces/900/600",
+      "tags": [
+        "tennis"
+      ],
+      "likes": 91,
+      "comments": 47,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_underdogs_stun_champions",
+      "title": "Underdogs Stun Champions in Cup Final Thriller",
+      "summary": "A late header seals a first major trophy for the club.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T03:26:00Z",
+      "image": "https://picsum.photos/seed/underdogs-stun-champions/900/600",
+      "tags": [
+        "football",
+        "cup-final"
+      ],
+      "likes": 232,
+      "comments": 42,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_street_artists_transform",
+      "title": "Street Artists Transform Abandoned Rail Yard",
+      "summary": "Murals and light installations open the site to the public.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T02:03:00Z",
+      "image": "https://picsum.photos/seed/street-artists-transform/900/600",
+      "tags": [
+        "art",
+        "urban"
+      ],
+      "likes": 215,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_fashion_week_spotlights",
+      "title": "Fashion Week Spotlights Upcycled Collections",
+      "summary": "Designers rework deadstock fabric into runway pieces.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-08T23:33:00Z",
+      "image": "https://picsum.photos/seed/fashion-week-spotlights/900/600",
+      "tags": [
+        "fashion",
+        "sustainability"
+      ],
+      "likes": 27,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_passkeys_replace_passwords",
+      "title": "Passkeys Replace Passwords Across Major Platforms",
+      "summary": "Password-less sign in is now the default on new accounts.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T21:45:00Z",
+      "image": "https://picsum.photos/seed/passkeys-replace-passwords/900/600",
+      "tags": [
+        "security",
+        "identity"
+      ],
+      "likes": 358,
+      "comments": 11,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_asteroid_sample_reveals",
+      "title": "Asteroid Sample Reveals Building Blocks of Life",
+      "summary": "Returned dust contains amino acids and water bearing minerals.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-08T19:31:00Z",
+      "image": "https://picsum.photos/seed/asteroid-sample-reveals/900/600",
+      "tags": [
+        "space",
+        "astrobiology"
+      ],
+      "likes": 177,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_rust_adoption_grows",
+      "title": "Rust Adoption Grows in Operating System Kernels",
+      "summary": "Memory safe drivers land in mainline releases this year.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T17:04:00Z",
+      "image": "https://picsum.photos/seed/rust-adoption-grows/900/600",
+      "tags": [
+        "rust",
+        "systems"
+      ],
+      "likes": 113,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_removed_story",
+      "title": "Air Quality Alerts Now Delivered via Phone",
+      "summary": "A national service warns residents before smog peaks.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-08T15:29:00Z",
+      "image": "https://picsum.photos/seed/removed-story/900/600",
+      "tags": [
+        "air-quality",
+        "public-health"
+      ],
+      "likes": 305,
+      "comments": 11,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_central_banks_signal",
+      "title": "Central Banks Signal Pause on Interest Rate Hikes",
+      "summary": "Policy makers point to cooling prices and slower hiring.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "image": "https://picsum.photos/seed/central-banks-signal/900/600",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "likes": 188,
+      "comments": 2,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_remote_work_policies",
+      "title": "Remote Work Policies Settle Into Hybrid Norm",
+      "summary": "Most large employers land on three days in the office.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T12:03:00Z",
+      "image": "https://picsum.photos/seed/remote-work-policies/900/600",
+      "tags": [
+        "workplace"
+      ],
+      "likes": 53,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_marathon_record_falls",
+      "title": "Marathon Record Falls on Fast Berlin Course",
+      "summary": "Perfect conditions help shave nine seconds off the world best.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T10:33:00Z",
+      "image": "https://picsum.photos/seed/marathon-record-falls/900/600",
+      "tags": [
+        "athletics",
+        "marathon"
+      ],
+      "likes": 205,
+      "comments": 46,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_youth_academy_produces",
+      "title": "Youth Academy Produces Third Straight Debutant",
+      "summary": "Another teenager steps up to the senior squad.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T08:14:00Z",
+      "image": "https://picsum.photos/seed/youth-academy-produces/900/600",
+      "tags": [
+        "football",
+        "youth"
+      ],
+      "likes": 117,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_basketball_rookie_sets",
+      "title": "Basketball Rookie Sets Scoring Record in Debut",
+      "summary": "Forty two points mark the best first game in league history.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T05:57:00Z",
+      "image": "https://picsum.photos/seed/basketball-rookie-sets/900/600",
+      "tags": [
+        "basketball",
+        "rookie"
+      ],
+      "likes": 140,
+      "comments": 37,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_edge_devices_get",
+      "title": "Edge Devices Get Smaller Language Models Built In",
+      "summary": "On-device inference brings assistants to phones and sensors.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T04:47:00Z",
+      "image": "https://picsum.photos/seed/edge-devices-get/900/600",
+      "tags": [
+        "ai",
+        "edge",
+        "mobile"
+      ],
+      "likes": 249,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_startup_funding_rebounds",
+      "title": "Startup Funding Rebounds in Third Quarter Report",
+      "summary": "Late stage rounds return as valuations settle.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T02:21:00Z",
+      "image": "https://picsum.photos/seed/startup-funding-rebounds/900/600",
+      "tags": [
+        "startups",
+        "venture"
+      ],
+      "likes": 368,
+      "comments": 32,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_podcast_adaptation_tops",
+      "title": "Podcast Adaptation Tops Book Charts",
+      "summary": "A true crime series becomes a bestselling paperback.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-08T00:30:00Z",
+      "image": "https://picsum.photos/seed/podcast-adaptation-tops/900/600",
+      "tags": [
+        "books",
+        "podcasts"
+      ],
+      "likes": 103,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    }
+  ],
+  "total": 86
+}

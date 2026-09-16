@@ -1,0 +1,36 @@
+{
+  "query": "flutter",
+  "topicId": "t_technology",
+  "data": [
+    {
+      "id": "a_flutter_roadmap",
+      "title": "Flutter Team Shares the Next Performance Roadmap",
+      "summary": "New rendering and tooling work targets smoother apps.",
+      "source": "Mobile Daily",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-14T08:30:00Z",
+      "image": "https://picsum.photos/seed/flutter-news/900/600"
+    },
+    {
+      "id": "a_architecture_patterns",
+      "title": "Clean Architecture Patterns Gain Ground in Mobile Teams",
+      "summary": "Layered designs and testable domains are becoming the default.",
+      "source": "Future Stack",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-12T18:55:00Z",
+      "image": "https://picsum.photos/seed/architecture-patterns/900/600"
+    },
+    {
+      "id": "a_dart_tooling",
+      "title": "Dart Tooling Update Speeds Up Hot Reload for Large Apps",
+      "summary": "Incremental compilation cuts reload times on big codebases.",
+      "source": "Mobile Daily",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T00:50:00Z",
+      "image": "https://picsum.photos/seed/dart-tooling/900/600"
+    }
+  ],
+  "page": 1,
+  "pageSize": 10,
+  "total": 3
+}

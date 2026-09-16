@@ -1,0 +1,67 @@
+{
+  "id": "a_shipping_costs_fall",
+  "title": "Shipping Costs Fall as Port Congestion Eases",
+  "summary": "Container rates drop to pre-pandemic levels on key routes.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/shipping-costs-fall-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Global Ledger",
+  "author": {
+    "id": "u_lina",
+    "name": "Lina Adel",
+    "avatar": "https://picsum.photos/seed/lina/120",
+    "bio": "Markets reporter based in London."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-11T10:31:00Z",
+  "updatedAt": "2026-09-11T11:51:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/shipping-costs-fall/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/shipping-costs-fall-1/900/600",
+    "https://picsum.photos/seed/shipping-costs-fall-2/900/600",
+    "https://picsum.photos/seed/shipping-costs-fall-3/900/600"
+  ],
+  "tags": [
+    "logistics",
+    "trade"
+  ],
+  "related": [
+    "a_market_week",
+    "a_grocery_chains_expand",
+    "a_electric_truck_maker"
+  ],
+  "likes": 332,
+  "comments": 18,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 6
+}

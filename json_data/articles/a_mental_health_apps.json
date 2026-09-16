@@ -1,0 +1,67 @@
+{
+  "id": "a_mental_health_apps",
+  "title": "Mental Health Apps Face New Privacy Standards",
+  "summary": "Regulators require clear consent before sharing session data.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/mental-health-apps-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "Care Digest",
+  "author": {
+    "id": "u_amira",
+    "name": "Amira Farouk",
+    "avatar": "https://picsum.photos/seed/amira/120",
+    "bio": "Public health policy reporter."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-13T18:28:00Z",
+  "updatedAt": "2026-09-13T19:35:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/mental-health-apps/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/mental-health-apps-1/900/600",
+    "https://picsum.photos/seed/mental-health-apps-2/900/600",
+    "https://picsum.photos/seed/mental-health-apps-3/900/600"
+  ],
+  "tags": [
+    "mental-health",
+    "privacy"
+  ],
+  "related": [
+    "a_new_guidelines_lower",
+    "a_walking_ten_minutes",
+    "a_gene_therapy_restores"
+  ],
+  "likes": 310,
+  "comments": 58,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 6
+}

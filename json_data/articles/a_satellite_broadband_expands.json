@@ -1,0 +1,67 @@
+{
+  "id": "a_satellite_broadband_expands",
+  "title": "Satellite Broadband Expands to Remote Classrooms",
+  "summary": "Low orbit networks connect schools far from fiber lines.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/satellite-broadband-expands-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "TechWire",
+  "author": {
+    "id": "u_maya",
+    "name": "Maya Chen",
+    "avatar": "https://picsum.photos/seed/maya/120",
+    "bio": "Mobile technology editor."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-10T05:43:00Z",
+  "updatedAt": "2026-09-10T06:18:00Z",
+  "readTimeMinutes": 3,
+  "image": "https://picsum.photos/seed/satellite-broadband-expands/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/satellite-broadband-expands-1/900/600",
+    "https://picsum.photos/seed/satellite-broadband-expands-2/900/600",
+    "https://picsum.photos/seed/satellite-broadband-expands-3/900/600"
+  ],
+  "tags": [
+    "connectivity",
+    "education"
+  ],
+  "related": [
+    "a_quantum_startups_report",
+    "a_chipmakers_race_to",
+    "a_smart_home_standards"
+  ],
+  "likes": 306,
+  "comments": 43,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

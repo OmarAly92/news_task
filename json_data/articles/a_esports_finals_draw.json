@@ -1,0 +1,66 @@
+{
+  "id": "a_esports_finals_draw",
+  "title": "Esports Finals Draw Record Online Audience",
+  "summary": "Peak viewership tops five million concurrent streams.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/esports-finals-draw-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Arena News",
+  "author": {
+    "id": "u_leo",
+    "name": "Leo Marchetti",
+    "avatar": "https://picsum.photos/seed/leo/120",
+    "bio": "Football and Olympic sports analyst."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-12T15:44:00Z",
+  "updatedAt": "2026-09-12T16:14:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/esports-finals-draw/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/esports-finals-draw-1/900/600",
+    "https://picsum.photos/seed/esports-finals-draw-2/900/600",
+    "https://picsum.photos/seed/esports-finals-draw-3/900/600"
+  ],
+  "tags": [
+    "esports"
+  ],
+  "related": [
+    "a_cricket_board_introduces",
+    "a_goalkeeper_saves_two",
+    "a_underdogs_stun_champions"
+  ],
+  "likes": 307,
+  "comments": 60,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

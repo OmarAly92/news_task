@@ -1,0 +1,62 @@
+{
+  "id": "a_flutter_roadmap",
+  "title": "Flutter Team Shares the Next Performance Roadmap",
+  "summary": "New rendering and tooling work targets smoother apps.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The roadmap focuses on startup time, frame consistency, and a leaner build pipeline for large applications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rendering work targets fewer dropped frames on mid-range devices, while new tooling surfaces jank before it ships."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/rendering/900/500",
+      "caption": "Rendering pipeline overview shared by the team."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Developers can try preview builds on the beta channel, with stable releases expected over the coming quarters."
+    }
+  ],
+  "source": "Mobile Daily",
+  "author": {
+    "id": "u_maya",
+    "name": "Maya Chen",
+    "avatar": "https://picsum.photos/seed/maya/120",
+    "bio": "Mobile technology editor."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-14T08:30:00Z",
+  "updatedAt": "2026-09-14T09:12:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/flutter-news/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/flutter-roadmap-1/900/600",
+    "https://picsum.photos/seed/flutter-roadmap-2/900/600",
+    "https://picsum.photos/seed/flutter-roadmap-3/900/600"
+  ],
+  "tags": [
+    "flutter",
+    "mobile"
+  ],
+  "related": [
+    "a_architecture_patterns",
+    "a_dart_tooling"
+  ],
+  "likes": 184,
+  "comments": 29,
+  "isLiked": false,
+  "isBookmarked": true,
+  "version": 3
+}

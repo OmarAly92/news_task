@@ -1,0 +1,67 @@
+{
+  "id": "a_nurse_shortage_prompts",
+  "title": "Nurse Shortage Prompts Fast-Track Training",
+  "summary": "Accelerated programs aim to fill thousands of open posts.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/nurse-shortage-prompts-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    }
+  ],
+  "source": "Care Digest",
+  "author": {
+    "id": "u_amira",
+    "name": "Amira Farouk",
+    "avatar": "https://picsum.photos/seed/amira/120",
+    "bio": "Public health policy reporter."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-11T14:05:00Z",
+  "updatedAt": "2026-09-11T14:53:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/nurse-shortage-prompts/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/nurse-shortage-prompts-1/900/600",
+    "https://picsum.photos/seed/nurse-shortage-prompts-2/900/600",
+    "https://picsum.photos/seed/nurse-shortage-prompts-3/900/600"
+  ],
+  "tags": [
+    "workforce",
+    "hospitals"
+  ],
+  "related": [
+    "a_gene_therapy_restores",
+    "a_walking_ten_minutes",
+    "a_wearables_detect_irregular"
+  ],
+  "likes": 407,
+  "comments": 52,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

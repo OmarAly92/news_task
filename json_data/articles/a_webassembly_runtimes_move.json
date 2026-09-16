@@ -1,0 +1,67 @@
+{
+  "id": "a_webassembly_runtimes_move",
+  "title": "WebAssembly Runtimes Move Into Production Backends",
+  "summary": "Sandboxed modules replace containers for lightweight services.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/webassembly-runtimes-move-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    }
+  ],
+  "source": "Mobile Daily",
+  "author": {
+    "id": "u_maya",
+    "name": "Maya Chen",
+    "avatar": "https://picsum.photos/seed/maya/120",
+    "bio": "Mobile technology editor."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-10T21:52:00Z",
+  "updatedAt": "2026-09-10T23:17:00Z",
+  "readTimeMinutes": 3,
+  "image": "https://picsum.photos/seed/webassembly-runtimes-move/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/webassembly-runtimes-move-1/900/600",
+    "https://picsum.photos/seed/webassembly-runtimes-move-2/900/600",
+    "https://picsum.photos/seed/webassembly-runtimes-move-3/900/600"
+  ],
+  "tags": [
+    "wasm",
+    "backend"
+  ],
+  "related": [
+    "a_rust_adoption_grows",
+    "a_passkeys_replace_passwords",
+    "a_open_source_maintainers"
+  ],
+  "likes": 234,
+  "comments": 15,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

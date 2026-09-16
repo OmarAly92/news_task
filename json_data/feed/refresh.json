@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": "a_ai_policy",
+      "title": "Governments Draft Shared Rules for Frontier AI Models",
+      "summary": "A joint framework would set testing and disclosure requirements.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-14T10:05:00Z",
+      "image": "https://picsum.photos/seed/ai-policy/900/600",
+      "tags": [
+        "ai",
+        "policy"
+      ],
+      "likes": 210,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_comic_convention",
+      "title": "Comic Convention Draws Record Crowds Downtown",
+      "summary": "Cosplay parade and indie artists take over the city center.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-14T09:40:00Z",
+      "image": "https://picsum.photos/seed/comic-convention/900/600",
+      "tags": [
+        "comics",
+        "events"
+      ],
+      "likes": 280,
+      "comments": 48,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    }
+  ],
+  "updated": [
+    {
+      "id": "a_flutter_roadmap",
+      "title": "Flutter Team Shares the Next Performance Roadmap",
+      "summary": "New rendering and tooling work targets smoother apps.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-14T08:30:00Z",
+      "image": "https://picsum.photos/seed/flutter-news/900/600",
+      "tags": [
+        "flutter",
+        "mobile"
+      ],
+      "likes": 186,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 5
+    }
+  ],
+  "deleted": [
+    "a_removed_story"
+  ],
+  "serverTime": "2026-09-14T10:15:00Z"
+}

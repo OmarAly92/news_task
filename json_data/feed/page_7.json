@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "id": "a_ocean_current_slowdown",
+      "title": "Ocean Current Slowdown Confirmed by New Study",
+      "summary": "Decades of measurements show a weakening Atlantic circulation.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T23:06:00Z",
+      "image": "https://picsum.photos/seed/ocean-current-slowdown/900/600",
+      "tags": [
+        "oceans",
+        "climate"
+      ],
+      "likes": 111,
+      "comments": 10,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_physicists_measure_gravity",
+      "title": "Physicists Measure Gravity at Microscopic Scale",
+      "summary": "The experiment detects attraction between milligram masses.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T21:13:00Z",
+      "image": "https://picsum.photos/seed/physicists-measure-gravity/900/600",
+      "tags": [
+        "physics"
+      ],
+      "likes": 54,
+      "comments": 25,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_video_game_soundtrack",
+      "title": "Video Game Soundtrack Performed by Symphony",
+      "summary": "Orchestral arrangements sell out a three night run.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T19:49:00Z",
+      "image": "https://picsum.photos/seed/video-game-soundtrack/900/600",
+      "tags": [
+        "music",
+        "games"
+      ],
+      "likes": 174,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_formula_teams_unveil",
+      "title": "Formula Teams Unveil Lighter Chassis for New Season",
+      "summary": "Rule changes push engineers toward smaller, nimbler cars.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T18:02:00Z",
+      "image": "https://picsum.photos/seed/formula-teams-unveil/900/600",
+      "tags": [
+        "motorsport"
+      ],
+      "likes": 63,
+      "comments": 7,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_photography_show_documents",
+      "title": "Photography Show Documents Vanishing Villages",
+      "summary": "Portraits capture communities before relocation.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T15:57:00Z",
+      "image": "https://picsum.photos/seed/photography-show-documents/900/600",
+      "tags": [
+        "photography",
+        "exhibition"
+      ],
+      "likes": 107,
+      "comments": 54,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_dance_troupe_blends",
+      "title": "Dance Troupe Blends Robotics and Ballet",
+      "summary": "Mechanical partners share the stage with human dancers.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T14:27:00Z",
+      "image": "https://picsum.photos/seed/dance-troupe-blends/900/600",
+      "tags": [
+        "dance",
+        "technology"
+      ],
+      "likes": 139,
+      "comments": 57,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_bird_migration_tracked",
+      "title": "Bird Migration Tracked With Tiny Solar Tags",
+      "summary": "Lightweight sensors reveal routes across three continents.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-09T12:19:00Z",
+      "image": "https://picsum.photos/seed/bird-migration-tracked/900/600",
+      "tags": [
+        "ecology",
+        "wildlife"
+      ],
+      "likes": 21,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_energy_companies_shift",
+      "title": "Energy Companies Shift Budgets Toward Renewables",
+      "summary": "Capital spending on wind and solar overtakes oil exploration.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-09T11:09:00Z",
+      "image": "https://picsum.photos/seed/energy-companies-shift/900/600",
+      "tags": [
+        "energy",
+        "renewables"
+      ],
+      "likes": 309,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_film_festival_opens",
+      "title": "Film Festival Opens With Restored Silent Classic",
+      "summary": "A century old print returns with a newly composed score.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T09:26:00Z",
+      "image": "https://picsum.photos/seed/film-festival-opens/900/600",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "likes": 325,
+      "comments": 18,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_telehealth_visits_stabilize",
+      "title": "Telehealth Visits Stabilize After Pandemic Surge",
+      "summary": "Virtual care settles at a quarter of all appointments.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-09T07:12:00Z",
+      "image": "https://picsum.photos/seed/telehealth-visits-stabilize/900/600",
+      "tags": [
+        "telehealth"
+      ],
+      "likes": 136,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    }
+  ],
+  "page": 7,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": "feed_8"
+}

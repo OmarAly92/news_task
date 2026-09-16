@@ -1,0 +1,68 @@
+{
+  "id": "a_edge_devices_get",
+  "title": "Edge Devices Get Smaller Language Models Built In",
+  "summary": "On-device inference brings assistants to phones and sensors.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/edge-devices-get-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Mobile Daily",
+  "author": {
+    "id": "u_tom",
+    "name": "Tom Okafor",
+    "avatar": "https://picsum.photos/seed/tom/120",
+    "bio": "Developer tools and open source reporter."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-08T04:47:00Z",
+  "updatedAt": "2026-09-08T05:43:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/edge-devices-get/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/edge-devices-get-1/900/600",
+    "https://picsum.photos/seed/edge-devices-get-2/900/600",
+    "https://picsum.photos/seed/edge-devices-get-3/900/600"
+  ],
+  "tags": [
+    "ai",
+    "edge",
+    "mobile"
+  ],
+  "related": [
+    "a_ai_policy",
+    "a_foldable_phones_finally",
+    "a_satellite_broadband_expands"
+  ],
+  "likes": 249,
+  "comments": 55,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

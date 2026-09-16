@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "id": "a_flutter_roadmap",
+      "title": "Flutter Team Shares the Next Performance Roadmap",
+      "summary": "New rendering and tooling work targets smoother apps.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-14T08:30:00Z",
+      "image": "https://picsum.photos/seed/flutter-news/900/600",
+      "tags": [
+        "flutter",
+        "mobile"
+      ],
+      "likes": 184,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 3
+    },
+    {
+      "id": "a_lowcode_tools_reshape",
+      "title": "Low-Code Tools Reshape Internal Enterprise Apps",
+      "summary": "Business teams ship dashboards without waiting for engineering.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-13T21:56:53Z",
+      "image": "https://picsum.photos/seed/lowcode-tools-reshape/900/600",
+      "tags": [
+        "low-code",
+        "enterprise"
+      ],
+      "likes": 60,
+      "comments": 45,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_smart_home_standards",
+      "title": "Smart Home Standards Finally Talk to Each Other",
+      "summary": "A unified protocol lets devices from rival brands pair instantly.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-13T07:05:00Z",
+      "image": "https://picsum.photos/seed/smart-home-standards/900/600",
+      "tags": [
+        "iot",
+        "smart-home"
+      ],
+      "likes": 13,
+      "comments": 19,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_architecture_patterns",
+      "title": "Clean Architecture Patterns Gain Ground in Mobile Teams",
+      "summary": "Layered designs and testable domains are becoming the default.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-12T18:55:00Z",
+      "image": "https://picsum.photos/seed/architecture-patterns/900/600",
+      "tags": [
+        "architecture",
+        "flutter",
+        "mobile"
+      ],
+      "likes": 131,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_chipmakers_race_to",
+      "title": "Chipmakers Race to Cut Power Draw in Data Centers",
+      "summary": "New accelerators promise the same throughput at half the wattage.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T17:47:00Z",
+      "image": "https://picsum.photos/seed/chipmakers-race-to/900/600",
+      "tags": [
+        "hardware",
+        "energy"
+      ],
+      "likes": 312,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_open_source_maintainers",
+      "title": "Open Source Maintainers Push Back on Licensing Changes",
+      "summary": "Community projects weigh forks after a popular license switch.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T11:52:00Z",
+      "image": "https://picsum.photos/seed/open-source-maintainers/900/600",
+      "tags": [
+        "open-source",
+        "licensing"
+      ],
+      "likes": 18,
+      "comments": 25,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_foldable_phones_finally",
+      "title": "Foldable Phones Finally Reach Mainstream Pricing",
+      "summary": "Cheaper hinges and panels bring foldables under the flagship line.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T00:18:00Z",
+      "image": "https://picsum.photos/seed/foldable-phones-finally/900/600",
+      "tags": [
+        "hardware",
+        "mobile"
+      ],
+      "likes": 347,
+      "comments": 30,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_webassembly_runtimes_move",
+      "title": "WebAssembly Runtimes Move Into Production Backends",
+      "summary": "Sandboxed modules replace containers for lightweight services.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T21:52:00Z",
+      "image": "https://picsum.photos/seed/webassembly-runtimes-move/900/600",
+      "tags": [
+        "wasm",
+        "backend"
+      ],
+      "likes": 234,
+      "comments": 15,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_quantum_startups_report",
+      "title": "Quantum Startups Report First Error-Corrected Qubits",
+      "summary": "Logical qubits stay stable long enough for small algorithms.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T16:37:00Z",
+      "image": "https://picsum.photos/seed/quantum-startups-report/900/600",
+      "tags": [
+        "quantum",
+        "research"
+      ],
+      "likes": 96,
+      "comments": 47,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_satellite_broadband_expands",
+      "title": "Satellite Broadband Expands to Remote Classrooms",
+      "summary": "Low orbit networks connect schools far from fiber lines.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T05:43:00Z",
+      "image": "https://picsum.photos/seed/satellite-broadband-expands/900/600",
+      "tags": [
+        "connectivity",
+        "education"
+      ],
+      "likes": 306,
+      "comments": 43,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_dart_tooling",
+      "title": "Dart Tooling Update Speeds Up Hot Reload for Large Apps",
+      "summary": "Incremental compilation cuts reload times on big codebases.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T00:50:00Z",
+      "image": "https://picsum.photos/seed/dart-tooling/900/600",
+      "tags": [
+        "dart",
+        "flutter",
+        "tooling"
+      ],
+      "likes": 357,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_passkeys_replace_passwords",
+      "title": "Passkeys Replace Passwords Across Major Platforms",
+      "summary": "Password-less sign in is now the default on new accounts.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T21:45:00Z",
+      "image": "https://picsum.photos/seed/passkeys-replace-passwords/900/600",
+      "tags": [
+        "security",
+        "identity"
+      ],
+      "likes": 358,
+      "comments": 11,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_rust_adoption_grows",
+      "title": "Rust Adoption Grows in Operating System Kernels",
+      "summary": "Memory safe drivers land in mainline releases this year.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T17:04:00Z",
+      "image": "https://picsum.photos/seed/rust-adoption-grows/900/600",
+      "tags": [
+        "rust",
+        "systems"
+      ],
+      "likes": 113,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_edge_devices_get",
+      "title": "Edge Devices Get Smaller Language Models Built In",
+      "summary": "On-device inference brings assistants to phones and sensors.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T04:47:00Z",
+      "image": "https://picsum.photos/seed/edge-devices-get/900/600",
+      "tags": [
+        "ai",
+        "edge",
+        "mobile"
+      ],
+      "likes": 249,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    }
+  ],
+  "page": 1,
+  "pageSize": 14,
+  "total": 14,
+  "nextCursor": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_fashion_week_spotlights",
+  "title": "Fashion Week Spotlights Upcycled Collections",
+  "summary": "Designers rework deadstock fabric into runway pieces.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/fashion-week-spotlights-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    }
+  ],
+  "source": "Screen & Stage",
+  "author": {
+    "id": "u_diego",
+    "name": "Diego Alvarez",
+    "avatar": "https://picsum.photos/seed/diego/120",
+    "bio": "Arts and culture critic."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-08T23:33:00Z",
+  "updatedAt": "2026-09-09T00:33:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/fashion-week-spotlights/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/fashion-week-spotlights-1/900/600",
+    "https://picsum.photos/seed/fashion-week-spotlights-2/900/600",
+    "https://picsum.photos/seed/fashion-week-spotlights-3/900/600"
+  ],
+  "tags": [
+    "fashion",
+    "sustainability"
+  ],
+  "related": [
+    "a_film_festival_opens",
+    "a_street_artists_transform",
+    "a_theater_company_stages"
+  ],
+  "likes": 27,
+  "comments": 39,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

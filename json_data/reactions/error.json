@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "code": "TEMPORARY_FAILURE",
+  "message": "Reaction was not saved. Please retry."
+}

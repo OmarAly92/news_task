@@ -1,0 +1,68 @@
+{
+  "id": "a_dart_tooling",
+  "title": "Dart Tooling Update Speeds Up Hot Reload for Large Apps",
+  "summary": "Incremental compilation cuts reload times on big codebases.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/dart-tooling-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    }
+  ],
+  "source": "Mobile Daily",
+  "author": {
+    "id": "u_tom",
+    "name": "Tom Okafor",
+    "avatar": "https://picsum.photos/seed/tom/120",
+    "bio": "Developer tools and open source reporter."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-10T00:50:00Z",
+  "updatedAt": "2026-09-10T01:57:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/dart-tooling/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/dart-tooling-1/900/600",
+    "https://picsum.photos/seed/dart-tooling-2/900/600",
+    "https://picsum.photos/seed/dart-tooling-3/900/600"
+  ],
+  "tags": [
+    "dart",
+    "flutter",
+    "tooling"
+  ],
+  "related": [
+    "a_smart_home_standards",
+    "a_ai_policy",
+    "a_open_source_maintainers"
+  ],
+  "likes": 357,
+  "comments": 39,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

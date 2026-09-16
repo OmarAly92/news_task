@@ -1,0 +1,67 @@
+{
+  "id": "a_gene_therapy_restores",
+  "title": "Gene Therapy Restores Hearing in Early Trial",
+  "summary": "Children born deaf respond to sound within weeks.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/gene-therapy-restores-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    }
+  ],
+  "source": "Wellness Today",
+  "author": {
+    "id": "u_sara",
+    "name": "Sara Khalil",
+    "avatar": "https://picsum.photos/seed/sara/120",
+    "bio": "Health and medicine journalist."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-14T03:37:06Z",
+  "updatedAt": "2026-09-14T04:28:06Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/gene-therapy-restores/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/gene-therapy-restores-1/900/600",
+    "https://picsum.photos/seed/gene-therapy-restores-2/900/600",
+    "https://picsum.photos/seed/gene-therapy-restores-3/900/600"
+  ],
+  "tags": [
+    "gene-therapy",
+    "research"
+  ],
+  "related": [
+    "a_hospitals_adopt_ai",
+    "a_new_guidelines_lower",
+    "a_allergy_season_grows"
+  ],
+  "likes": 127,
+  "comments": 10,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

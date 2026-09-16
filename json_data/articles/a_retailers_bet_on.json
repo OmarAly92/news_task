@@ -1,0 +1,66 @@
+{
+  "id": "a_retailers_bet_on",
+  "title": "Retailers Bet on Smaller Stores in City Centers",
+  "summary": "Compact formats target commuters and same day pickup.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/retailers-bet-on-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "Market Brief",
+  "author": {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "avatar": "https://picsum.photos/seed/priya/120",
+    "bio": "Covers startups, venture capital, and fintech."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-13T22:56:19Z",
+  "updatedAt": "2026-09-13T23:31:19Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/retailers-bet-on/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/retailers-bet-on-1/900/600",
+    "https://picsum.photos/seed/retailers-bet-on-2/900/600",
+    "https://picsum.photos/seed/retailers-bet-on-3/900/600"
+  ],
+  "tags": [
+    "retail"
+  ],
+  "related": [
+    "a_fintech_firms_seek",
+    "a_energy_companies_shift",
+    "a_central_banks_signal"
+  ],
+  "likes": 252,
+  "comments": 19,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_goalkeeper_saves_two",
+  "title": "Goalkeeper Saves Two Penalties in Derby Draw",
+  "summary": "Heroics keep the points shared in a fiery local clash.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/goalkeeper-saves-two-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Match Point",
+  "author": {
+    "id": "u_jonas",
+    "name": "Jonas Weber",
+    "avatar": "https://picsum.photos/seed/jonas/120",
+    "bio": "Senior sports writer and former athlete."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-14T02:29:39Z",
+  "updatedAt": "2026-09-14T03:13:39Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/goalkeeper-saves-two/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/goalkeeper-saves-two-1/900/600",
+    "https://picsum.photos/seed/goalkeeper-saves-two-2/900/600",
+    "https://picsum.photos/seed/goalkeeper-saves-two-3/900/600"
+  ],
+  "tags": [
+    "football",
+    "derby"
+  ],
+  "related": [
+    "a_rugby_union_tightens",
+    "a_esports_finals_draw",
+    "a_youth_academy_produces"
+  ],
+  "likes": 306,
+  "comments": 56,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

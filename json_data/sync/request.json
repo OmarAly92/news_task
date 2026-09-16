@@ -1,0 +1,21 @@
+{
+  "baseVersion": 18,
+  "mutations": [
+    {
+      "op": "set_reaction",
+      "idempotencyKey": "uuid-101",
+      "payload": {
+        "articleId": "a_flutter_roadmap",
+        "reaction": "like"
+      }
+    },
+    {
+      "op": "set_bookmark",
+      "idempotencyKey": "uuid-102",
+      "payload": {
+        "articleId": "a_market_week",
+        "bookmarked": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_photography_show_documents",
+  "title": "Photography Show Documents Vanishing Villages",
+  "summary": "Portraits capture communities before relocation.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/photography-show-documents-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    }
+  ],
+  "source": "Screen & Stage",
+  "author": {
+    "id": "u_noah",
+    "name": "Noah Fischer",
+    "avatar": "https://picsum.photos/seed/noah/120",
+    "bio": "Film, theater, and music columnist."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-09T15:57:00Z",
+  "updatedAt": "2026-09-09T17:15:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/photography-show-documents/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/photography-show-documents-1/900/600",
+    "https://picsum.photos/seed/photography-show-documents-2/900/600",
+    "https://picsum.photos/seed/photography-show-documents-3/900/600"
+  ],
+  "tags": [
+    "photography",
+    "exhibition"
+  ],
+  "related": [
+    "a_theater_company_stages",
+    "a_video_game_soundtrack",
+    "a_poetry_sales_climb"
+  ],
+  "likes": 107,
+  "comments": 54,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

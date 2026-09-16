@@ -1,0 +1,66 @@
+{
+  "id": "a_physicists_measure_gravity",
+  "title": "Physicists Measure Gravity at Microscopic Scale",
+  "summary": "The experiment detects attraction between milligram masses.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/physicists-measure-gravity-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "Lab Notes",
+  "author": {
+    "id": "u_omar",
+    "name": "Omar Hassan",
+    "avatar": "https://picsum.photos/seed/omar/120",
+    "bio": "Science correspondent covering energy and climate."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-09T21:13:00Z",
+  "updatedAt": "2026-09-09T22:27:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/physicists-measure-gravity/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/physicists-measure-gravity-1/900/600",
+    "https://picsum.photos/seed/physicists-measure-gravity-2/900/600",
+    "https://picsum.photos/seed/physicists-measure-gravity-3/900/600"
+  ],
+  "tags": [
+    "physics"
+  ],
+  "related": [
+    "a_fusion_reactor_sustains",
+    "a_researchers_map_coral",
+    "a_new_catalyst_turns"
+  ],
+  "likes": 54,
+  "comments": 25,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

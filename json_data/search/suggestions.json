@@ -1,0 +1,50 @@
+{
+  "index": {
+    "fl": [
+      "flutter",
+      "flutter architecture",
+      "flutter performance"
+    ],
+    "flu": [
+      "flutter",
+      "flutter architecture",
+      "flutter performance"
+    ],
+    "en": [
+      "energy",
+      "enterprise"
+    ],
+    "ma": [
+      "marathon",
+      "markets",
+      "mars",
+      "materials"
+    ],
+    "ai": [
+      "ai",
+      "air-quality"
+    ],
+    "sp": [
+      "space"
+    ],
+    "he": [
+      "heart",
+      "heritage"
+    ],
+    "cu": [
+      "cup final",
+      "cup-final"
+    ],
+    "cl": [
+      "clean energy",
+      "climate",
+      "climbing"
+    ],
+    "re": [
+      "renewables",
+      "research",
+      "retail"
+    ]
+  },
+  "fallback": []
+}

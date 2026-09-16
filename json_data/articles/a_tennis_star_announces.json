@@ -1,0 +1,66 @@
+{
+  "id": "a_tennis_star_announces",
+  "title": "Tennis Star Announces Return After Injury Layoff",
+  "summary": "Comeback planned for the season's first hard court swing.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/tennis-star-announces-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "The Final Whistle",
+  "author": {
+    "id": "u_jonas",
+    "name": "Jonas Weber",
+    "avatar": "https://picsum.photos/seed/jonas/120",
+    "bio": "Senior sports writer and former athlete."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-09T05:40:00Z",
+  "updatedAt": "2026-09-09T05:57:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/tennis-star-announces/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/tennis-star-announces-1/900/600",
+    "https://picsum.photos/seed/tennis-star-announces-2/900/600",
+    "https://picsum.photos/seed/tennis-star-announces-3/900/600"
+  ],
+  "tags": [
+    "tennis"
+  ],
+  "related": [
+    "a_olympic_committee_adds",
+    "a_league_approves_expansion",
+    "a_marathon_record_falls"
+  ],
+  "likes": 91,
+  "comments": 47,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

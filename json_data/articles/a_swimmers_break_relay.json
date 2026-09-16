@@ -1,0 +1,67 @@
+{
+  "id": "a_swimmers_break_relay",
+  "title": "Swimmers Break Relay Mark at World Championships",
+  "summary": "A blistering final leg secures gold and a new record.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/swimmers-break-relay-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    }
+  ],
+  "source": "Match Point",
+  "author": {
+    "id": "u_leo",
+    "name": "Leo Marchetti",
+    "avatar": "https://picsum.photos/seed/leo/120",
+    "bio": "Football and Olympic sports analyst."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-13T02:53:00Z",
+  "updatedAt": "2026-09-13T03:31:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/swimmers-break-relay/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/swimmers-break-relay-1/900/600",
+    "https://picsum.photos/seed/swimmers-break-relay-2/900/600",
+    "https://picsum.photos/seed/swimmers-break-relay-3/900/600"
+  ],
+  "tags": [
+    "swimming",
+    "world-championships"
+  ],
+  "related": [
+    "a_goalkeeper_saves_two",
+    "a_tennis_star_announces",
+    "a_cycling_tour_reroutes"
+  ],
+  "likes": 251,
+  "comments": 52,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

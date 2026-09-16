@@ -1,0 +1,67 @@
+{
+  "id": "a_luxury_brands_slow",
+  "title": "Luxury Brands Slow Expansion Amid Softer Demand",
+  "summary": "Fewer store openings as spending cools in key markets.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/luxury-brands-slow-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    }
+  ],
+  "source": "Startup Post",
+  "author": {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "avatar": "https://picsum.photos/seed/priya/120",
+    "bio": "Covers startups, venture capital, and fintech."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-13T01:16:00Z",
+  "updatedAt": "2026-09-13T02:28:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/luxury-brands-slow/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/luxury-brands-slow-1/900/600",
+    "https://picsum.photos/seed/luxury-brands-slow-2/900/600",
+    "https://picsum.photos/seed/luxury-brands-slow-3/900/600"
+  ],
+  "tags": [
+    "luxury",
+    "retail"
+  ],
+  "related": [
+    "a_shipping_costs_fall",
+    "a_payroll_data_shows",
+    "a_electric_truck_maker"
+  ],
+  "likes": 115,
+  "comments": 44,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

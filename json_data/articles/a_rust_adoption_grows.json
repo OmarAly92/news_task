@@ -1,0 +1,67 @@
+{
+  "id": "a_rust_adoption_grows",
+  "title": "Rust Adoption Grows in Operating System Kernels",
+  "summary": "Memory safe drivers land in mainline releases this year.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/rust-adoption-grows-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "The hard part was never the technology, it was the coordination."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    }
+  ],
+  "source": "Future Stack",
+  "author": {
+    "id": "u_tom",
+    "name": "Tom Okafor",
+    "avatar": "https://picsum.photos/seed/tom/120",
+    "bio": "Developer tools and open source reporter."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-08T17:04:00Z",
+  "updatedAt": "2026-09-08T18:01:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/rust-adoption-grows/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/rust-adoption-grows-1/900/600",
+    "https://picsum.photos/seed/rust-adoption-grows-2/900/600",
+    "https://picsum.photos/seed/rust-adoption-grows-3/900/600"
+  ],
+  "tags": [
+    "rust",
+    "systems"
+  ],
+  "related": [
+    "a_webassembly_runtimes_move",
+    "a_passkeys_replace_passwords",
+    "a_satellite_broadband_expands"
+  ],
+  "likes": 113,
+  "comments": 12,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 6
+}

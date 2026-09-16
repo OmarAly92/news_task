@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "code": "TEMPORARY_FAILURE",
+  "message": "Feed could not be loaded. Please retry."
+}

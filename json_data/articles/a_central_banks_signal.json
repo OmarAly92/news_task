@@ -1,0 +1,67 @@
+{
+  "id": "a_central_banks_signal",
+  "title": "Central Banks Signal Pause on Interest Rate Hikes",
+  "summary": "Policy makers point to cooling prices and slower hiring.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/central-banks-signal-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "Global Ledger",
+  "author": {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "avatar": "https://picsum.photos/seed/priya/120",
+    "bio": "Covers startups, venture capital, and fintech."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-08T14:00:00Z",
+  "updatedAt": "2026-09-08T14:11:00Z",
+  "readTimeMinutes": 5,
+  "image": "https://picsum.photos/seed/central-banks-signal/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/central-banks-signal-1/900/600",
+    "https://picsum.photos/seed/central-banks-signal-2/900/600",
+    "https://picsum.photos/seed/central-banks-signal-3/900/600"
+  ],
+  "tags": [
+    "markets",
+    "rates"
+  ],
+  "related": [
+    "a_small_businesses_adopt",
+    "a_market_week",
+    "a_airlines_post_record"
+  ],
+  "likes": 188,
+  "comments": 2,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

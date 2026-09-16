@@ -1,0 +1,67 @@
+{
+  "id": "a_basketball_rookie_sets",
+  "title": "Basketball Rookie Sets Scoring Record in Debut",
+  "summary": "Forty two points mark the best first game in league history.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/basketball-rookie-sets-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "The Final Whistle",
+  "author": {
+    "id": "u_jonas",
+    "name": "Jonas Weber",
+    "avatar": "https://picsum.photos/seed/jonas/120",
+    "bio": "Senior sports writer and former athlete."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-08T05:57:00Z",
+  "updatedAt": "2026-09-08T06:09:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/basketball-rookie-sets/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/basketball-rookie-sets-1/900/600",
+    "https://picsum.photos/seed/basketball-rookie-sets-2/900/600",
+    "https://picsum.photos/seed/basketball-rookie-sets-3/900/600"
+  ],
+  "tags": [
+    "basketball",
+    "rookie"
+  ],
+  "related": [
+    "a_olympic_committee_adds",
+    "a_rugby_union_tightens",
+    "a_swimmers_break_relay"
+  ],
+  "likes": 140,
+  "comments": 37,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

@@ -1,0 +1,10 @@
+{
+  "enableReactions": true,
+  "enableBookmarks": true,
+  "enableOfflineOutbox": true,
+  "searchDebounceMs": 400,
+  "feedPageSize": 10,
+  "cacheTtlMinutes": 30,
+  "showTrendingTopics": true,
+  "maintenanceMode": false
+}

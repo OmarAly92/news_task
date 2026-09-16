@@ -1,0 +1,66 @@
+{
+  "id": "a_cricket_board_introduces",
+  "title": "Cricket Board Introduces Shorter Format Trial",
+  "summary": "A sixty ball match aims to attract younger fans.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/cricket-board-introduces-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "The Final Whistle",
+  "author": {
+    "id": "u_leo",
+    "name": "Leo Marchetti",
+    "avatar": "https://picsum.photos/seed/leo/120",
+    "bio": "Football and Olympic sports analyst."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-11T09:15:00Z",
+  "updatedAt": "2026-09-11T10:30:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/cricket-board-introduces/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/cricket-board-introduces-1/900/600",
+    "https://picsum.photos/seed/cricket-board-introduces-2/900/600",
+    "https://picsum.photos/seed/cricket-board-introduces-3/900/600"
+  ],
+  "tags": [
+    "cricket"
+  ],
+  "related": [
+    "a_youth_academy_produces",
+    "a_esports_finals_draw",
+    "a_marathon_record_falls"
+  ],
+  "likes": 342,
+  "comments": 8,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

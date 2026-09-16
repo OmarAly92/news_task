@@ -1,0 +1,66 @@
+{
+  "id": "a_theater_company_stages",
+  "title": "Theater Company Stages Play in Total Darkness",
+  "summary": "Audiences experience the drama through sound alone.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/theater-company-stages-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Culture Wire",
+  "author": {
+    "id": "u_noah",
+    "name": "Noah Fischer",
+    "avatar": "https://picsum.photos/seed/noah/120",
+    "bio": "Film, theater, and music columnist."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-10T18:35:00Z",
+  "updatedAt": "2026-09-10T19:09:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/theater-company-stages/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/theater-company-stages-1/900/600",
+    "https://picsum.photos/seed/theater-company-stages-2/900/600",
+    "https://picsum.photos/seed/theater-company-stages-3/900/600"
+  ],
+  "tags": [
+    "theater"
+  ],
+  "related": [
+    "a_film_festival_opens",
+    "a_dance_troupe_blends",
+    "a_video_game_soundtrack"
+  ],
+  "likes": 332,
+  "comments": 9,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

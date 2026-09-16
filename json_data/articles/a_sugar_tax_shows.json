@@ -1,0 +1,67 @@
+{
+  "id": "a_sugar_tax_shows",
+  "title": "Sugar Tax Shows Measurable Drop in Consumption",
+  "summary": "Sales of sweetened drinks fall by a fifth since the levy.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/sugar-tax-shows-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "Wellness Today",
+  "author": {
+    "id": "u_sara",
+    "name": "Sara Khalil",
+    "avatar": "https://picsum.photos/seed/sara/120",
+    "bio": "Health and medicine journalist."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-10T09:45:00Z",
+  "updatedAt": "2026-09-10T09:59:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/sugar-tax-shows/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/sugar-tax-shows-1/900/600",
+    "https://picsum.photos/seed/sugar-tax-shows-2/900/600",
+    "https://picsum.photos/seed/sugar-tax-shows-3/900/600"
+  ],
+  "tags": [
+    "policy",
+    "nutrition"
+  ],
+  "related": [
+    "a_hospitals_adopt_ai",
+    "a_wearables_detect_irregular",
+    "a_mediterranean_diet_cuts"
+  ],
+  "likes": 38,
+  "comments": 51,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

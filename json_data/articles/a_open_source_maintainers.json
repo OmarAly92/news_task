@@ -1,0 +1,67 @@
+{
+  "id": "a_open_source_maintainers",
+  "title": "Open Source Maintainers Push Back on Licensing Changes",
+  "summary": "Community projects weigh forks after a popular license switch.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/open-source-maintainers-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Future Stack",
+  "author": {
+    "id": "u_maya",
+    "name": "Maya Chen",
+    "avatar": "https://picsum.photos/seed/maya/120",
+    "bio": "Mobile technology editor."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-11T11:52:00Z",
+  "updatedAt": "2026-09-11T11:59:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/open-source-maintainers/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/open-source-maintainers-1/900/600",
+    "https://picsum.photos/seed/open-source-maintainers-2/900/600",
+    "https://picsum.photos/seed/open-source-maintainers-3/900/600"
+  ],
+  "tags": [
+    "open-source",
+    "licensing"
+  ],
+  "related": [
+    "a_flutter_roadmap",
+    "a_smart_home_standards",
+    "a_chipmakers_race_to"
+  ],
+  "likes": 18,
+  "comments": 25,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

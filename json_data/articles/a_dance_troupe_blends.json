@@ -1,0 +1,67 @@
+{
+  "id": "a_dance_troupe_blends",
+  "title": "Dance Troupe Blends Robotics and Ballet",
+  "summary": "Mechanical partners share the stage with human dancers.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/dance-troupe-blends-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    }
+  ],
+  "source": "Art Signal",
+  "author": {
+    "id": "u_diego",
+    "name": "Diego Alvarez",
+    "avatar": "https://picsum.photos/seed/diego/120",
+    "bio": "Arts and culture critic."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-09T14:27:00Z",
+  "updatedAt": "2026-09-09T15:32:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/dance-troupe-blends/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/dance-troupe-blends-1/900/600",
+    "https://picsum.photos/seed/dance-troupe-blends-2/900/600",
+    "https://picsum.photos/seed/dance-troupe-blends-3/900/600"
+  ],
+  "tags": [
+    "dance",
+    "technology"
+  ],
+  "related": [
+    "a_street_artists_transform",
+    "a_fashion_week_spotlights",
+    "a_novelist_wins_prize"
+  ],
+  "likes": 139,
+  "comments": 57,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

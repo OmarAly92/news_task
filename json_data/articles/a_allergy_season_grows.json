@@ -1,0 +1,67 @@
+{
+  "id": "a_allergy_season_grows",
+  "title": "Allergy Season Grows Longer With Warmer Springs",
+  "summary": "Pollen counts start weeks earlier than two decades ago.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/allergy-season-grows-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    }
+  ],
+  "source": "Pulse Report",
+  "author": {
+    "id": "u_sara",
+    "name": "Sara Khalil",
+    "avatar": "https://picsum.photos/seed/sara/120",
+    "bio": "Health and medicine journalist."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-13T15:35:00Z",
+  "updatedAt": "2026-09-13T16:48:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/allergy-season-grows/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/allergy-season-grows-1/900/600",
+    "https://picsum.photos/seed/allergy-season-grows-2/900/600",
+    "https://picsum.photos/seed/allergy-season-grows-3/900/600"
+  ],
+  "tags": [
+    "allergies",
+    "climate"
+  ],
+  "related": [
+    "a_walking_ten_minutes",
+    "a_mediterranean_diet_cuts",
+    "a_malaria_vaccine_rollout"
+  ],
+  "likes": 233,
+  "comments": 27,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

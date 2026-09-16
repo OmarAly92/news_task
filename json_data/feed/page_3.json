@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "id": "a_swimmers_break_relay",
+      "title": "Swimmers Break Relay Mark at World Championships",
+      "summary": "A blistering final leg secures gold and a new record.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T02:53:00Z",
+      "image": "https://picsum.photos/seed/swimmers-break-relay/900/600",
+      "tags": [
+        "swimming",
+        "world-championships"
+      ],
+      "likes": 251,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_luxury_brands_slow",
+      "title": "Luxury Brands Slow Expansion Amid Softer Demand",
+      "summary": "Fewer store openings as spending cools in key markets.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T01:16:00Z",
+      "image": "https://picsum.photos/seed/luxury-brands-slow/900/600",
+      "tags": [
+        "luxury",
+        "retail"
+      ],
+      "likes": 115,
+      "comments": 44,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_sleep_study_links",
+      "title": "Sleep Study Links Screen Time to Shorter Rest",
+      "summary": "Late night scrolling cuts sleep by nearly an hour on average.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-12T23:03:00Z",
+      "image": "https://picsum.photos/seed/sleep-study-links/900/600",
+      "tags": [
+        "sleep",
+        "research"
+      ],
+      "likes": 104,
+      "comments": 50,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_architecture_award_goes",
+      "title": "Architecture Award Goes to Timber Library",
+      "summary": "The mass timber building sets a new bar for public spaces.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T21:03:00Z",
+      "image": "https://picsum.photos/seed/architecture-award-goes/900/600",
+      "tags": [
+        "architecture",
+        "awards"
+      ],
+      "likes": 181,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_architecture_patterns",
+      "title": "Clean Architecture Patterns Gain Ground in Mobile Teams",
+      "summary": "Layered designs and testable domains are becoming the default.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-12T18:55:00Z",
+      "image": "https://picsum.photos/seed/architecture-patterns/900/600",
+      "tags": [
+        "architecture",
+        "flutter",
+        "mobile"
+      ],
+      "likes": 131,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_wearables_detect_irregular",
+      "title": "Wearables Detect Irregular Heartbeat Earlier",
+      "summary": "Watch alerts lead to diagnoses months ahead of symptoms.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-12T17:27:00Z",
+      "image": "https://picsum.photos/seed/wearables-detect-irregular/900/600",
+      "tags": [
+        "wearables",
+        "heart"
+      ],
+      "likes": 43,
+      "comments": 22,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_esports_finals_draw",
+      "title": "Esports Finals Draw Record Online Audience",
+      "summary": "Peak viewership tops five million concurrent streams.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-12T15:44:00Z",
+      "image": "https://picsum.photos/seed/esports-finals-draw/900/600",
+      "tags": [
+        "esports"
+      ],
+      "likes": 307,
+      "comments": 60,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_telescope_captures_earliest",
+      "title": "Telescope Captures Earliest Galaxy Yet Observed",
+      "summary": "Light from the object left it three hundred million years after the big bang.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-12T14:17:00Z",
+      "image": "https://picsum.photos/seed/telescope-captures-earliest/900/600",
+      "tags": [
+        "space",
+        "astronomy"
+      ],
+      "likes": 160,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_poetry_sales_climb",
+      "title": "Poetry Sales Climb as Short Verse Goes Viral",
+      "summary": "Social platforms drive a new generation of readers.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T12:36:00Z",
+      "image": "https://picsum.photos/seed/poetry-sales-climb/900/600",
+      "tags": [
+        "books",
+        "poetry"
+      ],
+      "likes": 377,
+      "comments": 14,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_novelist_wins_prize",
+      "title": "Novelist Wins Prize for Debut About Migration",
+      "summary": "Judges praise the book's quiet, precise storytelling.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T10:15:00Z",
+      "image": "https://picsum.photos/seed/novelist-wins-prize/900/600",
+      "tags": [
+        "books",
+        "awards"
+      ],
+      "likes": 338,
+      "comments": 46,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 6
+    }
+  ],
+  "page": 3,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": "feed_4"
+}

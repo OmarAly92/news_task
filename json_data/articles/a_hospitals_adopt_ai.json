@@ -1,0 +1,67 @@
+{
+  "id": "a_hospitals_adopt_ai",
+  "title": "Hospitals Adopt AI Triage in Emergency Rooms",
+  "summary": "Early pilots shorten wait times for urgent cases.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/hospitals-adopt-ai-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "Care Digest",
+  "author": {
+    "id": "u_sara",
+    "name": "Sara Khalil",
+    "avatar": "https://picsum.photos/seed/sara/120",
+    "bio": "Health and medicine journalist."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-10T04:32:00Z",
+  "updatedAt": "2026-09-10T05:12:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/hospitals-adopt-ai/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/hospitals-adopt-ai-1/900/600",
+    "https://picsum.photos/seed/hospitals-adopt-ai-2/900/600",
+    "https://picsum.photos/seed/hospitals-adopt-ai-3/900/600"
+  ],
+  "tags": [
+    "ai",
+    "hospitals"
+  ],
+  "related": [
+    "a_mediterranean_diet_cuts",
+    "a_malaria_vaccine_rollout",
+    "a_nurse_shortage_prompts"
+  ],
+  "likes": 226,
+  "comments": 21,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

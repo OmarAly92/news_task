@@ -1,0 +1,68 @@
+{
+  "id": "a_architecture_patterns",
+  "title": "Clean Architecture Patterns Gain Ground in Mobile Teams",
+  "summary": "Layered designs and testable domains are becoming the default.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/architecture-patterns-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    }
+  ],
+  "source": "Future Stack",
+  "author": {
+    "id": "u_maya",
+    "name": "Maya Chen",
+    "avatar": "https://picsum.photos/seed/maya/120",
+    "bio": "Mobile technology editor."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-12T18:55:00Z",
+  "updatedAt": "2026-09-12T19:27:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/architecture-patterns/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/architecture-patterns-1/900/600",
+    "https://picsum.photos/seed/architecture-patterns-2/900/600",
+    "https://picsum.photos/seed/architecture-patterns-3/900/600"
+  ],
+  "tags": [
+    "architecture",
+    "flutter",
+    "mobile"
+  ],
+  "related": [
+    "a_flutter_roadmap",
+    "a_ai_policy",
+    "a_quantum_startups_report"
+  ],
+  "likes": 131,
+  "comments": 13,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

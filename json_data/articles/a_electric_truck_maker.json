@@ -1,0 +1,67 @@
+{
+  "id": "a_electric_truck_maker",
+  "title": "Electric Truck Maker Lands Major Fleet Order",
+  "summary": "A logistics giant commits to two thousand vehicles by 2028.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/electric-truck-maker-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "The hard part was never the technology, it was the coordination."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Global Ledger",
+  "author": {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "avatar": "https://picsum.photos/seed/priya/120",
+    "bio": "Covers startups, venture capital, and fintech."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-12T06:14:00Z",
+  "updatedAt": "2026-09-12T07:06:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/electric-truck-maker/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/electric-truck-maker-1/900/600",
+    "https://picsum.photos/seed/electric-truck-maker-2/900/600",
+    "https://picsum.photos/seed/electric-truck-maker-3/900/600"
+  ],
+  "tags": [
+    "ev",
+    "logistics"
+  ],
+  "related": [
+    "a_airlines_post_record",
+    "a_luxury_brands_slow",
+    "a_retailers_bet_on"
+  ],
+  "likes": 391,
+  "comments": 53,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

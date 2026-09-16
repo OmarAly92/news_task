@@ -1,0 +1,67 @@
+{
+  "id": "a_ai_policy",
+  "title": "Governments Draft Shared Rules for Frontier AI Models",
+  "summary": "A joint framework would set testing and disclosure requirements.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/ai-policy-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "TechWire",
+  "author": {
+    "id": "u_tom",
+    "name": "Tom Okafor",
+    "avatar": "https://picsum.photos/seed/tom/120",
+    "bio": "Developer tools and open source reporter."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-14T10:05:00Z",
+  "updatedAt": "2026-09-14T10:05:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/ai-policy/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/ai-policy-1/900/600",
+    "https://picsum.photos/seed/ai-policy-2/900/600",
+    "https://picsum.photos/seed/ai-policy-3/900/600"
+  ],
+  "tags": [
+    "ai",
+    "policy"
+  ],
+  "related": [
+    "a_satellite_broadband_expands",
+    "a_chipmakers_race_to",
+    "a_dart_tooling"
+  ],
+  "likes": 210,
+  "comments": 42,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

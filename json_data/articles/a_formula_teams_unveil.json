@@ -1,0 +1,66 @@
+{
+  "id": "a_formula_teams_unveil",
+  "title": "Formula Teams Unveil Lighter Chassis for New Season",
+  "summary": "Rule changes push engineers toward smaller, nimbler cars.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/formula-teams-unveil-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "The hard part was never the technology, it was the coordination."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    }
+  ],
+  "source": "Arena News",
+  "author": {
+    "id": "u_jonas",
+    "name": "Jonas Weber",
+    "avatar": "https://picsum.photos/seed/jonas/120",
+    "bio": "Senior sports writer and former athlete."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-09T18:02:00Z",
+  "updatedAt": "2026-09-09T19:20:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/formula-teams-unveil/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/formula-teams-unveil-1/900/600",
+    "https://picsum.photos/seed/formula-teams-unveil-2/900/600",
+    "https://picsum.photos/seed/formula-teams-unveil-3/900/600"
+  ],
+  "tags": [
+    "motorsport"
+  ],
+  "related": [
+    "a_swimmers_break_relay",
+    "a_cycling_tour_reroutes",
+    "a_esports_finals_draw"
+  ],
+  "likes": 63,
+  "comments": 7,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

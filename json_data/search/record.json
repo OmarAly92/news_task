@@ -1,0 +1,71 @@
+{
+  "query": "record",
+  "data": [
+    {
+      "id": "a_comic_convention",
+      "title": "Comic Convention Draws Record Crowds Downtown",
+      "summary": "Cosplay parade and indie artists take over the city center.",
+      "source": "Screen & Stage",
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-14T09:40:00Z",
+      "image": "https://picsum.photos/seed/comic-convention/900/600"
+    },
+    {
+      "id": "a_fusion_reactor_sustains",
+      "title": "Fusion Reactor Sustains Plasma for Record Duration",
+      "summary": "The reaction held steady for more than six minutes.",
+      "source": "Science Journal",
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T04:55:33Z",
+      "image": "https://picsum.photos/seed/fusion-reactor-sustains/900/600"
+    },
+    {
+      "id": "a_swimmers_break_relay",
+      "title": "Swimmers Break Relay Mark at World Championships",
+      "summary": "A blistering final leg secures gold and a new record.",
+      "source": "Match Point",
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-13T02:53:00Z",
+      "image": "https://picsum.photos/seed/swimmers-break-relay/900/600"
+    },
+    {
+      "id": "a_esports_finals_draw",
+      "title": "Esports Finals Draw Record Online Audience",
+      "summary": "Peak viewership tops five million concurrent streams.",
+      "source": "Arena News",
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-12T15:44:00Z",
+      "image": "https://picsum.photos/seed/esports-finals-draw/900/600"
+    },
+    {
+      "id": "a_airlines_post_record",
+      "title": "Airlines Post Record Summer Passenger Numbers",
+      "summary": "Strong leisure demand offsets higher fuel costs.",
+      "source": "Market Brief",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T23:22:00Z",
+      "image": "https://picsum.photos/seed/airlines-post-record/900/600"
+    },
+    {
+      "id": "a_marathon_record_falls",
+      "title": "Marathon Record Falls on Fast Berlin Course",
+      "summary": "Perfect conditions help shave nine seconds off the world best.",
+      "source": "Arena News",
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T10:33:00Z",
+      "image": "https://picsum.photos/seed/marathon-record-falls/900/600"
+    },
+    {
+      "id": "a_basketball_rookie_sets",
+      "title": "Basketball Rookie Sets Scoring Record in Debut",
+      "summary": "Forty two points mark the best first game in league history.",
+      "source": "The Final Whistle",
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T05:57:00Z",
+      "image": "https://picsum.photos/seed/basketball-rookie-sets/900/600"
+    }
+  ],
+  "page": 1,
+  "pageSize": 10,
+  "total": 7
+}

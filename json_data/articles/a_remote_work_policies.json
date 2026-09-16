@@ -1,0 +1,66 @@
+{
+  "id": "a_remote_work_policies",
+  "title": "Remote Work Policies Settle Into Hybrid Norm",
+  "summary": "Most large employers land on three days in the office.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/remote-work-policies-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    }
+  ],
+  "source": "Startup Post",
+  "author": {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "avatar": "https://picsum.photos/seed/priya/120",
+    "bio": "Covers startups, venture capital, and fintech."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-08T12:03:00Z",
+  "updatedAt": "2026-09-08T13:31:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/remote-work-policies/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/remote-work-policies-1/900/600",
+    "https://picsum.photos/seed/remote-work-policies-2/900/600",
+    "https://picsum.photos/seed/remote-work-policies-3/900/600"
+  ],
+  "tags": [
+    "workplace"
+  ],
+  "related": [
+    "a_payroll_data_shows",
+    "a_startup_funding_rebounds",
+    "a_central_banks_signal"
+  ],
+  "likes": 53,
+  "comments": 29,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

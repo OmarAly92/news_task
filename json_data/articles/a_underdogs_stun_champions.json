@@ -1,0 +1,67 @@
+{
+  "id": "a_underdogs_stun_champions",
+  "title": "Underdogs Stun Champions in Cup Final Thriller",
+  "summary": "A late header seals a first major trophy for the club.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/underdogs-stun-champions-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "Match Point",
+  "author": {
+    "id": "u_jonas",
+    "name": "Jonas Weber",
+    "avatar": "https://picsum.photos/seed/jonas/120",
+    "bio": "Senior sports writer and former athlete."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-09T03:26:00Z",
+  "updatedAt": "2026-09-09T03:43:00Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/underdogs-stun-champions/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/underdogs-stun-champions-1/900/600",
+    "https://picsum.photos/seed/underdogs-stun-champions-2/900/600",
+    "https://picsum.photos/seed/underdogs-stun-champions-3/900/600"
+  ],
+  "tags": [
+    "football",
+    "cup-final"
+  ],
+  "related": [
+    "a_league_approves_expansion",
+    "a_esports_finals_draw",
+    "a_goalkeeper_saves_two"
+  ],
+  "likes": 232,
+  "comments": 42,
+  "isLiked": true,
+  "isBookmarked": false,
+  "version": 5
+}

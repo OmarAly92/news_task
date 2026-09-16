@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "code": "TEMPORARY_FAILURE",
+  "message": "Sync failed. Mutations were kept in the outbox."
+}

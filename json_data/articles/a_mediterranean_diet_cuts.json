@@ -1,0 +1,67 @@
+{
+  "id": "a_mediterranean_diet_cuts",
+  "title": "Mediterranean Diet Cuts Heart Risk in Large Trial",
+  "summary": "Ten year data confirms benefits across age groups.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/mediterranean-diet-cuts-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Wellness Today",
+  "author": {
+    "id": "u_amira",
+    "name": "Amira Farouk",
+    "avatar": "https://picsum.photos/seed/amira/120",
+    "bio": "Public health policy reporter."
+  },
+  "topicId": "t_health",
+  "publishedAt": "2026-09-10T14:11:00Z",
+  "updatedAt": "2026-09-10T14:20:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/mediterranean-diet-cuts/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/mediterranean-diet-cuts-1/900/600",
+    "https://picsum.photos/seed/mediterranean-diet-cuts-2/900/600",
+    "https://picsum.photos/seed/mediterranean-diet-cuts-3/900/600"
+  ],
+  "tags": [
+    "nutrition",
+    "heart"
+  ],
+  "related": [
+    "a_new_guidelines_lower",
+    "a_sugar_tax_shows",
+    "a_malaria_vaccine_rollout"
+  ],
+  "likes": 105,
+  "comments": 4,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

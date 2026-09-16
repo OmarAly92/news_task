@@ -1,0 +1,67 @@
+{
+  "id": "a_lowcode_tools_reshape",
+  "title": "Low-Code Tools Reshape Internal Enterprise Apps",
+  "summary": "Business teams ship dashboards without waiting for engineering.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/lowcode-tools-reshape-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Future Stack",
+  "author": {
+    "id": "u_maya",
+    "name": "Maya Chen",
+    "avatar": "https://picsum.photos/seed/maya/120",
+    "bio": "Mobile technology editor."
+  },
+  "topicId": "t_technology",
+  "publishedAt": "2026-09-13T21:56:53Z",
+  "updatedAt": "2026-09-13T23:13:53Z",
+  "readTimeMinutes": 7,
+  "image": "https://picsum.photos/seed/lowcode-tools-reshape/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/lowcode-tools-reshape-1/900/600",
+    "https://picsum.photos/seed/lowcode-tools-reshape-2/900/600",
+    "https://picsum.photos/seed/lowcode-tools-reshape-3/900/600"
+  ],
+  "tags": [
+    "low-code",
+    "enterprise"
+  ],
+  "related": [
+    "a_chipmakers_race_to",
+    "a_passkeys_replace_passwords",
+    "a_foldable_phones_finally"
+  ],
+  "likes": 60,
+  "comments": 45,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 6
+}

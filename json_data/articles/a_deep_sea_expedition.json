@@ -1,0 +1,67 @@
+{
+  "id": "a_deep_sea_expedition",
+  "title": "Deep Sea Expedition Discovers Dozens of Species",
+  "summary": "Remote vehicles film life at depths beyond four kilometers.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/deep-sea-expedition-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Orbit Weekly",
+  "author": {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "avatar": "https://picsum.photos/seed/hana/120",
+    "bio": "Space and astronomy writer."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-14T01:24:13Z",
+  "updatedAt": "2026-09-14T01:59:13Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/deep-sea-expedition/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/deep-sea-expedition-1/900/600",
+    "https://picsum.photos/seed/deep-sea-expedition-2/900/600",
+    "https://picsum.photos/seed/deep-sea-expedition-3/900/600"
+  ],
+  "tags": [
+    "oceans",
+    "biology"
+  ],
+  "related": [
+    "a_researchers_map_coral",
+    "a_volcano_monitoring_gets",
+    "a_climate_models_sharpen"
+  ],
+  "likes": 353,
+  "comments": 7,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

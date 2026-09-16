@@ -1,0 +1,16 @@
+{
+  "status": "review_required",
+  "newVersion": 19,
+  "applied": [
+    "uuid-102"
+  ],
+  "conflicts": [
+    {
+      "idempotencyKey": "uuid-101",
+      "articleId": "a_flutter_roadmap",
+      "serverLikes": 186,
+      "isLiked": true,
+      "version": 5
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "id": "a_marathon_record_falls",
+      "title": "Marathon Record Falls on Fast Berlin Course",
+      "summary": "Perfect conditions help shave nine seconds off the world best.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T10:33:00Z",
+      "image": "https://picsum.photos/seed/marathon-record-falls/900/600",
+      "tags": [
+        "athletics",
+        "marathon"
+      ],
+      "likes": 205,
+      "comments": 46,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_youth_academy_produces",
+      "title": "Youth Academy Produces Third Straight Debutant",
+      "summary": "Another teenager steps up to the senior squad.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T08:14:00Z",
+      "image": "https://picsum.photos/seed/youth-academy-produces/900/600",
+      "tags": [
+        "football",
+        "youth"
+      ],
+      "likes": 117,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_basketball_rookie_sets",
+      "title": "Basketball Rookie Sets Scoring Record in Debut",
+      "summary": "Forty two points mark the best first game in league history.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-08T05:57:00Z",
+      "image": "https://picsum.photos/seed/basketball-rookie-sets/900/600",
+      "tags": [
+        "basketball",
+        "rookie"
+      ],
+      "likes": 140,
+      "comments": 37,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_edge_devices_get",
+      "title": "Edge Devices Get Smaller Language Models Built In",
+      "summary": "On-device inference brings assistants to phones and sensors.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T04:47:00Z",
+      "image": "https://picsum.photos/seed/edge-devices-get/900/600",
+      "tags": [
+        "ai",
+        "edge",
+        "mobile"
+      ],
+      "likes": 249,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_startup_funding_rebounds",
+      "title": "Startup Funding Rebounds in Third Quarter Report",
+      "summary": "Late stage rounds return as valuations settle.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T02:21:00Z",
+      "image": "https://picsum.photos/seed/startup-funding-rebounds/900/600",
+      "tags": [
+        "startups",
+        "venture"
+      ],
+      "likes": 368,
+      "comments": 32,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_podcast_adaptation_tops",
+      "title": "Podcast Adaptation Tops Book Charts",
+      "summary": "A true crime series becomes a bestselling paperback.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-08T00:30:00Z",
+      "image": "https://picsum.photos/seed/podcast-adaptation-tops/900/600",
+      "tags": [
+        "books",
+        "podcasts"
+      ],
+      "likes": 103,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    }
+  ],
+  "page": 9,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": null
+}

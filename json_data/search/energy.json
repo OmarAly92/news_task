@@ -1,0 +1,53 @@
+{
+  "query": "energy",
+  "data": [
+    {
+      "id": "a_clean_energy",
+      "title": "Battery Breakthrough Improves Grid Storage Efficiency",
+      "summary": "Researchers report longer cycle life in early trials.",
+      "source": "Science Journal",
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T06:10:00Z",
+      "image": "https://picsum.photos/seed/energy/900/600"
+    },
+    {
+      "id": "a_fusion_reactor_sustains",
+      "title": "Fusion Reactor Sustains Plasma for Record Duration",
+      "summary": "The reaction held steady for more than six minutes.",
+      "source": "Science Journal",
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T04:55:33Z",
+      "image": "https://picsum.photos/seed/fusion-reactor-sustains/900/600"
+    },
+    {
+      "id": "a_chipmakers_race_to",
+      "title": "Chipmakers Race to Cut Power Draw in Data Centers",
+      "summary": "New accelerators promise the same throughput at half the wattage.",
+      "source": "TechWire",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T17:47:00Z",
+      "image": "https://picsum.photos/seed/chipmakers-race-to/900/600"
+    },
+    {
+      "id": "a_new_catalyst_turns",
+      "title": "New Catalyst Turns Carbon Dioxide Into Fuel",
+      "summary": "A copper alloy converts emissions into ethanol at room temperature.",
+      "source": "Lab Notes",
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T03:52:00Z",
+      "image": "https://picsum.photos/seed/new-catalyst-turns/900/600"
+    },
+    {
+      "id": "a_energy_companies_shift",
+      "title": "Energy Companies Shift Budgets Toward Renewables",
+      "summary": "Capital spending on wind and solar overtakes oil exploration.",
+      "source": "Global Ledger",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-09T11:09:00Z",
+      "image": "https://picsum.photos/seed/energy-companies-shift/900/600"
+    }
+  ],
+  "page": 1,
+  "pageSize": 10,
+  "total": 5
+}

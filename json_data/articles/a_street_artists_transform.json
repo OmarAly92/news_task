@@ -1,0 +1,67 @@
+{
+  "id": "a_street_artists_transform",
+  "title": "Street Artists Transform Abandoned Rail Yard",
+  "summary": "Murals and light installations open the site to the public.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/street-artists-transform-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    }
+  ],
+  "source": "Art Signal",
+  "author": {
+    "id": "u_noah",
+    "name": "Noah Fischer",
+    "avatar": "https://picsum.photos/seed/noah/120",
+    "bio": "Film, theater, and music columnist."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-09T02:03:00Z",
+  "updatedAt": "2026-09-09T03:32:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/street-artists-transform/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/street-artists-transform-1/900/600",
+    "https://picsum.photos/seed/street-artists-transform-2/900/600",
+    "https://picsum.photos/seed/street-artists-transform-3/900/600"
+  ],
+  "tags": [
+    "art",
+    "urban"
+  ],
+  "related": [
+    "a_video_game_soundtrack",
+    "a_museum_returns_artifacts",
+    "a_theater_company_stages"
+  ],
+  "likes": 215,
+  "comments": 52,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

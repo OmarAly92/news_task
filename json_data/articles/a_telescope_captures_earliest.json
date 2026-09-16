@@ -1,0 +1,67 @@
+{
+  "id": "a_telescope_captures_earliest",
+  "title": "Telescope Captures Earliest Galaxy Yet Observed",
+  "summary": "Light from the object left it three hundred million years after the big bang.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/telescope-captures-earliest-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Small steps, taken consistently, are how we got here."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    }
+  ],
+  "source": "Lab Notes",
+  "author": {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "avatar": "https://picsum.photos/seed/hana/120",
+    "bio": "Space and astronomy writer."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-12T14:17:00Z",
+  "updatedAt": "2026-09-12T15:01:00Z",
+  "readTimeMinutes": 6,
+  "image": "https://picsum.photos/seed/telescope-captures-earliest/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/telescope-captures-earliest-1/900/600",
+    "https://picsum.photos/seed/telescope-captures-earliest-2/900/600",
+    "https://picsum.photos/seed/telescope-captures-earliest-3/900/600"
+  ],
+  "tags": [
+    "space",
+    "astronomy"
+  ],
+  "related": [
+    "a_bird_migration_tracked",
+    "a_asteroid_sample_reveals",
+    "a_climate_models_sharpen"
+  ],
+  "likes": 160,
+  "comments": 21,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

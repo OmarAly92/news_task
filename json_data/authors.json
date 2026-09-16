@@ -1,0 +1,74 @@
+[
+  {
+    "id": "u_maya",
+    "name": "Maya Chen",
+    "bio": "Mobile technology editor.",
+    "avatar": "https://picsum.photos/seed/maya/120"
+  },
+  {
+    "id": "u_omar",
+    "name": "Omar Hassan",
+    "bio": "Science correspondent covering energy and climate.",
+    "avatar": "https://picsum.photos/seed/omar/120"
+  },
+  {
+    "id": "u_lina",
+    "name": "Lina Adel",
+    "bio": "Markets reporter based in London.",
+    "avatar": "https://picsum.photos/seed/lina/120"
+  },
+  {
+    "id": "u_jonas",
+    "name": "Jonas Weber",
+    "bio": "Senior sports writer and former athlete.",
+    "avatar": "https://picsum.photos/seed/jonas/120"
+  },
+  {
+    "id": "u_sara",
+    "name": "Sara Khalil",
+    "bio": "Health and medicine journalist.",
+    "avatar": "https://picsum.photos/seed/sara/120"
+  },
+  {
+    "id": "u_diego",
+    "name": "Diego Alvarez",
+    "bio": "Arts and culture critic.",
+    "avatar": "https://picsum.photos/seed/diego/120"
+  },
+  {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "bio": "Covers startups, venture capital, and fintech.",
+    "avatar": "https://picsum.photos/seed/priya/120"
+  },
+  {
+    "id": "u_tom",
+    "name": "Tom Okafor",
+    "bio": "Developer tools and open source reporter.",
+    "avatar": "https://picsum.photos/seed/tom/120"
+  },
+  {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "bio": "Space and astronomy writer.",
+    "avatar": "https://picsum.photos/seed/hana/120"
+  },
+  {
+    "id": "u_leo",
+    "name": "Leo Marchetti",
+    "bio": "Football and Olympic sports analyst.",
+    "avatar": "https://picsum.photos/seed/leo/120"
+  },
+  {
+    "id": "u_amira",
+    "name": "Amira Farouk",
+    "bio": "Public health policy reporter.",
+    "avatar": "https://picsum.photos/seed/amira/120"
+  },
+  {
+    "id": "u_noah",
+    "name": "Noah Fischer",
+    "bio": "Film, theater, and music columnist.",
+    "avatar": "https://picsum.photos/seed/noah/120"
+  }
+]

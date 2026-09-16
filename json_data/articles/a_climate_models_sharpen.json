@@ -1,0 +1,67 @@
+{
+  "id": "a_climate_models_sharpen",
+  "title": "Climate Models Sharpen Regional Rainfall Forecasts",
+  "summary": "Higher resolution simulations improve seasonal predictions.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/climate-models-sharpen-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    }
+  ],
+  "source": "Lab Notes",
+  "author": {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "avatar": "https://picsum.photos/seed/hana/120",
+    "bio": "Space and astronomy writer."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-10T03:08:00Z",
+  "updatedAt": "2026-09-10T04:38:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/climate-models-sharpen/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/climate-models-sharpen-1/900/600",
+    "https://picsum.photos/seed/climate-models-sharpen-2/900/600",
+    "https://picsum.photos/seed/climate-models-sharpen-3/900/600"
+  ],
+  "tags": [
+    "climate",
+    "research"
+  ],
+  "related": [
+    "a_asteroid_sample_reveals",
+    "a_clean_energy",
+    "a_fusion_reactor_sustains"
+  ],
+  "likes": 184,
+  "comments": 13,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

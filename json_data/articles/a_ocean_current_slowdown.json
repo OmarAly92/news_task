@@ -1,0 +1,67 @@
+{
+  "id": "a_ocean_current_slowdown",
+  "title": "Ocean Current Slowdown Confirmed by New Study",
+  "summary": "Decades of measurements show a weakening Atlantic circulation.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/ocean-current-slowdown-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    }
+  ],
+  "source": "Orbit Weekly",
+  "author": {
+    "id": "u_omar",
+    "name": "Omar Hassan",
+    "avatar": "https://picsum.photos/seed/omar/120",
+    "bio": "Science correspondent covering energy and climate."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-09T23:06:00Z",
+  "updatedAt": "2026-09-09T23:38:00Z",
+  "readTimeMinutes": 3,
+  "image": "https://picsum.photos/seed/ocean-current-slowdown/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/ocean-current-slowdown-1/900/600",
+    "https://picsum.photos/seed/ocean-current-slowdown-2/900/600",
+    "https://picsum.photos/seed/ocean-current-slowdown-3/900/600"
+  ],
+  "tags": [
+    "oceans",
+    "climate"
+  ],
+  "related": [
+    "a_deep_sea_expedition",
+    "a_climate_models_sharpen",
+    "a_asteroid_sample_reveals"
+  ],
+  "likes": 111,
+  "comments": 10,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 5
+}

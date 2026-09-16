@@ -1,0 +1,67 @@
+{
+  "id": "a_poetry_sales_climb",
+  "title": "Poetry Sales Climb as Short Verse Goes Viral",
+  "summary": "Social platforms drive a new generation of readers.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/poetry-sales-climb-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "Culture Wire",
+  "author": {
+    "id": "u_diego",
+    "name": "Diego Alvarez",
+    "avatar": "https://picsum.photos/seed/diego/120",
+    "bio": "Arts and culture critic."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-12T12:36:00Z",
+  "updatedAt": "2026-09-12T13:32:00Z",
+  "readTimeMinutes": 5,
+  "image": "https://picsum.photos/seed/poetry-sales-climb/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/poetry-sales-climb-1/900/600",
+    "https://picsum.photos/seed/poetry-sales-climb-2/900/600",
+    "https://picsum.photos/seed/poetry-sales-climb-3/900/600"
+  ],
+  "tags": [
+    "books",
+    "poetry"
+  ],
+  "related": [
+    "a_film_festival_opens",
+    "a_theater_company_stages",
+    "a_podcast_adaptation_tops"
+  ],
+  "likes": 377,
+  "comments": 14,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "id": "a_streaming_series_revives",
+      "title": "Streaming Series Revives Interest in Folk Music",
+      "summary": "Soundtrack sales surge as viewers discover traditional songs.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T07:57:00Z",
+      "image": "https://picsum.photos/seed/streaming-series-revives/900/600",
+      "tags": [
+        "music",
+        "streaming"
+      ],
+      "likes": 200,
+      "comments": 24,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_electric_truck_maker",
+      "title": "Electric Truck Maker Lands Major Fleet Order",
+      "summary": "A logistics giant commits to two thousand vehicles by 2028.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T06:14:00Z",
+      "image": "https://picsum.photos/seed/electric-truck-maker/900/600",
+      "tags": [
+        "ev",
+        "logistics"
+      ],
+      "likes": 391,
+      "comments": 53,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_grocery_chains_expand",
+      "title": "Grocery Chains Expand Private Label Brands",
+      "summary": "Store brands gain share as shoppers trade down.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T03:50:00Z",
+      "image": "https://picsum.photos/seed/grocery-chains-expand/900/600",
+      "tags": [
+        "retail",
+        "consumer"
+      ],
+      "likes": 314,
+      "comments": 42,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_small_businesses_adopt",
+      "title": "Small Businesses Adopt AI Bookkeeping Tools",
+      "summary": "Automated ledgers cut accounting hours for shop owners.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T01:46:00Z",
+      "image": "https://picsum.photos/seed/small-businesses-adopt/900/600",
+      "tags": [
+        "ai",
+        "small-business"
+      ],
+      "likes": 117,
+      "comments": 54,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_airlines_post_record",
+      "title": "Airlines Post Record Summer Passenger Numbers",
+      "summary": "Strong leisure demand offsets higher fuel costs.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_lina",
+        "name": "Lina Adel",
+        "avatar": "https://picsum.photos/seed/lina/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-11T23:22:00Z",
+      "image": "https://picsum.photos/seed/airlines-post-record/900/600",
+      "tags": [
+        "travel",
+        "earnings"
+      ],
+      "likes": 387,
+      "comments": 49,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_volcano_monitoring_gets",
+      "title": "Volcano Monitoring Gets Real-Time Satellite Feed",
+      "summary": "Thermal imaging alerts arrive within minutes of activity.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T21:21:00Z",
+      "image": "https://picsum.photos/seed/volcano-monitoring-gets/900/600",
+      "tags": [
+        "geology",
+        "satellites"
+      ],
+      "likes": 262,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_researchers_map_coral",
+      "title": "Researchers Map Coral Genome to Aid Reef Recovery",
+      "summary": "Heat tolerant genes could guide restoration efforts.",
+      "source": "Orbit Weekly",
+      "author": {
+        "id": "u_omar",
+        "name": "Omar Hassan",
+        "avatar": "https://picsum.photos/seed/omar/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-11T19:25:00Z",
+      "image": "https://picsum.photos/seed/researchers-map-coral/900/600",
+      "tags": [
+        "biology",
+        "climate"
+      ],
+      "likes": 36,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_chipmakers_race_to",
+      "title": "Chipmakers Race to Cut Power Draw in Data Centers",
+      "summary": "New accelerators promise the same throughput at half the wattage.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-11T17:47:00Z",
+      "image": "https://picsum.photos/seed/chipmakers-race-to/900/600",
+      "tags": [
+        "hardware",
+        "energy"
+      ],
+      "likes": 312,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_cycling_tour_reroutes",
+      "title": "Cycling Tour Reroutes Stage After Heavy Rain",
+      "summary": "Organizers cut a mountain pass to keep riders safe.",
+      "source": "Arena News",
+      "author": {
+        "id": "u_leo",
+        "name": "Leo Marchetti",
+        "avatar": "https://picsum.photos/seed/leo/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-11T16:20:00Z",
+      "image": "https://picsum.photos/seed/cycling-tour-reroutes/900/600",
+      "tags": [
+        "cycling"
+      ],
+      "likes": 193,
+      "comments": 55,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_nurse_shortage_prompts",
+      "title": "Nurse Shortage Prompts Fast-Track Training",
+      "summary": "Accelerated programs aim to fill thousands of open posts.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-11T14:05:00Z",
+      "image": "https://picsum.photos/seed/nurse-shortage-prompts/900/600",
+      "tags": [
+        "workforce",
+        "hospitals"
+      ],
+      "likes": 407,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    }
+  ],
+  "page": 4,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": "feed_5"
+}

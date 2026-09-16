@@ -1,0 +1,5884 @@
+[
+  {
+    "id": "a_flutter_roadmap",
+    "title": "Flutter Team Shares the Next Performance Roadmap",
+    "summary": "New rendering and tooling work targets smoother apps.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The roadmap focuses on startup time, frame consistency, and a leaner build pipeline for large applications."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rendering work targets fewer dropped frames on mid-range devices, while new tooling surfaces jank before it ships."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/rendering/900/500",
+        "caption": "Rendering pipeline overview shared by the team."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Developers can try preview builds on the beta channel, with stable releases expected over the coming quarters."
+      }
+    ],
+    "source": "Mobile Daily",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-14T08:30:00Z",
+    "updatedAt": "2026-09-14T09:12:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/flutter-news/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/flutter-roadmap-1/900/600",
+      "https://picsum.photos/seed/flutter-roadmap-2/900/600",
+      "https://picsum.photos/seed/flutter-roadmap-3/900/600"
+    ],
+    "tags": [
+      "flutter",
+      "mobile"
+    ],
+    "related": [
+      "a_architecture_patterns",
+      "a_dart_tooling"
+    ],
+    "likes": 184,
+    "comments": 29,
+    "isLiked": false,
+    "isBookmarked": true,
+    "version": 3
+  },
+  {
+    "id": "a_dart_tooling",
+    "title": "Dart Tooling Update Speeds Up Hot Reload for Large Apps",
+    "summary": "Incremental compilation cuts reload times on big codebases.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/dart-tooling-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Mobile Daily",
+    "author": {
+      "id": "u_tom",
+      "name": "Tom Okafor",
+      "avatar": "https://picsum.photos/seed/tom/120",
+      "bio": "Developer tools and open source reporter."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-10T00:50:00Z",
+    "updatedAt": "2026-09-10T01:57:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/dart-tooling/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/dart-tooling-1/900/600",
+      "https://picsum.photos/seed/dart-tooling-2/900/600",
+      "https://picsum.photos/seed/dart-tooling-3/900/600"
+    ],
+    "tags": [
+      "dart",
+      "flutter",
+      "tooling"
+    ],
+    "related": [
+      "a_smart_home_standards",
+      "a_ai_policy",
+      "a_open_source_maintainers"
+    ],
+    "likes": 357,
+    "comments": 39,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_architecture_patterns",
+    "title": "Clean Architecture Patterns Gain Ground in Mobile Teams",
+    "summary": "Layered designs and testable domains are becoming the default.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/architecture-patterns-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Future Stack",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-12T18:55:00Z",
+    "updatedAt": "2026-09-12T19:27:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/architecture-patterns/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/architecture-patterns-1/900/600",
+      "https://picsum.photos/seed/architecture-patterns-2/900/600",
+      "https://picsum.photos/seed/architecture-patterns-3/900/600"
+    ],
+    "tags": [
+      "architecture",
+      "flutter",
+      "mobile"
+    ],
+    "related": [
+      "a_flutter_roadmap",
+      "a_ai_policy",
+      "a_quantum_startups_report"
+    ],
+    "likes": 131,
+    "comments": 13,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_ai_policy",
+    "title": "Governments Draft Shared Rules for Frontier AI Models",
+    "summary": "A joint framework would set testing and disclosure requirements.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/ai-policy-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "TechWire",
+    "author": {
+      "id": "u_tom",
+      "name": "Tom Okafor",
+      "avatar": "https://picsum.photos/seed/tom/120",
+      "bio": "Developer tools and open source reporter."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-14T10:05:00Z",
+    "updatedAt": "2026-09-14T10:05:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/ai-policy/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/ai-policy-1/900/600",
+      "https://picsum.photos/seed/ai-policy-2/900/600",
+      "https://picsum.photos/seed/ai-policy-3/900/600"
+    ],
+    "tags": [
+      "ai",
+      "policy"
+    ],
+    "related": [
+      "a_satellite_broadband_expands",
+      "a_chipmakers_race_to",
+      "a_dart_tooling"
+    ],
+    "likes": 210,
+    "comments": 42,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_open_source_maintainers",
+    "title": "Open Source Maintainers Push Back on Licensing Changes",
+    "summary": "Community projects weigh forks after a popular license switch.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/open-source-maintainers-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Future Stack",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-11T11:52:00Z",
+    "updatedAt": "2026-09-11T11:59:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/open-source-maintainers/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/open-source-maintainers-1/900/600",
+      "https://picsum.photos/seed/open-source-maintainers-2/900/600",
+      "https://picsum.photos/seed/open-source-maintainers-3/900/600"
+    ],
+    "tags": [
+      "open-source",
+      "licensing"
+    ],
+    "related": [
+      "a_flutter_roadmap",
+      "a_smart_home_standards",
+      "a_chipmakers_race_to"
+    ],
+    "likes": 18,
+    "comments": 25,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_edge_devices_get",
+    "title": "Edge Devices Get Smaller Language Models Built In",
+    "summary": "On-device inference brings assistants to phones and sensors.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/edge-devices-get-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Mobile Daily",
+    "author": {
+      "id": "u_tom",
+      "name": "Tom Okafor",
+      "avatar": "https://picsum.photos/seed/tom/120",
+      "bio": "Developer tools and open source reporter."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-08T04:47:00Z",
+    "updatedAt": "2026-09-08T05:43:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/edge-devices-get/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/edge-devices-get-1/900/600",
+      "https://picsum.photos/seed/edge-devices-get-2/900/600",
+      "https://picsum.photos/seed/edge-devices-get-3/900/600"
+    ],
+    "tags": [
+      "ai",
+      "edge",
+      "mobile"
+    ],
+    "related": [
+      "a_ai_policy",
+      "a_foldable_phones_finally",
+      "a_satellite_broadband_expands"
+    ],
+    "likes": 249,
+    "comments": 55,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_passkeys_replace_passwords",
+    "title": "Passkeys Replace Passwords Across Major Platforms",
+    "summary": "Password-less sign in is now the default on new accounts.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/passkeys-replace-passwords-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "TechWire",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-08T21:45:00Z",
+    "updatedAt": "2026-09-08T22:35:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/passkeys-replace-passwords/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/passkeys-replace-passwords-1/900/600",
+      "https://picsum.photos/seed/passkeys-replace-passwords-2/900/600",
+      "https://picsum.photos/seed/passkeys-replace-passwords-3/900/600"
+    ],
+    "tags": [
+      "security",
+      "identity"
+    ],
+    "related": [
+      "a_ai_policy",
+      "a_architecture_patterns",
+      "a_dart_tooling"
+    ],
+    "likes": 358,
+    "comments": 11,
+    "isLiked": true,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_foldable_phones_finally",
+    "title": "Foldable Phones Finally Reach Mainstream Pricing",
+    "summary": "Cheaper hinges and panels bring foldables under the flagship line.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/foldable-phones-finally-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      }
+    ],
+    "source": "Future Stack",
+    "author": {
+      "id": "u_tom",
+      "name": "Tom Okafor",
+      "avatar": "https://picsum.photos/seed/tom/120",
+      "bio": "Developer tools and open source reporter."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-11T00:18:00Z",
+    "updatedAt": "2026-09-11T00:32:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/foldable-phones-finally/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/foldable-phones-finally-1/900/600",
+      "https://picsum.photos/seed/foldable-phones-finally-2/900/600",
+      "https://picsum.photos/seed/foldable-phones-finally-3/900/600"
+    ],
+    "tags": [
+      "hardware",
+      "mobile"
+    ],
+    "related": [
+      "a_passkeys_replace_passwords",
+      "a_quantum_startups_report",
+      "a_dart_tooling"
+    ],
+    "likes": 347,
+    "comments": 30,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_webassembly_runtimes_move",
+    "title": "WebAssembly Runtimes Move Into Production Backends",
+    "summary": "Sandboxed modules replace containers for lightweight services.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/webassembly-runtimes-move-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Mobile Daily",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-10T21:52:00Z",
+    "updatedAt": "2026-09-10T23:17:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/webassembly-runtimes-move/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/webassembly-runtimes-move-1/900/600",
+      "https://picsum.photos/seed/webassembly-runtimes-move-2/900/600",
+      "https://picsum.photos/seed/webassembly-runtimes-move-3/900/600"
+    ],
+    "tags": [
+      "wasm",
+      "backend"
+    ],
+    "related": [
+      "a_rust_adoption_grows",
+      "a_passkeys_replace_passwords",
+      "a_open_source_maintainers"
+    ],
+    "likes": 234,
+    "comments": 15,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_chipmakers_race_to",
+    "title": "Chipmakers Race to Cut Power Draw in Data Centers",
+    "summary": "New accelerators promise the same throughput at half the wattage.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/chipmakers-race-to-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "TechWire",
+    "author": {
+      "id": "u_tom",
+      "name": "Tom Okafor",
+      "avatar": "https://picsum.photos/seed/tom/120",
+      "bio": "Developer tools and open source reporter."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-11T17:47:00Z",
+    "updatedAt": "2026-09-11T18:20:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/chipmakers-race-to/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/chipmakers-race-to-1/900/600",
+      "https://picsum.photos/seed/chipmakers-race-to-2/900/600",
+      "https://picsum.photos/seed/chipmakers-race-to-3/900/600"
+    ],
+    "tags": [
+      "hardware",
+      "energy"
+    ],
+    "related": [
+      "a_satellite_broadband_expands",
+      "a_rust_adoption_grows",
+      "a_open_source_maintainers"
+    ],
+    "likes": 312,
+    "comments": 13,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_lowcode_tools_reshape",
+    "title": "Low-Code Tools Reshape Internal Enterprise Apps",
+    "summary": "Business teams ship dashboards without waiting for engineering.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/lowcode-tools-reshape-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Future Stack",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-13T21:56:53Z",
+    "updatedAt": "2026-09-13T23:13:53Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/lowcode-tools-reshape/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/lowcode-tools-reshape-1/900/600",
+      "https://picsum.photos/seed/lowcode-tools-reshape-2/900/600",
+      "https://picsum.photos/seed/lowcode-tools-reshape-3/900/600"
+    ],
+    "tags": [
+      "low-code",
+      "enterprise"
+    ],
+    "related": [
+      "a_chipmakers_race_to",
+      "a_passkeys_replace_passwords",
+      "a_foldable_phones_finally"
+    ],
+    "likes": 60,
+    "comments": 45,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_quantum_startups_report",
+    "title": "Quantum Startups Report First Error-Corrected Qubits",
+    "summary": "Logical qubits stay stable long enough for small algorithms.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/quantum-startups-report-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Mobile Daily",
+    "author": {
+      "id": "u_tom",
+      "name": "Tom Okafor",
+      "avatar": "https://picsum.photos/seed/tom/120",
+      "bio": "Developer tools and open source reporter."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-10T16:37:00Z",
+    "updatedAt": "2026-09-10T16:50:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/quantum-startups-report/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/quantum-startups-report-1/900/600",
+      "https://picsum.photos/seed/quantum-startups-report-2/900/600",
+      "https://picsum.photos/seed/quantum-startups-report-3/900/600"
+    ],
+    "tags": [
+      "quantum",
+      "research"
+    ],
+    "related": [
+      "a_open_source_maintainers",
+      "a_lowcode_tools_reshape",
+      "a_webassembly_runtimes_move"
+    ],
+    "likes": 96,
+    "comments": 47,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_satellite_broadband_expands",
+    "title": "Satellite Broadband Expands to Remote Classrooms",
+    "summary": "Low orbit networks connect schools far from fiber lines.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/satellite-broadband-expands-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "TechWire",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-10T05:43:00Z",
+    "updatedAt": "2026-09-10T06:18:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/satellite-broadband-expands/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/satellite-broadband-expands-1/900/600",
+      "https://picsum.photos/seed/satellite-broadband-expands-2/900/600",
+      "https://picsum.photos/seed/satellite-broadband-expands-3/900/600"
+    ],
+    "tags": [
+      "connectivity",
+      "education"
+    ],
+    "related": [
+      "a_quantum_startups_report",
+      "a_chipmakers_race_to",
+      "a_smart_home_standards"
+    ],
+    "likes": 306,
+    "comments": 43,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_rust_adoption_grows",
+    "title": "Rust Adoption Grows in Operating System Kernels",
+    "summary": "Memory safe drivers land in mainline releases this year.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/rust-adoption-grows-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Future Stack",
+    "author": {
+      "id": "u_tom",
+      "name": "Tom Okafor",
+      "avatar": "https://picsum.photos/seed/tom/120",
+      "bio": "Developer tools and open source reporter."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-08T17:04:00Z",
+    "updatedAt": "2026-09-08T18:01:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/rust-adoption-grows/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/rust-adoption-grows-1/900/600",
+      "https://picsum.photos/seed/rust-adoption-grows-2/900/600",
+      "https://picsum.photos/seed/rust-adoption-grows-3/900/600"
+    ],
+    "tags": [
+      "rust",
+      "systems"
+    ],
+    "related": [
+      "a_webassembly_runtimes_move",
+      "a_passkeys_replace_passwords",
+      "a_satellite_broadband_expands"
+    ],
+    "likes": 113,
+    "comments": 12,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_smart_home_standards",
+    "title": "Smart Home Standards Finally Talk to Each Other",
+    "summary": "A unified protocol lets devices from rival brands pair instantly.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/smart-home-standards-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Mobile Daily",
+    "author": {
+      "id": "u_maya",
+      "name": "Maya Chen",
+      "avatar": "https://picsum.photos/seed/maya/120",
+      "bio": "Mobile technology editor."
+    },
+    "topicId": "t_technology",
+    "publishedAt": "2026-09-13T07:05:00Z",
+    "updatedAt": "2026-09-13T08:20:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/smart-home-standards/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/smart-home-standards-1/900/600",
+      "https://picsum.photos/seed/smart-home-standards-2/900/600",
+      "https://picsum.photos/seed/smart-home-standards-3/900/600"
+    ],
+    "tags": [
+      "iot",
+      "smart-home"
+    ],
+    "related": [
+      "a_webassembly_runtimes_move",
+      "a_satellite_broadband_expands",
+      "a_passkeys_replace_passwords"
+    ],
+    "likes": 13,
+    "comments": 19,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_market_week",
+    "title": "Markets Open Higher as Technology Shares Advance",
+    "summary": "Investors watch inflation data and earnings guidance.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/market-week-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      }
+    ],
+    "source": "Market Brief",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-13T19:45:00Z",
+    "updatedAt": "2026-09-13T20:00:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/market/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/market-week-1/900/600",
+      "https://picsum.photos/seed/market-week-2/900/600",
+      "https://picsum.photos/seed/market-week-3/900/600"
+    ],
+    "tags": [
+      "markets"
+    ],
+    "related": [
+      "a_payroll_data_shows",
+      "a_remote_work_policies",
+      "a_luxury_brands_slow"
+    ],
+    "likes": 51,
+    "comments": 8,
+    "isLiked": false,
+    "isBookmarked": true,
+    "version": 1
+  },
+  {
+    "id": "a_central_banks_signal",
+    "title": "Central Banks Signal Pause on Interest Rate Hikes",
+    "summary": "Policy makers point to cooling prices and slower hiring.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/central-banks-signal-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Global Ledger",
+    "author": {
+      "id": "u_priya",
+      "name": "Priya Nair",
+      "avatar": "https://picsum.photos/seed/priya/120",
+      "bio": "Covers startups, venture capital, and fintech."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-08T14:00:00Z",
+    "updatedAt": "2026-09-08T14:11:00Z",
+    "readTimeMinutes": 5,
+    "image": "https://picsum.photos/seed/central-banks-signal/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/central-banks-signal-1/900/600",
+      "https://picsum.photos/seed/central-banks-signal-2/900/600",
+      "https://picsum.photos/seed/central-banks-signal-3/900/600"
+    ],
+    "tags": [
+      "markets",
+      "rates"
+    ],
+    "related": [
+      "a_small_businesses_adopt",
+      "a_market_week",
+      "a_airlines_post_record"
+    ],
+    "likes": 188,
+    "comments": 2,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_startup_funding_rebounds",
+    "title": "Startup Funding Rebounds in Third Quarter Report",
+    "summary": "Late stage rounds return as valuations settle.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/startup-funding-rebounds-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Startup Post",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-08T02:21:00Z",
+    "updatedAt": "2026-09-08T03:09:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/startup-funding-rebounds/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/startup-funding-rebounds-1/900/600",
+      "https://picsum.photos/seed/startup-funding-rebounds-2/900/600",
+      "https://picsum.photos/seed/startup-funding-rebounds-3/900/600"
+    ],
+    "tags": [
+      "startups",
+      "venture"
+    ],
+    "related": [
+      "a_chip_shortage_ends",
+      "a_shipping_costs_fall",
+      "a_central_banks_signal"
+    ],
+    "likes": 368,
+    "comments": 32,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_retailers_bet_on",
+    "title": "Retailers Bet on Smaller Stores in City Centers",
+    "summary": "Compact formats target commuters and same day pickup.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/retailers-bet-on-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "Market Brief",
+    "author": {
+      "id": "u_priya",
+      "name": "Priya Nair",
+      "avatar": "https://picsum.photos/seed/priya/120",
+      "bio": "Covers startups, venture capital, and fintech."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-13T22:56:19Z",
+    "updatedAt": "2026-09-13T23:31:19Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/retailers-bet-on/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/retailers-bet-on-1/900/600",
+      "https://picsum.photos/seed/retailers-bet-on-2/900/600",
+      "https://picsum.photos/seed/retailers-bet-on-3/900/600"
+    ],
+    "tags": [
+      "retail"
+    ],
+    "related": [
+      "a_fintech_firms_seek",
+      "a_energy_companies_shift",
+      "a_central_banks_signal"
+    ],
+    "likes": 252,
+    "comments": 19,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_shipping_costs_fall",
+    "title": "Shipping Costs Fall as Port Congestion Eases",
+    "summary": "Container rates drop to pre-pandemic levels on key routes.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/shipping-costs-fall-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Global Ledger",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-11T10:31:00Z",
+    "updatedAt": "2026-09-11T11:51:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/shipping-costs-fall/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/shipping-costs-fall-1/900/600",
+      "https://picsum.photos/seed/shipping-costs-fall-2/900/600",
+      "https://picsum.photos/seed/shipping-costs-fall-3/900/600"
+    ],
+    "tags": [
+      "logistics",
+      "trade"
+    ],
+    "related": [
+      "a_market_week",
+      "a_grocery_chains_expand",
+      "a_electric_truck_maker"
+    ],
+    "likes": 332,
+    "comments": 18,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_remote_work_policies",
+    "title": "Remote Work Policies Settle Into Hybrid Norm",
+    "summary": "Most large employers land on three days in the office.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/remote-work-policies-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      }
+    ],
+    "source": "Startup Post",
+    "author": {
+      "id": "u_priya",
+      "name": "Priya Nair",
+      "avatar": "https://picsum.photos/seed/priya/120",
+      "bio": "Covers startups, venture capital, and fintech."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-08T12:03:00Z",
+    "updatedAt": "2026-09-08T13:31:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/remote-work-policies/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/remote-work-policies-1/900/600",
+      "https://picsum.photos/seed/remote-work-policies-2/900/600",
+      "https://picsum.photos/seed/remote-work-policies-3/900/600"
+    ],
+    "tags": [
+      "workplace"
+    ],
+    "related": [
+      "a_payroll_data_shows",
+      "a_startup_funding_rebounds",
+      "a_central_banks_signal"
+    ],
+    "likes": 53,
+    "comments": 29,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_airlines_post_record",
+    "title": "Airlines Post Record Summer Passenger Numbers",
+    "summary": "Strong leisure demand offsets higher fuel costs.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/airlines-post-record-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Market Brief",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-11T23:22:00Z",
+    "updatedAt": "2026-09-12T00:24:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/airlines-post-record/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/airlines-post-record-1/900/600",
+      "https://picsum.photos/seed/airlines-post-record-2/900/600",
+      "https://picsum.photos/seed/airlines-post-record-3/900/600"
+    ],
+    "tags": [
+      "travel",
+      "earnings"
+    ],
+    "related": [
+      "a_grocery_chains_expand",
+      "a_retailers_bet_on",
+      "a_central_banks_signal"
+    ],
+    "likes": 387,
+    "comments": 49,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_electric_truck_maker",
+    "title": "Electric Truck Maker Lands Major Fleet Order",
+    "summary": "A logistics giant commits to two thousand vehicles by 2028.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/electric-truck-maker-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Global Ledger",
+    "author": {
+      "id": "u_priya",
+      "name": "Priya Nair",
+      "avatar": "https://picsum.photos/seed/priya/120",
+      "bio": "Covers startups, venture capital, and fintech."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-12T06:14:00Z",
+    "updatedAt": "2026-09-12T07:06:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/electric-truck-maker/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/electric-truck-maker-1/900/600",
+      "https://picsum.photos/seed/electric-truck-maker-2/900/600",
+      "https://picsum.photos/seed/electric-truck-maker-3/900/600"
+    ],
+    "tags": [
+      "ev",
+      "logistics"
+    ],
+    "related": [
+      "a_airlines_post_record",
+      "a_luxury_brands_slow",
+      "a_retailers_bet_on"
+    ],
+    "likes": 391,
+    "comments": 53,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_grocery_chains_expand",
+    "title": "Grocery Chains Expand Private Label Brands",
+    "summary": "Store brands gain share as shoppers trade down.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/grocery-chains-expand-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Startup Post",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-12T03:50:00Z",
+    "updatedAt": "2026-09-12T04:51:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/grocery-chains-expand/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/grocery-chains-expand-1/900/600",
+      "https://picsum.photos/seed/grocery-chains-expand-2/900/600",
+      "https://picsum.photos/seed/grocery-chains-expand-3/900/600"
+    ],
+    "tags": [
+      "retail",
+      "consumer"
+    ],
+    "related": [
+      "a_payroll_data_shows",
+      "a_market_week",
+      "a_electric_truck_maker"
+    ],
+    "likes": 314,
+    "comments": 42,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_fintech_firms_seek",
+    "title": "Fintech Firms Seek Bank Charters to Cut Costs",
+    "summary": "Owning the rails lets startups keep more of each transaction.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/fintech-firms-seek-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Market Brief",
+    "author": {
+      "id": "u_priya",
+      "name": "Priya Nair",
+      "avatar": "https://picsum.photos/seed/priya/120",
+      "bio": "Covers startups, venture capital, and fintech."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-10T12:02:00Z",
+    "updatedAt": "2026-09-10T12:49:00Z",
+    "readTimeMinutes": 5,
+    "image": "https://picsum.photos/seed/fintech-firms-seek/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/fintech-firms-seek-1/900/600",
+      "https://picsum.photos/seed/fintech-firms-seek-2/900/600",
+      "https://picsum.photos/seed/fintech-firms-seek-3/900/600"
+    ],
+    "tags": [
+      "fintech",
+      "banking"
+    ],
+    "related": [
+      "a_airlines_post_record",
+      "a_remote_work_policies",
+      "a_payroll_data_shows"
+    ],
+    "likes": 274,
+    "comments": 28,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_chip_shortage_ends",
+    "title": "Chip Shortage Ends as Inventories Normalize",
+    "summary": "Automakers report full supply for the first time in three years.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/chip-shortage-ends-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Global Ledger",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-11T06:22:00Z",
+    "updatedAt": "2026-09-11T07:42:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/chip-shortage-ends/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/chip-shortage-ends-1/900/600",
+      "https://picsum.photos/seed/chip-shortage-ends-2/900/600",
+      "https://picsum.photos/seed/chip-shortage-ends-3/900/600"
+    ],
+    "tags": [
+      "supply-chain",
+      "semiconductors"
+    ],
+    "related": [
+      "a_luxury_brands_slow",
+      "a_payroll_data_shows",
+      "a_fintech_firms_seek"
+    ],
+    "likes": 332,
+    "comments": 1,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_luxury_brands_slow",
+    "title": "Luxury Brands Slow Expansion Amid Softer Demand",
+    "summary": "Fewer store openings as spending cools in key markets.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/luxury-brands-slow-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      }
+    ],
+    "source": "Startup Post",
+    "author": {
+      "id": "u_priya",
+      "name": "Priya Nair",
+      "avatar": "https://picsum.photos/seed/priya/120",
+      "bio": "Covers startups, venture capital, and fintech."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-13T01:16:00Z",
+    "updatedAt": "2026-09-13T02:28:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/luxury-brands-slow/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/luxury-brands-slow-1/900/600",
+      "https://picsum.photos/seed/luxury-brands-slow-2/900/600",
+      "https://picsum.photos/seed/luxury-brands-slow-3/900/600"
+    ],
+    "tags": [
+      "luxury",
+      "retail"
+    ],
+    "related": [
+      "a_shipping_costs_fall",
+      "a_payroll_data_shows",
+      "a_electric_truck_maker"
+    ],
+    "likes": 115,
+    "comments": 44,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_payroll_data_shows",
+    "title": "Payroll Data Shows Steady Wage Growth",
+    "summary": "Earnings rise faster than prices for a fourth month.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/payroll-data-shows-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Market Brief",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-11T02:22:00Z",
+    "updatedAt": "2026-09-11T02:27:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/payroll-data-shows/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/payroll-data-shows-1/900/600",
+      "https://picsum.photos/seed/payroll-data-shows-2/900/600",
+      "https://picsum.photos/seed/payroll-data-shows-3/900/600"
+    ],
+    "tags": [
+      "economy",
+      "jobs"
+    ],
+    "related": [
+      "a_chip_shortage_ends",
+      "a_market_week",
+      "a_small_businesses_adopt"
+    ],
+    "likes": 17,
+    "comments": 12,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_energy_companies_shift",
+    "title": "Energy Companies Shift Budgets Toward Renewables",
+    "summary": "Capital spending on wind and solar overtakes oil exploration.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/energy-companies-shift-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Global Ledger",
+    "author": {
+      "id": "u_priya",
+      "name": "Priya Nair",
+      "avatar": "https://picsum.photos/seed/priya/120",
+      "bio": "Covers startups, venture capital, and fintech."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-09T11:09:00Z",
+    "updatedAt": "2026-09-09T12:14:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/energy-companies-shift/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/energy-companies-shift-1/900/600",
+      "https://picsum.photos/seed/energy-companies-shift-2/900/600",
+      "https://picsum.photos/seed/energy-companies-shift-3/900/600"
+    ],
+    "tags": [
+      "energy",
+      "renewables"
+    ],
+    "related": [
+      "a_airlines_post_record",
+      "a_small_businesses_adopt",
+      "a_luxury_brands_slow"
+    ],
+    "likes": 309,
+    "comments": 13,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_small_businesses_adopt",
+    "title": "Small Businesses Adopt AI Bookkeeping Tools",
+    "summary": "Automated ledgers cut accounting hours for shop owners.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/small-businesses-adopt-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Startup Post",
+    "author": {
+      "id": "u_lina",
+      "name": "Lina Adel",
+      "avatar": "https://picsum.photos/seed/lina/120",
+      "bio": "Markets reporter based in London."
+    },
+    "topicId": "t_business",
+    "publishedAt": "2026-09-12T01:46:00Z",
+    "updatedAt": "2026-09-12T02:57:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/small-businesses-adopt/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/small-businesses-adopt-1/900/600",
+      "https://picsum.photos/seed/small-businesses-adopt-2/900/600",
+      "https://picsum.photos/seed/small-businesses-adopt-3/900/600"
+    ],
+    "tags": [
+      "ai",
+      "small-business"
+    ],
+    "related": [
+      "a_airlines_post_record",
+      "a_electric_truck_maker",
+      "a_payroll_data_shows"
+    ],
+    "likes": 117,
+    "comments": 54,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_underdogs_stun_champions",
+    "title": "Underdogs Stun Champions in Cup Final Thriller",
+    "summary": "A late header seals a first major trophy for the club.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/underdogs-stun-champions-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Match Point",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-09T03:26:00Z",
+    "updatedAt": "2026-09-09T03:43:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/underdogs-stun-champions/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/underdogs-stun-champions-1/900/600",
+      "https://picsum.photos/seed/underdogs-stun-champions-2/900/600",
+      "https://picsum.photos/seed/underdogs-stun-champions-3/900/600"
+    ],
+    "tags": [
+      "football",
+      "cup-final"
+    ],
+    "related": [
+      "a_league_approves_expansion",
+      "a_esports_finals_draw",
+      "a_goalkeeper_saves_two"
+    ],
+    "likes": 232,
+    "comments": 42,
+    "isLiked": true,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_marathon_record_falls",
+    "title": "Marathon Record Falls on Fast Berlin Course",
+    "summary": "Perfect conditions help shave nine seconds off the world best.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/marathon-record-falls-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Arena News",
+    "author": {
+      "id": "u_leo",
+      "name": "Leo Marchetti",
+      "avatar": "https://picsum.photos/seed/leo/120",
+      "bio": "Football and Olympic sports analyst."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-08T10:33:00Z",
+    "updatedAt": "2026-09-08T12:00:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/marathon-record-falls/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/marathon-record-falls-1/900/600",
+      "https://picsum.photos/seed/marathon-record-falls-2/900/600",
+      "https://picsum.photos/seed/marathon-record-falls-3/900/600"
+    ],
+    "tags": [
+      "athletics",
+      "marathon"
+    ],
+    "related": [
+      "a_basketball_rookie_sets",
+      "a_goalkeeper_saves_two",
+      "a_cycling_tour_reroutes"
+    ],
+    "likes": 205,
+    "comments": 46,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_tennis_star_announces",
+    "title": "Tennis Star Announces Return After Injury Layoff",
+    "summary": "Comeback planned for the season's first hard court swing.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/tennis-star-announces-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "The Final Whistle",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-09T05:40:00Z",
+    "updatedAt": "2026-09-09T05:57:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/tennis-star-announces/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/tennis-star-announces-1/900/600",
+      "https://picsum.photos/seed/tennis-star-announces-2/900/600",
+      "https://picsum.photos/seed/tennis-star-announces-3/900/600"
+    ],
+    "tags": [
+      "tennis"
+    ],
+    "related": [
+      "a_olympic_committee_adds",
+      "a_league_approves_expansion",
+      "a_marathon_record_falls"
+    ],
+    "likes": 91,
+    "comments": 47,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_league_approves_expansion",
+    "title": "League Approves Expansion to Two New Cities",
+    "summary": "Franchises will begin play in the 2028 season.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/league-approves-expansion-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Match Point",
+    "author": {
+      "id": "u_leo",
+      "name": "Leo Marchetti",
+      "avatar": "https://picsum.photos/seed/leo/120",
+      "bio": "Football and Olympic sports analyst."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-13T16:49:00Z",
+    "updatedAt": "2026-09-13T17:02:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/league-approves-expansion/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/league-approves-expansion-1/900/600",
+      "https://picsum.photos/seed/league-approves-expansion-2/900/600",
+      "https://picsum.photos/seed/league-approves-expansion-3/900/600"
+    ],
+    "tags": [
+      "basketball",
+      "league"
+    ],
+    "related": [
+      "a_cricket_board_introduces",
+      "a_underdogs_stun_champions",
+      "a_youth_academy_produces"
+    ],
+    "likes": 178,
+    "comments": 21,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_youth_academy_produces",
+    "title": "Youth Academy Produces Third Straight Debutant",
+    "summary": "Another teenager steps up to the senior squad.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/youth-academy-produces-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "Arena News",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-08T08:14:00Z",
+    "updatedAt": "2026-09-08T08:31:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/youth-academy-produces/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/youth-academy-produces-1/900/600",
+      "https://picsum.photos/seed/youth-academy-produces-2/900/600",
+      "https://picsum.photos/seed/youth-academy-produces-3/900/600"
+    ],
+    "tags": [
+      "football",
+      "youth"
+    ],
+    "related": [
+      "a_esports_finals_draw",
+      "a_olympic_committee_adds",
+      "a_basketball_rookie_sets"
+    ],
+    "likes": 117,
+    "comments": 28,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_olympic_committee_adds",
+    "title": "Olympic Committee Adds Climbing Relay Event",
+    "summary": "The team format debuts at the next summer games.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/olympic-committee-adds-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "The Final Whistle",
+    "author": {
+      "id": "u_leo",
+      "name": "Leo Marchetti",
+      "avatar": "https://picsum.photos/seed/leo/120",
+      "bio": "Football and Olympic sports analyst."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-13T13:45:00Z",
+    "updatedAt": "2026-09-13T14:06:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/olympic-committee-adds/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/olympic-committee-adds-1/900/600",
+      "https://picsum.photos/seed/olympic-committee-adds-2/900/600",
+      "https://picsum.photos/seed/olympic-committee-adds-3/900/600"
+    ],
+    "tags": [
+      "olympics",
+      "climbing"
+    ],
+    "related": [
+      "a_underdogs_stun_champions",
+      "a_tennis_star_announces",
+      "a_esports_finals_draw"
+    ],
+    "likes": 215,
+    "comments": 18,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_goalkeeper_saves_two",
+    "title": "Goalkeeper Saves Two Penalties in Derby Draw",
+    "summary": "Heroics keep the points shared in a fiery local clash.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/goalkeeper-saves-two-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Match Point",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-14T02:29:39Z",
+    "updatedAt": "2026-09-14T03:13:39Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/goalkeeper-saves-two/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/goalkeeper-saves-two-1/900/600",
+      "https://picsum.photos/seed/goalkeeper-saves-two-2/900/600",
+      "https://picsum.photos/seed/goalkeeper-saves-two-3/900/600"
+    ],
+    "tags": [
+      "football",
+      "derby"
+    ],
+    "related": [
+      "a_rugby_union_tightens",
+      "a_esports_finals_draw",
+      "a_youth_academy_produces"
+    ],
+    "likes": 306,
+    "comments": 56,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_cycling_tour_reroutes",
+    "title": "Cycling Tour Reroutes Stage After Heavy Rain",
+    "summary": "Organizers cut a mountain pass to keep riders safe.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/cycling-tour-reroutes-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Arena News",
+    "author": {
+      "id": "u_leo",
+      "name": "Leo Marchetti",
+      "avatar": "https://picsum.photos/seed/leo/120",
+      "bio": "Football and Olympic sports analyst."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-11T16:20:00Z",
+    "updatedAt": "2026-09-11T16:33:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/cycling-tour-reroutes/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/cycling-tour-reroutes-1/900/600",
+      "https://picsum.photos/seed/cycling-tour-reroutes-2/900/600",
+      "https://picsum.photos/seed/cycling-tour-reroutes-3/900/600"
+    ],
+    "tags": [
+      "cycling"
+    ],
+    "related": [
+      "a_cricket_board_introduces",
+      "a_formula_teams_unveil",
+      "a_olympic_committee_adds"
+    ],
+    "likes": 193,
+    "comments": 55,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_basketball_rookie_sets",
+    "title": "Basketball Rookie Sets Scoring Record in Debut",
+    "summary": "Forty two points mark the best first game in league history.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/basketball-rookie-sets-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "The Final Whistle",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-08T05:57:00Z",
+    "updatedAt": "2026-09-08T06:09:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/basketball-rookie-sets/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/basketball-rookie-sets-1/900/600",
+      "https://picsum.photos/seed/basketball-rookie-sets-2/900/600",
+      "https://picsum.photos/seed/basketball-rookie-sets-3/900/600"
+    ],
+    "tags": [
+      "basketball",
+      "rookie"
+    ],
+    "related": [
+      "a_olympic_committee_adds",
+      "a_rugby_union_tightens",
+      "a_swimmers_break_relay"
+    ],
+    "likes": 140,
+    "comments": 37,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_swimmers_break_relay",
+    "title": "Swimmers Break Relay Mark at World Championships",
+    "summary": "A blistering final leg secures gold and a new record.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/swimmers-break-relay-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Match Point",
+    "author": {
+      "id": "u_leo",
+      "name": "Leo Marchetti",
+      "avatar": "https://picsum.photos/seed/leo/120",
+      "bio": "Football and Olympic sports analyst."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-13T02:53:00Z",
+    "updatedAt": "2026-09-13T03:31:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/swimmers-break-relay/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/swimmers-break-relay-1/900/600",
+      "https://picsum.photos/seed/swimmers-break-relay-2/900/600",
+      "https://picsum.photos/seed/swimmers-break-relay-3/900/600"
+    ],
+    "tags": [
+      "swimming",
+      "world-championships"
+    ],
+    "related": [
+      "a_goalkeeper_saves_two",
+      "a_tennis_star_announces",
+      "a_cycling_tour_reroutes"
+    ],
+    "likes": 251,
+    "comments": 52,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_formula_teams_unveil",
+    "title": "Formula Teams Unveil Lighter Chassis for New Season",
+    "summary": "Rule changes push engineers toward smaller, nimbler cars.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/formula-teams-unveil-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      }
+    ],
+    "source": "Arena News",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-09T18:02:00Z",
+    "updatedAt": "2026-09-09T19:20:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/formula-teams-unveil/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/formula-teams-unveil-1/900/600",
+      "https://picsum.photos/seed/formula-teams-unveil-2/900/600",
+      "https://picsum.photos/seed/formula-teams-unveil-3/900/600"
+    ],
+    "tags": [
+      "motorsport"
+    ],
+    "related": [
+      "a_swimmers_break_relay",
+      "a_cycling_tour_reroutes",
+      "a_esports_finals_draw"
+    ],
+    "likes": 63,
+    "comments": 7,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_cricket_board_introduces",
+    "title": "Cricket Board Introduces Shorter Format Trial",
+    "summary": "A sixty ball match aims to attract younger fans.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/cricket-board-introduces-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "The Final Whistle",
+    "author": {
+      "id": "u_leo",
+      "name": "Leo Marchetti",
+      "avatar": "https://picsum.photos/seed/leo/120",
+      "bio": "Football and Olympic sports analyst."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-11T09:15:00Z",
+    "updatedAt": "2026-09-11T10:30:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/cricket-board-introduces/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/cricket-board-introduces-1/900/600",
+      "https://picsum.photos/seed/cricket-board-introduces-2/900/600",
+      "https://picsum.photos/seed/cricket-board-introduces-3/900/600"
+    ],
+    "tags": [
+      "cricket"
+    ],
+    "related": [
+      "a_youth_academy_produces",
+      "a_esports_finals_draw",
+      "a_marathon_record_falls"
+    ],
+    "likes": 342,
+    "comments": 8,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_rugby_union_tightens",
+    "title": "Rugby Union Tightens Concussion Protocols",
+    "summary": "Players face longer mandatory rest after head knocks.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/rugby-union-tightens-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      }
+    ],
+    "source": "Match Point",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-13T20:44:26Z",
+    "updatedAt": "2026-09-13T20:59:26Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/rugby-union-tightens/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/rugby-union-tightens-1/900/600",
+      "https://picsum.photos/seed/rugby-union-tightens-2/900/600",
+      "https://picsum.photos/seed/rugby-union-tightens-3/900/600"
+    ],
+    "tags": [
+      "rugby",
+      "safety"
+    ],
+    "related": [
+      "a_basketball_rookie_sets",
+      "a_underdogs_stun_champions",
+      "a_goalkeeper_saves_two"
+    ],
+    "likes": 95,
+    "comments": 42,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_esports_finals_draw",
+    "title": "Esports Finals Draw Record Online Audience",
+    "summary": "Peak viewership tops five million concurrent streams.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/esports-finals-draw-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Arena News",
+    "author": {
+      "id": "u_leo",
+      "name": "Leo Marchetti",
+      "avatar": "https://picsum.photos/seed/leo/120",
+      "bio": "Football and Olympic sports analyst."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-12T15:44:00Z",
+    "updatedAt": "2026-09-12T16:14:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/esports-finals-draw/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/esports-finals-draw-1/900/600",
+      "https://picsum.photos/seed/esports-finals-draw-2/900/600",
+      "https://picsum.photos/seed/esports-finals-draw-3/900/600"
+    ],
+    "tags": [
+      "esports"
+    ],
+    "related": [
+      "a_cricket_board_introduces",
+      "a_goalkeeper_saves_two",
+      "a_underdogs_stun_champions"
+    ],
+    "likes": 307,
+    "comments": 60,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_golf_prodigy_wins",
+    "title": "Golf Prodigy Wins First Major at Nineteen",
+    "summary": "A final round sixty five clinches the youngest win in decades.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/golf-prodigy-wins-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      }
+    ],
+    "source": "The Final Whistle",
+    "author": {
+      "id": "u_jonas",
+      "name": "Jonas Weber",
+      "avatar": "https://picsum.photos/seed/jonas/120",
+      "bio": "Senior sports writer and former athlete."
+    },
+    "topicId": "t_sports",
+    "publishedAt": "2026-09-11T07:51:00Z",
+    "updatedAt": "2026-09-11T08:25:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/golf-prodigy-wins/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/golf-prodigy-wins-1/900/600",
+      "https://picsum.photos/seed/golf-prodigy-wins-2/900/600",
+      "https://picsum.photos/seed/golf-prodigy-wins-3/900/600"
+    ],
+    "tags": [
+      "golf"
+    ],
+    "related": [
+      "a_cycling_tour_reroutes",
+      "a_formula_teams_unveil",
+      "a_league_approves_expansion"
+    ],
+    "likes": 183,
+    "comments": 16,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_clean_energy",
+    "title": "Battery Breakthrough Improves Grid Storage Efficiency",
+    "summary": "Researchers report longer cycle life in early trials.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/clean-energy-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "Science Journal",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-14T06:10:00Z",
+    "updatedAt": "2026-09-14T06:17:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/energy/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/clean-energy-1/900/600",
+      "https://picsum.photos/seed/clean-energy-2/900/600",
+      "https://picsum.photos/seed/clean-energy-3/900/600"
+    ],
+    "tags": [
+      "energy",
+      "research"
+    ],
+    "related": [
+      "a_volcano_monitoring_gets",
+      "a_deep_sea_expedition",
+      "a_ocean_current_slowdown"
+    ],
+    "likes": 96,
+    "comments": 11,
+    "isLiked": true,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_telescope_captures_earliest",
+    "title": "Telescope Captures Earliest Galaxy Yet Observed",
+    "summary": "Light from the object left it three hundred million years after the big bang.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/telescope-captures-earliest-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Lab Notes",
+    "author": {
+      "id": "u_hana",
+      "name": "Hana Sato",
+      "avatar": "https://picsum.photos/seed/hana/120",
+      "bio": "Space and astronomy writer."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-12T14:17:00Z",
+    "updatedAt": "2026-09-12T15:01:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/telescope-captures-earliest/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/telescope-captures-earliest-1/900/600",
+      "https://picsum.photos/seed/telescope-captures-earliest-2/900/600",
+      "https://picsum.photos/seed/telescope-captures-earliest-3/900/600"
+    ],
+    "tags": [
+      "space",
+      "astronomy"
+    ],
+    "related": [
+      "a_bird_migration_tracked",
+      "a_asteroid_sample_reveals",
+      "a_climate_models_sharpen"
+    ],
+    "likes": 160,
+    "comments": 21,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_researchers_map_coral",
+    "title": "Researchers Map Coral Genome to Aid Reef Recovery",
+    "summary": "Heat tolerant genes could guide restoration efforts.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/researchers-map-coral-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      }
+    ],
+    "source": "Orbit Weekly",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-11T19:25:00Z",
+    "updatedAt": "2026-09-11T20:01:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/researchers-map-coral/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/researchers-map-coral-1/900/600",
+      "https://picsum.photos/seed/researchers-map-coral-2/900/600",
+      "https://picsum.photos/seed/researchers-map-coral-3/900/600"
+    ],
+    "tags": [
+      "biology",
+      "climate"
+    ],
+    "related": [
+      "a_clean_energy",
+      "a_volcano_monitoring_gets",
+      "a_telescope_captures_earliest"
+    ],
+    "likes": 36,
+    "comments": 55,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_mars_rover_finds",
+    "title": "Mars Rover Finds Evidence of Ancient River Delta",
+    "summary": "Layered sediments suggest water flowed for thousands of years.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/mars-rover-finds-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "Science Journal",
+    "author": {
+      "id": "u_hana",
+      "name": "Hana Sato",
+      "avatar": "https://picsum.photos/seed/hana/120",
+      "bio": "Space and astronomy writer."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-10T08:03:00Z",
+    "updatedAt": "2026-09-10T09:13:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/mars-rover-finds/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/mars-rover-finds-1/900/600",
+      "https://picsum.photos/seed/mars-rover-finds-2/900/600",
+      "https://picsum.photos/seed/mars-rover-finds-3/900/600"
+    ],
+    "tags": [
+      "space",
+      "mars"
+    ],
+    "related": [
+      "a_asteroid_sample_reveals",
+      "a_fusion_reactor_sustains",
+      "a_deep_sea_expedition"
+    ],
+    "likes": 313,
+    "comments": 52,
+    "isLiked": false,
+    "isBookmarked": true,
+    "version": 5
+  },
+  {
+    "id": "a_new_catalyst_turns",
+    "title": "New Catalyst Turns Carbon Dioxide Into Fuel",
+    "summary": "A copper alloy converts emissions into ethanol at room temperature.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/new-catalyst-turns-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Lab Notes",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-11T03:52:00Z",
+    "updatedAt": "2026-09-11T04:25:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/new-catalyst-turns/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/new-catalyst-turns-1/900/600",
+      "https://picsum.photos/seed/new-catalyst-turns-2/900/600",
+      "https://picsum.photos/seed/new-catalyst-turns-3/900/600"
+    ],
+    "tags": [
+      "chemistry",
+      "energy"
+    ],
+    "related": [
+      "a_asteroid_sample_reveals",
+      "a_ancient_dna_rewrites",
+      "a_researchers_map_coral"
+    ],
+    "likes": 310,
+    "comments": 11,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_deep_sea_expedition",
+    "title": "Deep Sea Expedition Discovers Dozens of Species",
+    "summary": "Remote vehicles film life at depths beyond four kilometers.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/deep-sea-expedition-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Orbit Weekly",
+    "author": {
+      "id": "u_hana",
+      "name": "Hana Sato",
+      "avatar": "https://picsum.photos/seed/hana/120",
+      "bio": "Space and astronomy writer."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-14T01:24:13Z",
+    "updatedAt": "2026-09-14T01:59:13Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/deep-sea-expedition/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/deep-sea-expedition-1/900/600",
+      "https://picsum.photos/seed/deep-sea-expedition-2/900/600",
+      "https://picsum.photos/seed/deep-sea-expedition-3/900/600"
+    ],
+    "tags": [
+      "oceans",
+      "biology"
+    ],
+    "related": [
+      "a_researchers_map_coral",
+      "a_volcano_monitoring_gets",
+      "a_climate_models_sharpen"
+    ],
+    "likes": 353,
+    "comments": 7,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_fusion_reactor_sustains",
+    "title": "Fusion Reactor Sustains Plasma for Record Duration",
+    "summary": "The reaction held steady for more than six minutes.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/fusion-reactor-sustains-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      }
+    ],
+    "source": "Science Journal",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-14T04:55:33Z",
+    "updatedAt": "2026-09-14T05:14:33Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/fusion-reactor-sustains/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/fusion-reactor-sustains-1/900/600",
+      "https://picsum.photos/seed/fusion-reactor-sustains-2/900/600",
+      "https://picsum.photos/seed/fusion-reactor-sustains-3/900/600"
+    ],
+    "tags": [
+      "fusion",
+      "energy"
+    ],
+    "related": [
+      "a_new_catalyst_turns",
+      "a_lab_grown_wood",
+      "a_climate_models_sharpen"
+    ],
+    "likes": 166,
+    "comments": 17,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_climate_models_sharpen",
+    "title": "Climate Models Sharpen Regional Rainfall Forecasts",
+    "summary": "Higher resolution simulations improve seasonal predictions.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/climate-models-sharpen-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      }
+    ],
+    "source": "Lab Notes",
+    "author": {
+      "id": "u_hana",
+      "name": "Hana Sato",
+      "avatar": "https://picsum.photos/seed/hana/120",
+      "bio": "Space and astronomy writer."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-10T03:08:00Z",
+    "updatedAt": "2026-09-10T04:38:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/climate-models-sharpen/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/climate-models-sharpen-1/900/600",
+      "https://picsum.photos/seed/climate-models-sharpen-2/900/600",
+      "https://picsum.photos/seed/climate-models-sharpen-3/900/600"
+    ],
+    "tags": [
+      "climate",
+      "research"
+    ],
+    "related": [
+      "a_asteroid_sample_reveals",
+      "a_clean_energy",
+      "a_fusion_reactor_sustains"
+    ],
+    "likes": 184,
+    "comments": 13,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_ancient_dna_rewrites",
+    "title": "Ancient DNA Rewrites Story of Early Migration",
+    "summary": "Genomes from a cave site point to an earlier crossing.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/ancient-dna-rewrites-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Orbit Weekly",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-13T10:00:00Z",
+    "updatedAt": "2026-09-13T11:29:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/ancient-dna-rewrites/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/ancient-dna-rewrites-1/900/600",
+      "https://picsum.photos/seed/ancient-dna-rewrites-2/900/600",
+      "https://picsum.photos/seed/ancient-dna-rewrites-3/900/600"
+    ],
+    "tags": [
+      "genetics",
+      "archaeology"
+    ],
+    "related": [
+      "a_bird_migration_tracked",
+      "a_researchers_map_coral",
+      "a_lab_grown_wood"
+    ],
+    "likes": 259,
+    "comments": 9,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_lab_grown_wood",
+    "title": "Lab Grown Wood Could Cut Deforestation",
+    "summary": "Plant cells cultured in tanks form usable timber.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/lab-grown-wood-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      }
+    ],
+    "source": "Science Journal",
+    "author": {
+      "id": "u_hana",
+      "name": "Hana Sato",
+      "avatar": "https://picsum.photos/seed/hana/120",
+      "bio": "Space and astronomy writer."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-10T20:34:00Z",
+    "updatedAt": "2026-09-10T20:46:00Z",
+    "readTimeMinutes": 5,
+    "image": "https://picsum.photos/seed/lab-grown-wood/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/lab-grown-wood-1/900/600",
+      "https://picsum.photos/seed/lab-grown-wood-2/900/600",
+      "https://picsum.photos/seed/lab-grown-wood-3/900/600"
+    ],
+    "tags": [
+      "biotech",
+      "materials"
+    ],
+    "related": [
+      "a_ancient_dna_rewrites",
+      "a_asteroid_sample_reveals",
+      "a_telescope_captures_earliest"
+    ],
+    "likes": 62,
+    "comments": 21,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_physicists_measure_gravity",
+    "title": "Physicists Measure Gravity at Microscopic Scale",
+    "summary": "The experiment detects attraction between milligram masses.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/physicists-measure-gravity-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Lab Notes",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-09T21:13:00Z",
+    "updatedAt": "2026-09-09T22:27:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/physicists-measure-gravity/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/physicists-measure-gravity-1/900/600",
+      "https://picsum.photos/seed/physicists-measure-gravity-2/900/600",
+      "https://picsum.photos/seed/physicists-measure-gravity-3/900/600"
+    ],
+    "tags": [
+      "physics"
+    ],
+    "related": [
+      "a_fusion_reactor_sustains",
+      "a_researchers_map_coral",
+      "a_new_catalyst_turns"
+    ],
+    "likes": 54,
+    "comments": 25,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_volcano_monitoring_gets",
+    "title": "Volcano Monitoring Gets Real-Time Satellite Feed",
+    "summary": "Thermal imaging alerts arrive within minutes of activity.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/volcano-monitoring-gets-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Orbit Weekly",
+    "author": {
+      "id": "u_hana",
+      "name": "Hana Sato",
+      "avatar": "https://picsum.photos/seed/hana/120",
+      "bio": "Space and astronomy writer."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-11T21:21:00Z",
+    "updatedAt": "2026-09-11T21:41:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/volcano-monitoring-gets/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/volcano-monitoring-gets-1/900/600",
+      "https://picsum.photos/seed/volcano-monitoring-gets-2/900/600",
+      "https://picsum.photos/seed/volcano-monitoring-gets-3/900/600"
+    ],
+    "tags": [
+      "geology",
+      "satellites"
+    ],
+    "related": [
+      "a_ancient_dna_rewrites",
+      "a_asteroid_sample_reveals",
+      "a_clean_energy"
+    ],
+    "likes": 262,
+    "comments": 9,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_bird_migration_tracked",
+    "title": "Bird Migration Tracked With Tiny Solar Tags",
+    "summary": "Lightweight sensors reveal routes across three continents.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/bird-migration-tracked-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Science Journal",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-09T12:19:00Z",
+    "updatedAt": "2026-09-09T12:55:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/bird-migration-tracked/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/bird-migration-tracked-1/900/600",
+      "https://picsum.photos/seed/bird-migration-tracked-2/900/600",
+      "https://picsum.photos/seed/bird-migration-tracked-3/900/600"
+    ],
+    "tags": [
+      "ecology",
+      "wildlife"
+    ],
+    "related": [
+      "a_lab_grown_wood",
+      "a_deep_sea_expedition",
+      "a_clean_energy"
+    ],
+    "likes": 21,
+    "comments": 52,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_asteroid_sample_reveals",
+    "title": "Asteroid Sample Reveals Building Blocks of Life",
+    "summary": "Returned dust contains amino acids and water bearing minerals.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/asteroid-sample-reveals-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Lab Notes",
+    "author": {
+      "id": "u_hana",
+      "name": "Hana Sato",
+      "avatar": "https://picsum.photos/seed/hana/120",
+      "bio": "Space and astronomy writer."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-08T19:31:00Z",
+    "updatedAt": "2026-09-08T20:30:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/asteroid-sample-reveals/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/asteroid-sample-reveals-1/900/600",
+      "https://picsum.photos/seed/asteroid-sample-reveals-2/900/600",
+      "https://picsum.photos/seed/asteroid-sample-reveals-3/900/600"
+    ],
+    "tags": [
+      "space",
+      "astrobiology"
+    ],
+    "related": [
+      "a_physicists_measure_gravity",
+      "a_ancient_dna_rewrites",
+      "a_climate_models_sharpen"
+    ],
+    "likes": 177,
+    "comments": 28,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_ocean_current_slowdown",
+    "title": "Ocean Current Slowdown Confirmed by New Study",
+    "summary": "Decades of measurements show a weakening Atlantic circulation.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/ocean-current-slowdown-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Orbit Weekly",
+    "author": {
+      "id": "u_omar",
+      "name": "Omar Hassan",
+      "avatar": "https://picsum.photos/seed/omar/120",
+      "bio": "Science correspondent covering energy and climate."
+    },
+    "topicId": "t_science",
+    "publishedAt": "2026-09-09T23:06:00Z",
+    "updatedAt": "2026-09-09T23:38:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/ocean-current-slowdown/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/ocean-current-slowdown-1/900/600",
+      "https://picsum.photos/seed/ocean-current-slowdown-2/900/600",
+      "https://picsum.photos/seed/ocean-current-slowdown-3/900/600"
+    ],
+    "tags": [
+      "oceans",
+      "climate"
+    ],
+    "related": [
+      "a_deep_sea_expedition",
+      "a_climate_models_sharpen",
+      "a_asteroid_sample_reveals"
+    ],
+    "likes": 111,
+    "comments": 10,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_malaria_vaccine_rollout",
+    "title": "Malaria Vaccine Rollout Reaches Ten Million Children",
+    "summary": "Health ministries report sharp drops in severe cases.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/malaria-vaccine-rollout-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Wellness Today",
+    "author": {
+      "id": "u_sara",
+      "name": "Sara Khalil",
+      "avatar": "https://picsum.photos/seed/sara/120",
+      "bio": "Health and medicine journalist."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-14T00:02:46Z",
+    "updatedAt": "2026-09-14T00:14:46Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/malaria-vaccine-rollout/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/malaria-vaccine-rollout-1/900/600",
+      "https://picsum.photos/seed/malaria-vaccine-rollout-2/900/600",
+      "https://picsum.photos/seed/malaria-vaccine-rollout-3/900/600"
+    ],
+    "tags": [
+      "vaccines",
+      "global-health"
+    ],
+    "related": [
+      "a_gene_therapy_restores",
+      "a_nurse_shortage_prompts",
+      "a_sleep_study_links"
+    ],
+    "likes": 61,
+    "comments": 27,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_sleep_study_links",
+    "title": "Sleep Study Links Screen Time to Shorter Rest",
+    "summary": "Late night scrolling cuts sleep by nearly an hour on average.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sleep-study-links-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Pulse Report",
+    "author": {
+      "id": "u_amira",
+      "name": "Amira Farouk",
+      "avatar": "https://picsum.photos/seed/amira/120",
+      "bio": "Public health policy reporter."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-12T23:03:00Z",
+    "updatedAt": "2026-09-13T00:25:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/sleep-study-links/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/sleep-study-links-1/900/600",
+      "https://picsum.photos/seed/sleep-study-links-2/900/600",
+      "https://picsum.photos/seed/sleep-study-links-3/900/600"
+    ],
+    "tags": [
+      "sleep",
+      "research"
+    ],
+    "related": [
+      "a_hospitals_adopt_ai",
+      "a_mediterranean_diet_cuts",
+      "a_nurse_shortage_prompts"
+    ],
+    "likes": 104,
+    "comments": 50,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  },
+  {
+    "id": "a_hospitals_adopt_ai",
+    "title": "Hospitals Adopt AI Triage in Emergency Rooms",
+    "summary": "Early pilots shorten wait times for urgent cases.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/hospitals-adopt-ai-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "Care Digest",
+    "author": {
+      "id": "u_sara",
+      "name": "Sara Khalil",
+      "avatar": "https://picsum.photos/seed/sara/120",
+      "bio": "Health and medicine journalist."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-10T04:32:00Z",
+    "updatedAt": "2026-09-10T05:12:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/hospitals-adopt-ai/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/hospitals-adopt-ai-1/900/600",
+      "https://picsum.photos/seed/hospitals-adopt-ai-2/900/600",
+      "https://picsum.photos/seed/hospitals-adopt-ai-3/900/600"
+    ],
+    "tags": [
+      "ai",
+      "hospitals"
+    ],
+    "related": [
+      "a_mediterranean_diet_cuts",
+      "a_malaria_vaccine_rollout",
+      "a_nurse_shortage_prompts"
+    ],
+    "likes": 226,
+    "comments": 21,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_mediterranean_diet_cuts",
+    "title": "Mediterranean Diet Cuts Heart Risk in Large Trial",
+    "summary": "Ten year data confirms benefits across age groups.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/mediterranean-diet-cuts-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Wellness Today",
+    "author": {
+      "id": "u_amira",
+      "name": "Amira Farouk",
+      "avatar": "https://picsum.photos/seed/amira/120",
+      "bio": "Public health policy reporter."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-10T14:11:00Z",
+    "updatedAt": "2026-09-10T14:20:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/mediterranean-diet-cuts/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/mediterranean-diet-cuts-1/900/600",
+      "https://picsum.photos/seed/mediterranean-diet-cuts-2/900/600",
+      "https://picsum.photos/seed/mediterranean-diet-cuts-3/900/600"
+    ],
+    "tags": [
+      "nutrition",
+      "heart"
+    ],
+    "related": [
+      "a_new_guidelines_lower",
+      "a_sugar_tax_shows",
+      "a_malaria_vaccine_rollout"
+    ],
+    "likes": 105,
+    "comments": 4,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_wearables_detect_irregular",
+    "title": "Wearables Detect Irregular Heartbeat Earlier",
+    "summary": "Watch alerts lead to diagnoses months ahead of symptoms.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/wearables-detect-irregular-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Pulse Report",
+    "author": {
+      "id": "u_sara",
+      "name": "Sara Khalil",
+      "avatar": "https://picsum.photos/seed/sara/120",
+      "bio": "Health and medicine journalist."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-12T17:27:00Z",
+    "updatedAt": "2026-09-12T18:41:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/wearables-detect-irregular/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/wearables-detect-irregular-1/900/600",
+      "https://picsum.photos/seed/wearables-detect-irregular-2/900/600",
+      "https://picsum.photos/seed/wearables-detect-irregular-3/900/600"
+    ],
+    "tags": [
+      "wearables",
+      "heart"
+    ],
+    "related": [
+      "a_malaria_vaccine_rollout",
+      "a_hospitals_adopt_ai",
+      "a_new_guidelines_lower"
+    ],
+    "likes": 43,
+    "comments": 22,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_mental_health_apps",
+    "title": "Mental Health Apps Face New Privacy Standards",
+    "summary": "Regulators require clear consent before sharing session data.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/mental-health-apps-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "Care Digest",
+    "author": {
+      "id": "u_amira",
+      "name": "Amira Farouk",
+      "avatar": "https://picsum.photos/seed/amira/120",
+      "bio": "Public health policy reporter."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-13T18:28:00Z",
+    "updatedAt": "2026-09-13T19:35:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/mental-health-apps/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/mental-health-apps-1/900/600",
+      "https://picsum.photos/seed/mental-health-apps-2/900/600",
+      "https://picsum.photos/seed/mental-health-apps-3/900/600"
+    ],
+    "tags": [
+      "mental-health",
+      "privacy"
+    ],
+    "related": [
+      "a_new_guidelines_lower",
+      "a_walking_ten_minutes",
+      "a_gene_therapy_restores"
+    ],
+    "likes": 310,
+    "comments": 58,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_gene_therapy_restores",
+    "title": "Gene Therapy Restores Hearing in Early Trial",
+    "summary": "Children born deaf respond to sound within weeks.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/gene-therapy-restores-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Wellness Today",
+    "author": {
+      "id": "u_sara",
+      "name": "Sara Khalil",
+      "avatar": "https://picsum.photos/seed/sara/120",
+      "bio": "Health and medicine journalist."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-14T03:37:06Z",
+    "updatedAt": "2026-09-14T04:28:06Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/gene-therapy-restores/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/gene-therapy-restores-1/900/600",
+      "https://picsum.photos/seed/gene-therapy-restores-2/900/600",
+      "https://picsum.photos/seed/gene-therapy-restores-3/900/600"
+    ],
+    "tags": [
+      "gene-therapy",
+      "research"
+    ],
+    "related": [
+      "a_hospitals_adopt_ai",
+      "a_new_guidelines_lower",
+      "a_allergy_season_grows"
+    ],
+    "likes": 127,
+    "comments": 10,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_walking_ten_minutes",
+    "title": "Walking Ten Minutes Daily Improves Mood, Study Finds",
+    "summary": "Short outdoor walks match some medication effects for mild cases.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/walking-ten-minutes-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      }
+    ],
+    "source": "Pulse Report",
+    "author": {
+      "id": "u_amira",
+      "name": "Amira Farouk",
+      "avatar": "https://picsum.photos/seed/amira/120",
+      "bio": "Public health policy reporter."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-13T11:44:00Z",
+    "updatedAt": "2026-09-13T12:05:00Z",
+    "readTimeMinutes": 3,
+    "image": "https://picsum.photos/seed/walking-ten-minutes/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/walking-ten-minutes-1/900/600",
+      "https://picsum.photos/seed/walking-ten-minutes-2/900/600",
+      "https://picsum.photos/seed/walking-ten-minutes-3/900/600"
+    ],
+    "tags": [
+      "fitness",
+      "mental-health"
+    ],
+    "related": [
+      "a_hospitals_adopt_ai",
+      "a_wearables_detect_irregular",
+      "a_new_guidelines_lower"
+    ],
+    "likes": 53,
+    "comments": 10,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_telehealth_visits_stabilize",
+    "title": "Telehealth Visits Stabilize After Pandemic Surge",
+    "summary": "Virtual care settles at a quarter of all appointments.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/telehealth-visits-stabilize-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Care Digest",
+    "author": {
+      "id": "u_sara",
+      "name": "Sara Khalil",
+      "avatar": "https://picsum.photos/seed/sara/120",
+      "bio": "Health and medicine journalist."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-09T07:12:00Z",
+    "updatedAt": "2026-09-09T07:41:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/telehealth-visits-stabilize/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/telehealth-visits-stabilize-1/900/600",
+      "https://picsum.photos/seed/telehealth-visits-stabilize-2/900/600",
+      "https://picsum.photos/seed/telehealth-visits-stabilize-3/900/600"
+    ],
+    "tags": [
+      "telehealth"
+    ],
+    "related": [
+      "a_mental_health_apps",
+      "a_new_guidelines_lower",
+      "a_wearables_detect_irregular"
+    ],
+    "likes": 136,
+    "comments": 42,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_new_guidelines_lower",
+    "title": "New Guidelines Lower Blood Pressure Targets",
+    "summary": "Doctors advised to treat earlier in at risk patients.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/new-guidelines-lower-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Wellness Today",
+    "author": {
+      "id": "u_amira",
+      "name": "Amira Farouk",
+      "avatar": "https://picsum.photos/seed/amira/120",
+      "bio": "Public health policy reporter."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-13T04:43:00Z",
+    "updatedAt": "2026-09-13T05:09:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/new-guidelines-lower/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/new-guidelines-lower-1/900/600",
+      "https://picsum.photos/seed/new-guidelines-lower-2/900/600",
+      "https://picsum.photos/seed/new-guidelines-lower-3/900/600"
+    ],
+    "tags": [
+      "heart",
+      "guidelines"
+    ],
+    "related": [
+      "a_wearables_detect_irregular",
+      "a_hospitals_adopt_ai",
+      "a_walking_ten_minutes"
+    ],
+    "likes": 56,
+    "comments": 40,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_allergy_season_grows",
+    "title": "Allergy Season Grows Longer With Warmer Springs",
+    "summary": "Pollen counts start weeks earlier than two decades ago.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/allergy-season-grows-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Pulse Report",
+    "author": {
+      "id": "u_sara",
+      "name": "Sara Khalil",
+      "avatar": "https://picsum.photos/seed/sara/120",
+      "bio": "Health and medicine journalist."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-13T15:35:00Z",
+    "updatedAt": "2026-09-13T16:48:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/allergy-season-grows/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/allergy-season-grows-1/900/600",
+      "https://picsum.photos/seed/allergy-season-grows-2/900/600",
+      "https://picsum.photos/seed/allergy-season-grows-3/900/600"
+    ],
+    "tags": [
+      "allergies",
+      "climate"
+    ],
+    "related": [
+      "a_walking_ten_minutes",
+      "a_mediterranean_diet_cuts",
+      "a_malaria_vaccine_rollout"
+    ],
+    "likes": 233,
+    "comments": 27,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 2
+  },
+  {
+    "id": "a_nurse_shortage_prompts",
+    "title": "Nurse Shortage Prompts Fast-Track Training",
+    "summary": "Accelerated programs aim to fill thousands of open posts.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/nurse-shortage-prompts-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Care Digest",
+    "author": {
+      "id": "u_amira",
+      "name": "Amira Farouk",
+      "avatar": "https://picsum.photos/seed/amira/120",
+      "bio": "Public health policy reporter."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-11T14:05:00Z",
+    "updatedAt": "2026-09-11T14:53:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/nurse-shortage-prompts/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/nurse-shortage-prompts-1/900/600",
+      "https://picsum.photos/seed/nurse-shortage-prompts-2/900/600",
+      "https://picsum.photos/seed/nurse-shortage-prompts-3/900/600"
+    ],
+    "tags": [
+      "workforce",
+      "hospitals"
+    ],
+    "related": [
+      "a_gene_therapy_restores",
+      "a_walking_ten_minutes",
+      "a_wearables_detect_irregular"
+    ],
+    "likes": 407,
+    "comments": 52,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_sugar_tax_shows",
+    "title": "Sugar Tax Shows Measurable Drop in Consumption",
+    "summary": "Sales of sweetened drinks fall by a fifth since the levy.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sugar-tax-shows-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Wellness Today",
+    "author": {
+      "id": "u_sara",
+      "name": "Sara Khalil",
+      "avatar": "https://picsum.photos/seed/sara/120",
+      "bio": "Health and medicine journalist."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-10T09:45:00Z",
+    "updatedAt": "2026-09-10T09:59:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/sugar-tax-shows/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/sugar-tax-shows-1/900/600",
+      "https://picsum.photos/seed/sugar-tax-shows-2/900/600",
+      "https://picsum.photos/seed/sugar-tax-shows-3/900/600"
+    ],
+    "tags": [
+      "policy",
+      "nutrition"
+    ],
+    "related": [
+      "a_hospitals_adopt_ai",
+      "a_wearables_detect_irregular",
+      "a_mediterranean_diet_cuts"
+    ],
+    "likes": 38,
+    "comments": 51,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_removed_story",
+    "title": "Air Quality Alerts Now Delivered via Phone",
+    "summary": "A national service warns residents before smog peaks.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/removed-story-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Pulse Report",
+    "author": {
+      "id": "u_amira",
+      "name": "Amira Farouk",
+      "avatar": "https://picsum.photos/seed/amira/120",
+      "bio": "Public health policy reporter."
+    },
+    "topicId": "t_health",
+    "publishedAt": "2026-09-08T15:29:00Z",
+    "updatedAt": "2026-09-08T16:33:00Z",
+    "readTimeMinutes": 5,
+    "image": "https://picsum.photos/seed/removed-story/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/removed-story-1/900/600",
+      "https://picsum.photos/seed/removed-story-2/900/600",
+      "https://picsum.photos/seed/removed-story-3/900/600"
+    ],
+    "tags": [
+      "air-quality",
+      "public-health"
+    ],
+    "related": [
+      "a_hospitals_adopt_ai",
+      "a_sleep_study_links",
+      "a_wearables_detect_irregular"
+    ],
+    "likes": 305,
+    "comments": 11,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_film_festival_opens",
+    "title": "Film Festival Opens With Restored Silent Classic",
+    "summary": "A century old print returns with a newly composed score.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/film-festival-opens-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      }
+    ],
+    "source": "Art Signal",
+    "author": {
+      "id": "u_diego",
+      "name": "Diego Alvarez",
+      "avatar": "https://picsum.photos/seed/diego/120",
+      "bio": "Arts and culture critic."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-09T09:26:00Z",
+    "updatedAt": "2026-09-09T10:23:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/film-festival-opens/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/film-festival-opens-1/900/600",
+      "https://picsum.photos/seed/film-festival-opens-2/900/600",
+      "https://picsum.photos/seed/film-festival-opens-3/900/600"
+    ],
+    "tags": [
+      "film",
+      "festival"
+    ],
+    "related": [
+      "a_street_artists_transform",
+      "a_podcast_adaptation_tops",
+      "a_dance_troupe_blends"
+    ],
+    "likes": 325,
+    "comments": 18,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_museum_returns_artifacts",
+    "title": "Museum Returns Artifacts After Decade of Talks",
+    "summary": "Bronze pieces head home following a landmark agreement.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/museum-returns-artifacts-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "We are only at the beginning of what this makes possible."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Screen & Stage",
+    "author": {
+      "id": "u_noah",
+      "name": "Noah Fischer",
+      "avatar": "https://picsum.photos/seed/noah/120",
+      "bio": "Film, theater, and music columnist."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-13T08:42:00Z",
+    "updatedAt": "2026-09-13T09:47:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/museum-returns-artifacts/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/museum-returns-artifacts-1/900/600",
+      "https://picsum.photos/seed/museum-returns-artifacts-2/900/600",
+      "https://picsum.photos/seed/museum-returns-artifacts-3/900/600"
+    ],
+    "tags": [
+      "museums",
+      "heritage"
+    ],
+    "related": [
+      "a_poetry_sales_climb",
+      "a_streaming_series_revives",
+      "a_film_festival_opens"
+    ],
+    "likes": 146,
+    "comments": 18,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_streaming_series_revives",
+    "title": "Streaming Series Revives Interest in Folk Music",
+    "summary": "Soundtrack sales surge as viewers discover traditional songs.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/streaming-series-revives-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      }
+    ],
+    "source": "Culture Wire",
+    "author": {
+      "id": "u_diego",
+      "name": "Diego Alvarez",
+      "avatar": "https://picsum.photos/seed/diego/120",
+      "bio": "Arts and culture critic."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-12T07:57:00Z",
+    "updatedAt": "2026-09-12T09:25:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/streaming-series-revives/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/streaming-series-revives-1/900/600",
+      "https://picsum.photos/seed/streaming-series-revives-2/900/600",
+      "https://picsum.photos/seed/streaming-series-revives-3/900/600"
+    ],
+    "tags": [
+      "music",
+      "streaming"
+    ],
+    "related": [
+      "a_video_game_soundtrack",
+      "a_photography_show_documents",
+      "a_fashion_week_spotlights"
+    ],
+    "likes": 200,
+    "comments": 24,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 1
+  },
+  {
+    "id": "a_street_artists_transform",
+    "title": "Street Artists Transform Abandoned Rail Yard",
+    "summary": "Murals and light installations open the site to the public.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/street-artists-transform-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Art Signal",
+    "author": {
+      "id": "u_noah",
+      "name": "Noah Fischer",
+      "avatar": "https://picsum.photos/seed/noah/120",
+      "bio": "Film, theater, and music columnist."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-09T02:03:00Z",
+    "updatedAt": "2026-09-09T03:32:00Z",
+    "readTimeMinutes": 8,
+    "image": "https://picsum.photos/seed/street-artists-transform/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/street-artists-transform-1/900/600",
+      "https://picsum.photos/seed/street-artists-transform-2/900/600",
+      "https://picsum.photos/seed/street-artists-transform-3/900/600"
+    ],
+    "tags": [
+      "art",
+      "urban"
+    ],
+    "related": [
+      "a_video_game_soundtrack",
+      "a_museum_returns_artifacts",
+      "a_theater_company_stages"
+    ],
+    "likes": 215,
+    "comments": 52,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_novelist_wins_prize",
+    "title": "Novelist Wins Prize for Debut About Migration",
+    "summary": "Judges praise the book's quiet, precise storytelling.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/novelist-wins-prize-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Screen & Stage",
+    "author": {
+      "id": "u_diego",
+      "name": "Diego Alvarez",
+      "avatar": "https://picsum.photos/seed/diego/120",
+      "bio": "Arts and culture critic."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-12T10:15:00Z",
+    "updatedAt": "2026-09-12T11:45:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/novelist-wins-prize/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/novelist-wins-prize-1/900/600",
+      "https://picsum.photos/seed/novelist-wins-prize-2/900/600",
+      "https://picsum.photos/seed/novelist-wins-prize-3/900/600"
+    ],
+    "tags": [
+      "books",
+      "awards"
+    ],
+    "related": [
+      "a_theater_company_stages",
+      "a_architecture_award_goes",
+      "a_comic_convention"
+    ],
+    "likes": 338,
+    "comments": 46,
+    "isLiked": false,
+    "isBookmarked": true,
+    "version": 6
+  },
+  {
+    "id": "a_theater_company_stages",
+    "title": "Theater Company Stages Play in Total Darkness",
+    "summary": "Audiences experience the drama through sound alone.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/theater-company-stages-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      }
+    ],
+    "source": "Culture Wire",
+    "author": {
+      "id": "u_noah",
+      "name": "Noah Fischer",
+      "avatar": "https://picsum.photos/seed/noah/120",
+      "bio": "Film, theater, and music columnist."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-10T18:35:00Z",
+    "updatedAt": "2026-09-10T19:09:00Z",
+    "readTimeMinutes": 9,
+    "image": "https://picsum.photos/seed/theater-company-stages/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/theater-company-stages-1/900/600",
+      "https://picsum.photos/seed/theater-company-stages-2/900/600",
+      "https://picsum.photos/seed/theater-company-stages-3/900/600"
+    ],
+    "tags": [
+      "theater"
+    ],
+    "related": [
+      "a_film_festival_opens",
+      "a_dance_troupe_blends",
+      "a_video_game_soundtrack"
+    ],
+    "likes": 332,
+    "comments": 9,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_video_game_soundtrack",
+    "title": "Video Game Soundtrack Performed by Symphony",
+    "summary": "Orchestral arrangements sell out a three night run.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/video-game-soundtrack-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Small steps, taken consistently, are how we got here."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      }
+    ],
+    "source": "Art Signal",
+    "author": {
+      "id": "u_diego",
+      "name": "Diego Alvarez",
+      "avatar": "https://picsum.photos/seed/diego/120",
+      "bio": "Arts and culture critic."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-09T19:49:00Z",
+    "updatedAt": "2026-09-09T20:10:00Z",
+    "readTimeMinutes": 5,
+    "image": "https://picsum.photos/seed/video-game-soundtrack/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/video-game-soundtrack-1/900/600",
+      "https://picsum.photos/seed/video-game-soundtrack-2/900/600",
+      "https://picsum.photos/seed/video-game-soundtrack-3/900/600"
+    ],
+    "tags": [
+      "music",
+      "games"
+    ],
+    "related": [
+      "a_street_artists_transform",
+      "a_streaming_series_revives",
+      "a_fashion_week_spotlights"
+    ],
+    "likes": 174,
+    "comments": 39,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_photography_show_documents",
+    "title": "Photography Show Documents Vanishing Villages",
+    "summary": "Portraits capture communities before relocation.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/photography-show-documents-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      }
+    ],
+    "source": "Screen & Stage",
+    "author": {
+      "id": "u_noah",
+      "name": "Noah Fischer",
+      "avatar": "https://picsum.photos/seed/noah/120",
+      "bio": "Film, theater, and music columnist."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-09T15:57:00Z",
+    "updatedAt": "2026-09-09T17:15:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/photography-show-documents/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/photography-show-documents-1/900/600",
+      "https://picsum.photos/seed/photography-show-documents-2/900/600",
+      "https://picsum.photos/seed/photography-show-documents-3/900/600"
+    ],
+    "tags": [
+      "photography",
+      "exhibition"
+    ],
+    "related": [
+      "a_theater_company_stages",
+      "a_video_game_soundtrack",
+      "a_poetry_sales_climb"
+    ],
+    "likes": 107,
+    "comments": 54,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_poetry_sales_climb",
+    "title": "Poetry Sales Climb as Short Verse Goes Viral",
+    "summary": "Social platforms drive a new generation of readers.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/poetry-sales-climb-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "This changes the baseline for everyone."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      }
+    ],
+    "source": "Culture Wire",
+    "author": {
+      "id": "u_diego",
+      "name": "Diego Alvarez",
+      "avatar": "https://picsum.photos/seed/diego/120",
+      "bio": "Arts and culture critic."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-12T12:36:00Z",
+    "updatedAt": "2026-09-12T13:32:00Z",
+    "readTimeMinutes": 5,
+    "image": "https://picsum.photos/seed/poetry-sales-climb/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/poetry-sales-climb-1/900/600",
+      "https://picsum.photos/seed/poetry-sales-climb-2/900/600",
+      "https://picsum.photos/seed/poetry-sales-climb-3/900/600"
+    ],
+    "tags": [
+      "books",
+      "poetry"
+    ],
+    "related": [
+      "a_film_festival_opens",
+      "a_theater_company_stages",
+      "a_podcast_adaptation_tops"
+    ],
+    "likes": 377,
+    "comments": 14,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_architecture_award_goes",
+    "title": "Architecture Award Goes to Timber Library",
+    "summary": "The mass timber building sets a new bar for public spaces.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/architecture-award-goes-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      }
+    ],
+    "source": "Art Signal",
+    "author": {
+      "id": "u_noah",
+      "name": "Noah Fischer",
+      "avatar": "https://picsum.photos/seed/noah/120",
+      "bio": "Film, theater, and music columnist."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-12T21:03:00Z",
+    "updatedAt": "2026-09-12T22:02:00Z",
+    "readTimeMinutes": 7,
+    "image": "https://picsum.photos/seed/architecture-award-goes/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/architecture-award-goes-1/900/600",
+      "https://picsum.photos/seed/architecture-award-goes-2/900/600",
+      "https://picsum.photos/seed/architecture-award-goes-3/900/600"
+    ],
+    "tags": [
+      "architecture",
+      "awards"
+    ],
+    "related": [
+      "a_photography_show_documents",
+      "a_poetry_sales_climb",
+      "a_dance_troupe_blends"
+    ],
+    "likes": 181,
+    "comments": 29,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 6
+  },
+  {
+    "id": "a_fashion_week_spotlights",
+    "title": "Fashion Week Spotlights Upcycled Collections",
+    "summary": "Designers rework deadstock fabric into runway pieces.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/fashion-week-spotlights-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Analysts say the move could reshape how teams plan their next two years of work."
+      },
+      {
+        "type": "paragraph",
+        "text": "The findings were published this week after an extended peer review process."
+      }
+    ],
+    "source": "Screen & Stage",
+    "author": {
+      "id": "u_diego",
+      "name": "Diego Alvarez",
+      "avatar": "https://picsum.photos/seed/diego/120",
+      "bio": "Arts and culture critic."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-08T23:33:00Z",
+    "updatedAt": "2026-09-09T00:33:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/fashion-week-spotlights/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/fashion-week-spotlights-1/900/600",
+      "https://picsum.photos/seed/fashion-week-spotlights-2/900/600",
+      "https://picsum.photos/seed/fashion-week-spotlights-3/900/600"
+    ],
+    "tags": [
+      "fashion",
+      "sustainability"
+    ],
+    "related": [
+      "a_film_festival_opens",
+      "a_street_artists_transform",
+      "a_theater_company_stages"
+    ],
+    "likes": 27,
+    "comments": 39,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_podcast_adaptation_tops",
+    "title": "Podcast Adaptation Tops Book Charts",
+    "summary": "A true crime series becomes a bestselling paperback.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/podcast-adaptation-tops-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "The hard part was never the technology, it was the coordination."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Long term, the impact will depend on adoption by the wider industry."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      }
+    ],
+    "source": "Culture Wire",
+    "author": {
+      "id": "u_noah",
+      "name": "Noah Fischer",
+      "avatar": "https://picsum.photos/seed/noah/120",
+      "bio": "Film, theater, and music columnist."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-08T00:30:00Z",
+    "updatedAt": "2026-09-08T00:48:00Z",
+    "readTimeMinutes": 4,
+    "image": "https://picsum.photos/seed/podcast-adaptation-tops/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/podcast-adaptation-tops-1/900/600",
+      "https://picsum.photos/seed/podcast-adaptation-tops-2/900/600",
+      "https://picsum.photos/seed/podcast-adaptation-tops-3/900/600"
+    ],
+    "tags": [
+      "books",
+      "podcasts"
+    ],
+    "related": [
+      "a_museum_returns_artifacts",
+      "a_comic_convention",
+      "a_novelist_wins_prize"
+    ],
+    "likes": 103,
+    "comments": 12,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 3
+  },
+  {
+    "id": "a_dance_troupe_blends",
+    "title": "Dance Troupe Blends Robotics and Ballet",
+    "summary": "Mechanical partners share the stage with human dancers.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/dance-troupe-blends-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "If it is not measured, it will not improve."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+      }
+    ],
+    "source": "Art Signal",
+    "author": {
+      "id": "u_diego",
+      "name": "Diego Alvarez",
+      "avatar": "https://picsum.photos/seed/diego/120",
+      "bio": "Arts and culture critic."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-09T14:27:00Z",
+    "updatedAt": "2026-09-09T15:32:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/dance-troupe-blends/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/dance-troupe-blends-1/900/600",
+      "https://picsum.photos/seed/dance-troupe-blends-2/900/600",
+      "https://picsum.photos/seed/dance-troupe-blends-3/900/600"
+    ],
+    "tags": [
+      "dance",
+      "technology"
+    ],
+    "related": [
+      "a_street_artists_transform",
+      "a_fashion_week_spotlights",
+      "a_novelist_wins_prize"
+    ],
+    "likes": 139,
+    "comments": 57,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 5
+  },
+  {
+    "id": "a_comic_convention",
+    "title": "Comic Convention Draws Record Crowds Downtown",
+    "summary": "Cosplay parade and indie artists take over the city center.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+      },
+      {
+        "type": "paragraph",
+        "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/comic-convention-inline/900/500",
+        "caption": "Image related to the story."
+      },
+      {
+        "type": "quote",
+        "text": "Performance is a product feature."
+      },
+      {
+        "type": "heading",
+        "text": "What happens next"
+      },
+      {
+        "type": "paragraph",
+        "text": "Further details are expected at a briefing scheduled for later this month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+      }
+    ],
+    "source": "Screen & Stage",
+    "author": {
+      "id": "u_noah",
+      "name": "Noah Fischer",
+      "avatar": "https://picsum.photos/seed/noah/120",
+      "bio": "Film, theater, and music columnist."
+    },
+    "topicId": "t_culture",
+    "publishedAt": "2026-09-14T09:40:00Z",
+    "updatedAt": "2026-09-14T09:40:00Z",
+    "readTimeMinutes": 6,
+    "image": "https://picsum.photos/seed/comic-convention/900/600",
+    "gallery": [
+      "https://picsum.photos/seed/comic-convention-1/900/600",
+      "https://picsum.photos/seed/comic-convention-2/900/600",
+      "https://picsum.photos/seed/comic-convention-3/900/600"
+    ],
+    "tags": [
+      "comics",
+      "events"
+    ],
+    "related": [
+      "a_novelist_wins_prize",
+      "a_poetry_sales_climb",
+      "a_photography_show_documents"
+    ],
+    "likes": 280,
+    "comments": 48,
+    "isLiked": false,
+    "isBookmarked": false,
+    "version": 4
+  }
+]

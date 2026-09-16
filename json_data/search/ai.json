@@ -1,0 +1,98 @@
+{
+  "query": "ai",
+  "data": [
+    {
+      "id": "a_ai_policy",
+      "title": "Governments Draft Shared Rules for Frontier AI Models",
+      "summary": "A joint framework would set testing and disclosure requirements.",
+      "source": "TechWire",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-14T10:05:00Z",
+      "image": "https://picsum.photos/seed/ai-policy/900/600"
+    },
+    {
+      "id": "a_fusion_reactor_sustains",
+      "title": "Fusion Reactor Sustains Plasma for Record Duration",
+      "summary": "The reaction held steady for more than six minutes.",
+      "source": "Science Journal",
+      "topicId": "t_science",
+      "publishedAt": "2026-09-14T04:55:33Z",
+      "image": "https://picsum.photos/seed/fusion-reactor-sustains/900/600"
+    },
+    {
+      "id": "a_retailers_bet_on",
+      "title": "Retailers Bet on Smaller Stores in City Centers",
+      "summary": "Compact formats target commuters and same day pickup.",
+      "source": "Market Brief",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T22:56:19Z",
+      "image": "https://picsum.photos/seed/retailers-bet-on/900/600"
+    },
+    {
+      "id": "a_lowcode_tools_reshape",
+      "title": "Low-Code Tools Reshape Internal Enterprise Apps",
+      "summary": "Business teams ship dashboards without waiting for engineering.",
+      "source": "Future Stack",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-13T21:56:53Z",
+      "image": "https://picsum.photos/seed/lowcode-tools-reshape/900/600"
+    },
+    {
+      "id": "a_walking_ten_minutes",
+      "title": "Walking Ten Minutes Daily Improves Mood, Study Finds",
+      "summary": "Short outdoor walks match some medication effects for mild cases.",
+      "source": "Pulse Report",
+      "topicId": "t_health",
+      "publishedAt": "2026-09-13T11:44:00Z",
+      "image": "https://picsum.photos/seed/walking-ten-minutes/900/600"
+    },
+    {
+      "id": "a_smart_home_standards",
+      "title": "Smart Home Standards Finally Talk to Each Other",
+      "summary": "A unified protocol lets devices from rival brands pair instantly.",
+      "source": "Mobile Daily",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-13T07:05:00Z",
+      "image": "https://picsum.photos/seed/smart-home-standards/900/600"
+    },
+    {
+      "id": "a_luxury_brands_slow",
+      "title": "Luxury Brands Slow Expansion Amid Softer Demand",
+      "summary": "Fewer store openings as spending cools in key markets.",
+      "source": "Startup Post",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T01:16:00Z",
+      "image": "https://picsum.photos/seed/luxury-brands-slow/900/600"
+    },
+    {
+      "id": "a_architecture_patterns",
+      "title": "Clean Architecture Patterns Gain Ground in Mobile Teams",
+      "summary": "Layered designs and testable domains are becoming the default.",
+      "source": "Future Stack",
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-12T18:55:00Z",
+      "image": "https://picsum.photos/seed/architecture-patterns/900/600"
+    },
+    {
+      "id": "a_novelist_wins_prize",
+      "title": "Novelist Wins Prize for Debut About Migration",
+      "summary": "Judges praise the book's quiet, precise storytelling.",
+      "source": "Screen & Stage",
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-12T10:15:00Z",
+      "image": "https://picsum.photos/seed/novelist-wins-prize/900/600"
+    },
+    {
+      "id": "a_grocery_chains_expand",
+      "title": "Grocery Chains Expand Private Label Brands",
+      "summary": "Store brands gain share as shoppers trade down.",
+      "source": "Startup Post",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-12T03:50:00Z",
+      "image": "https://picsum.photos/seed/grocery-chains-expand/900/600"
+    }
+  ],
+  "page": 1,
+  "pageSize": 10,
+  "total": 31
+}

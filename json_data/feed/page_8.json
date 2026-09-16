@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "id": "a_tennis_star_announces",
+      "title": "Tennis Star Announces Return After Injury Layoff",
+      "summary": "Comeback planned for the season's first hard court swing.",
+      "source": "The Final Whistle",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T05:40:00Z",
+      "image": "https://picsum.photos/seed/tennis-star-announces/900/600",
+      "tags": [
+        "tennis"
+      ],
+      "likes": 91,
+      "comments": 47,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_underdogs_stun_champions",
+      "title": "Underdogs Stun Champions in Cup Final Thriller",
+      "summary": "A late header seals a first major trophy for the club.",
+      "source": "Match Point",
+      "author": {
+        "id": "u_jonas",
+        "name": "Jonas Weber",
+        "avatar": "https://picsum.photos/seed/jonas/120"
+      },
+      "topicId": "t_sports",
+      "publishedAt": "2026-09-09T03:26:00Z",
+      "image": "https://picsum.photos/seed/underdogs-stun-champions/900/600",
+      "tags": [
+        "football",
+        "cup-final"
+      ],
+      "likes": 232,
+      "comments": 42,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_street_artists_transform",
+      "title": "Street Artists Transform Abandoned Rail Yard",
+      "summary": "Murals and light installations open the site to the public.",
+      "source": "Art Signal",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-09T02:03:00Z",
+      "image": "https://picsum.photos/seed/street-artists-transform/900/600",
+      "tags": [
+        "art",
+        "urban"
+      ],
+      "likes": 215,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_fashion_week_spotlights",
+      "title": "Fashion Week Spotlights Upcycled Collections",
+      "summary": "Designers rework deadstock fabric into runway pieces.",
+      "source": "Screen & Stage",
+      "author": {
+        "id": "u_diego",
+        "name": "Diego Alvarez",
+        "avatar": "https://picsum.photos/seed/diego/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-08T23:33:00Z",
+      "image": "https://picsum.photos/seed/fashion-week-spotlights/900/600",
+      "tags": [
+        "fashion",
+        "sustainability"
+      ],
+      "likes": 27,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_passkeys_replace_passwords",
+      "title": "Passkeys Replace Passwords Across Major Platforms",
+      "summary": "Password-less sign in is now the default on new accounts.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T21:45:00Z",
+      "image": "https://picsum.photos/seed/passkeys-replace-passwords/900/600",
+      "tags": [
+        "security",
+        "identity"
+      ],
+      "likes": 358,
+      "comments": 11,
+      "isLiked": true,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_asteroid_sample_reveals",
+      "title": "Asteroid Sample Reveals Building Blocks of Life",
+      "summary": "Returned dust contains amino acids and water bearing minerals.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-08T19:31:00Z",
+      "image": "https://picsum.photos/seed/asteroid-sample-reveals/900/600",
+      "tags": [
+        "space",
+        "astrobiology"
+      ],
+      "likes": 177,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_rust_adoption_grows",
+      "title": "Rust Adoption Grows in Operating System Kernels",
+      "summary": "Memory safe drivers land in mainline releases this year.",
+      "source": "Future Stack",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-08T17:04:00Z",
+      "image": "https://picsum.photos/seed/rust-adoption-grows/900/600",
+      "tags": [
+        "rust",
+        "systems"
+      ],
+      "likes": 113,
+      "comments": 12,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 6
+    },
+    {
+      "id": "a_removed_story",
+      "title": "Air Quality Alerts Now Delivered via Phone",
+      "summary": "A national service warns residents before smog peaks.",
+      "source": "Pulse Report",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-08T15:29:00Z",
+      "image": "https://picsum.photos/seed/removed-story/900/600",
+      "tags": [
+        "air-quality",
+        "public-health"
+      ],
+      "likes": 305,
+      "comments": 11,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_central_banks_signal",
+      "title": "Central Banks Signal Pause on Interest Rate Hikes",
+      "summary": "Policy makers point to cooling prices and slower hiring.",
+      "source": "Global Ledger",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "image": "https://picsum.photos/seed/central-banks-signal/900/600",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "likes": 188,
+      "comments": 2,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_remote_work_policies",
+      "title": "Remote Work Policies Settle Into Hybrid Norm",
+      "summary": "Most large employers land on three days in the office.",
+      "source": "Startup Post",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T12:03:00Z",
+      "image": "https://picsum.photos/seed/remote-work-policies/900/600",
+      "tags": [
+        "workplace"
+      ],
+      "likes": 53,
+      "comments": 29,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    }
+  ],
+  "page": 8,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": "feed_9"
+}

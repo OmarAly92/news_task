@@ -1,0 +1,35 @@
+{
+  "query": "markets",
+  "data": [
+    {
+      "id": "a_market_week",
+      "title": "Markets Open Higher as Technology Shares Advance",
+      "summary": "Investors watch inflation data and earnings guidance.",
+      "source": "Market Brief",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T19:45:00Z",
+      "image": "https://picsum.photos/seed/market/900/600"
+    },
+    {
+      "id": "a_luxury_brands_slow",
+      "title": "Luxury Brands Slow Expansion Amid Softer Demand",
+      "summary": "Fewer store openings as spending cools in key markets.",
+      "source": "Startup Post",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-13T01:16:00Z",
+      "image": "https://picsum.photos/seed/luxury-brands-slow/900/600"
+    },
+    {
+      "id": "a_central_banks_signal",
+      "title": "Central Banks Signal Pause on Interest Rate Hikes",
+      "summary": "Policy makers point to cooling prices and slower hiring.",
+      "source": "Global Ledger",
+      "topicId": "t_business",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "image": "https://picsum.photos/seed/central-banks-signal/900/600"
+    }
+  ],
+  "page": 1,
+  "pageSize": 10,
+  "total": 3
+}

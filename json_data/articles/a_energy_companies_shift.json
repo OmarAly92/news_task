@@ -1,0 +1,67 @@
+{
+  "id": "a_energy_companies_shift",
+  "title": "Energy Companies Shift Budgets Toward Renewables",
+  "summary": "Capital spending on wind and solar overtakes oil exploration.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/energy-companies-shift-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Global Ledger",
+  "author": {
+    "id": "u_priya",
+    "name": "Priya Nair",
+    "avatar": "https://picsum.photos/seed/priya/120",
+    "bio": "Covers startups, venture capital, and fintech."
+  },
+  "topicId": "t_business",
+  "publishedAt": "2026-09-09T11:09:00Z",
+  "updatedAt": "2026-09-09T12:14:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/energy-companies-shift/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/energy-companies-shift-1/900/600",
+    "https://picsum.photos/seed/energy-companies-shift-2/900/600",
+    "https://picsum.photos/seed/energy-companies-shift-3/900/600"
+  ],
+  "tags": [
+    "energy",
+    "renewables"
+  ],
+  "related": [
+    "a_airlines_post_record",
+    "a_small_businesses_adopt",
+    "a_luxury_brands_slow"
+  ],
+  "likes": 309,
+  "comments": 13,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

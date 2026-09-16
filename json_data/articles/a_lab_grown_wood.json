@@ -1,0 +1,67 @@
+{
+  "id": "a_lab_grown_wood",
+  "title": "Lab Grown Wood Could Cut Deforestation",
+  "summary": "Plant cells cultured in tanks form usable timber.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/lab-grown-wood-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    }
+  ],
+  "source": "Science Journal",
+  "author": {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "avatar": "https://picsum.photos/seed/hana/120",
+    "bio": "Space and astronomy writer."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-10T20:34:00Z",
+  "updatedAt": "2026-09-10T20:46:00Z",
+  "readTimeMinutes": 5,
+  "image": "https://picsum.photos/seed/lab-grown-wood/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/lab-grown-wood-1/900/600",
+    "https://picsum.photos/seed/lab-grown-wood-2/900/600",
+    "https://picsum.photos/seed/lab-grown-wood-3/900/600"
+  ],
+  "tags": [
+    "biotech",
+    "materials"
+  ],
+  "related": [
+    "a_ancient_dna_rewrites",
+    "a_asteroid_sample_reveals",
+    "a_telescope_captures_earliest"
+  ],
+  "likes": 62,
+  "comments": 21,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 3
+}

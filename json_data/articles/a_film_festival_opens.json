@@ -1,0 +1,67 @@
+{
+  "id": "a_film_festival_opens",
+  "title": "Film Festival Opens With Restored Silent Classic",
+  "summary": "A century old print returns with a newly composed score.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings were published this week after an extended peer review process."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/film-festival-opens-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "This changes the baseline for everyone."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "Art Signal",
+  "author": {
+    "id": "u_diego",
+    "name": "Diego Alvarez",
+    "avatar": "https://picsum.photos/seed/diego/120",
+    "bio": "Arts and culture critic."
+  },
+  "topicId": "t_culture",
+  "publishedAt": "2026-09-09T09:26:00Z",
+  "updatedAt": "2026-09-09T10:23:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/film-festival-opens/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/film-festival-opens-1/900/600",
+    "https://picsum.photos/seed/film-festival-opens-2/900/600",
+    "https://picsum.photos/seed/film-festival-opens-3/900/600"
+  ],
+  "tags": [
+    "film",
+    "festival"
+  ],
+  "related": [
+    "a_street_artists_transform",
+    "a_podcast_adaptation_tops",
+    "a_dance_troupe_blends"
+  ],
+  "likes": 325,
+  "comments": 18,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 1
+}

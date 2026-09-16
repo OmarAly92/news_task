@@ -1,0 +1,49 @@
+{
+  "GET /topics": "topics.json",
+  "GET /sources?topicId={id}": "sources.json",
+  "GET /feed?page={n}&pageSize=10": "feed/page_{n}.json",
+  "GET /feed?cursor={cursor}": "feed/cursors.json",
+  "GET /feed?topic={topicId}": "feed/topic/{topicId}.json",
+  "GET /feed (all items, for client-side filtering)": "feed/all.json",
+  "GET /feed/updates?since={timestamp}": "feed/updates.json",
+  "GET /feed/refresh (new + updated + deleted items)": "feed/refresh.json",
+  "GET /feed (error)": "feed/error.json",
+  "GET /articles/{id}": "articles/{id}.json",
+  "GET /articles (all details)": "articles.json",
+  "GET /articles/{id} (updated)": "articles/_updated_a_flutter_roadmap.json",
+  "GET /articles/{id} (unavailable)": "articles/_unavailable_a_removed_story.json",
+  "GET /search?q={q}": "search/{q}.json",
+  "GET /search?q=flutter&topic=t_technology": "search/flutter_topic_t_technology.json",
+  "GET /search (empty)": "search/empty.json",
+  "GET /suggest?q={prefix}": "search/suggestions.json",
+  "GET /suggest?q=flu": "search/suggest_flu.json",
+  "POST /articles/{id}/reactions (request)": [
+    "reactions/request_like.json",
+    "reactions/request_unlike.json"
+  ],
+  "POST /articles/{id}/reactions (responses)": [
+    "reactions/success_like.json",
+    "reactions/success_unlike.json",
+    "reactions/conflict.json",
+    "reactions/error.json"
+  ],
+  "GET /bookmarks": "bookmarks/list.json",
+  "PUT /bookmarks/{articleId} (request)": [
+    "bookmarks/put_request_add.json",
+    "bookmarks/put_request_remove.json"
+  ],
+  "PUT /bookmarks/{articleId} (responses)": [
+    "bookmarks/put_response_add.json",
+    "bookmarks/put_response_remove.json",
+    "bookmarks/error.json"
+  ],
+  "POST /sync (request)": "sync/request.json",
+  "POST /sync (responses)": [
+    "sync/response_success.json",
+    "sync/response_review_required.json",
+    "sync/response_error.json"
+  ],
+  "GET /flags": "flags.json",
+  "GET /trending": "trending.json",
+  "GET /authors": "authors.json"
+}

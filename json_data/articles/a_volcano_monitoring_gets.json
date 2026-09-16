@@ -1,0 +1,67 @@
+{
+  "id": "a_volcano_monitoring_gets",
+  "title": "Volcano Monitoring Gets Real-Time Satellite Feed",
+  "summary": "Thermal imaging alerts arrive within minutes of activity.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/volcano-monitoring-gets-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "The hard part was never the technology, it was the coordination."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    }
+  ],
+  "source": "Orbit Weekly",
+  "author": {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "avatar": "https://picsum.photos/seed/hana/120",
+    "bio": "Space and astronomy writer."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-11T21:21:00Z",
+  "updatedAt": "2026-09-11T21:41:00Z",
+  "readTimeMinutes": 8,
+  "image": "https://picsum.photos/seed/volcano-monitoring-gets/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/volcano-monitoring-gets-1/900/600",
+    "https://picsum.photos/seed/volcano-monitoring-gets-2/900/600",
+    "https://picsum.photos/seed/volcano-monitoring-gets-3/900/600"
+  ],
+  "tags": [
+    "geology",
+    "satellites"
+  ],
+  "related": [
+    "a_ancient_dna_rewrites",
+    "a_asteroid_sample_reveals",
+    "a_clean_energy"
+  ],
+  "likes": 262,
+  "comments": 9,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 4
+}

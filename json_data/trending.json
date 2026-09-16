@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-14",
+  "topics": [
+    {
+      "label": "Flutter",
+      "articleCount": 18,
+      "topicId": "t_technology",
+      "query": "flutter"
+    },
+    {
+      "label": "Clean Energy",
+      "articleCount": 12,
+      "topicId": "t_science",
+      "query": "energy"
+    },
+    {
+      "label": "Markets",
+      "articleCount": 9,
+      "topicId": "t_business",
+      "query": "markets"
+    },
+    {
+      "label": "Cup Final",
+      "articleCount": 7,
+      "topicId": "t_sports",
+      "query": "cup final"
+    },
+    {
+      "label": "Sleep",
+      "articleCount": 5,
+      "topicId": "t_health",
+      "query": "sleep"
+    }
+  ]
+}

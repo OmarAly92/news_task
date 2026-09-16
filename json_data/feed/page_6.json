@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "id": "a_theater_company_stages",
+      "title": "Theater Company Stages Play in Total Darkness",
+      "summary": "Audiences experience the drama through sound alone.",
+      "source": "Culture Wire",
+      "author": {
+        "id": "u_noah",
+        "name": "Noah Fischer",
+        "avatar": "https://picsum.photos/seed/noah/120"
+      },
+      "topicId": "t_culture",
+      "publishedAt": "2026-09-10T18:35:00Z",
+      "image": "https://picsum.photos/seed/theater-company-stages/900/600",
+      "tags": [
+        "theater"
+      ],
+      "likes": 332,
+      "comments": 9,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_quantum_startups_report",
+      "title": "Quantum Startups Report First Error-Corrected Qubits",
+      "summary": "Logical qubits stay stable long enough for small algorithms.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T16:37:00Z",
+      "image": "https://picsum.photos/seed/quantum-startups-report/900/600",
+      "tags": [
+        "quantum",
+        "research"
+      ],
+      "likes": 96,
+      "comments": 47,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    },
+    {
+      "id": "a_mediterranean_diet_cuts",
+      "title": "Mediterranean Diet Cuts Heart Risk in Large Trial",
+      "summary": "Ten year data confirms benefits across age groups.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_amira",
+        "name": "Amira Farouk",
+        "avatar": "https://picsum.photos/seed/amira/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T14:11:00Z",
+      "image": "https://picsum.photos/seed/mediterranean-diet-cuts/900/600",
+      "tags": [
+        "nutrition",
+        "heart"
+      ],
+      "likes": 105,
+      "comments": 4,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_fintech_firms_seek",
+      "title": "Fintech Firms Seek Bank Charters to Cut Costs",
+      "summary": "Owning the rails lets startups keep more of each transaction.",
+      "source": "Market Brief",
+      "author": {
+        "id": "u_priya",
+        "name": "Priya Nair",
+        "avatar": "https://picsum.photos/seed/priya/120"
+      },
+      "topicId": "t_business",
+      "publishedAt": "2026-09-10T12:02:00Z",
+      "image": "https://picsum.photos/seed/fintech-firms-seek/900/600",
+      "tags": [
+        "fintech",
+        "banking"
+      ],
+      "likes": 274,
+      "comments": 28,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_sugar_tax_shows",
+      "title": "Sugar Tax Shows Measurable Drop in Consumption",
+      "summary": "Sales of sweetened drinks fall by a fifth since the levy.",
+      "source": "Wellness Today",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T09:45:00Z",
+      "image": "https://picsum.photos/seed/sugar-tax-shows/900/600",
+      "tags": [
+        "policy",
+        "nutrition"
+      ],
+      "likes": 38,
+      "comments": 51,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 1
+    },
+    {
+      "id": "a_mars_rover_finds",
+      "title": "Mars Rover Finds Evidence of Ancient River Delta",
+      "summary": "Layered sediments suggest water flowed for thousands of years.",
+      "source": "Science Journal",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T08:03:00Z",
+      "image": "https://picsum.photos/seed/mars-rover-finds/900/600",
+      "tags": [
+        "space",
+        "mars"
+      ],
+      "likes": 313,
+      "comments": 52,
+      "isLiked": false,
+      "isBookmarked": true,
+      "version": 5
+    },
+    {
+      "id": "a_satellite_broadband_expands",
+      "title": "Satellite Broadband Expands to Remote Classrooms",
+      "summary": "Low orbit networks connect schools far from fiber lines.",
+      "source": "TechWire",
+      "author": {
+        "id": "u_maya",
+        "name": "Maya Chen",
+        "avatar": "https://picsum.photos/seed/maya/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T05:43:00Z",
+      "image": "https://picsum.photos/seed/satellite-broadband-expands/900/600",
+      "tags": [
+        "connectivity",
+        "education"
+      ],
+      "likes": 306,
+      "comments": 43,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 5
+    },
+    {
+      "id": "a_hospitals_adopt_ai",
+      "title": "Hospitals Adopt AI Triage in Emergency Rooms",
+      "summary": "Early pilots shorten wait times for urgent cases.",
+      "source": "Care Digest",
+      "author": {
+        "id": "u_sara",
+        "name": "Sara Khalil",
+        "avatar": "https://picsum.photos/seed/sara/120"
+      },
+      "topicId": "t_health",
+      "publishedAt": "2026-09-10T04:32:00Z",
+      "image": "https://picsum.photos/seed/hospitals-adopt-ai/900/600",
+      "tags": [
+        "ai",
+        "hospitals"
+      ],
+      "likes": 226,
+      "comments": 21,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 2
+    },
+    {
+      "id": "a_climate_models_sharpen",
+      "title": "Climate Models Sharpen Regional Rainfall Forecasts",
+      "summary": "Higher resolution simulations improve seasonal predictions.",
+      "source": "Lab Notes",
+      "author": {
+        "id": "u_hana",
+        "name": "Hana Sato",
+        "avatar": "https://picsum.photos/seed/hana/120"
+      },
+      "topicId": "t_science",
+      "publishedAt": "2026-09-10T03:08:00Z",
+      "image": "https://picsum.photos/seed/climate-models-sharpen/900/600",
+      "tags": [
+        "climate",
+        "research"
+      ],
+      "likes": 184,
+      "comments": 13,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 3
+    },
+    {
+      "id": "a_dart_tooling",
+      "title": "Dart Tooling Update Speeds Up Hot Reload for Large Apps",
+      "summary": "Incremental compilation cuts reload times on big codebases.",
+      "source": "Mobile Daily",
+      "author": {
+        "id": "u_tom",
+        "name": "Tom Okafor",
+        "avatar": "https://picsum.photos/seed/tom/120"
+      },
+      "topicId": "t_technology",
+      "publishedAt": "2026-09-10T00:50:00Z",
+      "image": "https://picsum.photos/seed/dart-tooling/900/600",
+      "tags": [
+        "dart",
+        "flutter",
+        "tooling"
+      ],
+      "likes": 357,
+      "comments": 39,
+      "isLiked": false,
+      "isBookmarked": false,
+      "version": 4
+    }
+  ],
+  "page": 6,
+  "pageSize": 10,
+  "total": 86,
+  "nextCursor": "feed_7"
+}

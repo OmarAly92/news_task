@@ -1,0 +1,67 @@
+{
+  "id": "a_league_approves_expansion",
+  "title": "League Approves Expansion to Two New Cities",
+  "summary": "Franchises will begin play in the 2028 season.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Critics argue the numbers are promising but still need to be confirmed at larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long term, the impact will depend on adoption by the wider industry."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/league-approves-expansion-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "We are only at the beginning of what this makes possible."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Early reactions from the community have been broadly positive, though some raised questions about timing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    }
+  ],
+  "source": "Match Point",
+  "author": {
+    "id": "u_leo",
+    "name": "Leo Marchetti",
+    "avatar": "https://picsum.photos/seed/leo/120",
+    "bio": "Football and Olympic sports analyst."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-13T16:49:00Z",
+  "updatedAt": "2026-09-13T17:02:00Z",
+  "readTimeMinutes": 9,
+  "image": "https://picsum.photos/seed/league-approves-expansion/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/league-approves-expansion-1/900/600",
+    "https://picsum.photos/seed/league-approves-expansion-2/900/600",
+    "https://picsum.photos/seed/league-approves-expansion-3/900/600"
+  ],
+  "tags": [
+    "basketball",
+    "league"
+  ],
+  "related": [
+    "a_cricket_board_introduces",
+    "a_underdogs_stun_champions",
+    "a_youth_academy_produces"
+  ],
+  "likes": 178,
+  "comments": 21,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a_youth_academy_produces",
+  "title": "Youth Academy Produces Third Straight Debutant",
+  "summary": "Another teenager steps up to the senior squad.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The announcement follows months of speculation and comes as competition in the sector intensifies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/youth-academy-produces-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "Performance is a product feature."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details are expected at a briefing scheduled for later this month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "Arena News",
+  "author": {
+    "id": "u_jonas",
+    "name": "Jonas Weber",
+    "avatar": "https://picsum.photos/seed/jonas/120",
+    "bio": "Senior sports writer and former athlete."
+  },
+  "topicId": "t_sports",
+  "publishedAt": "2026-09-08T08:14:00Z",
+  "updatedAt": "2026-09-08T08:31:00Z",
+  "readTimeMinutes": 3,
+  "image": "https://picsum.photos/seed/youth-academy-produces/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/youth-academy-produces-1/900/600",
+    "https://picsum.photos/seed/youth-academy-produces-2/900/600",
+    "https://picsum.photos/seed/youth-academy-produces-3/900/600"
+  ],
+  "tags": [
+    "football",
+    "youth"
+  ],
+  "related": [
+    "a_esports_finals_draw",
+    "a_olympic_committee_adds",
+    "a_basketball_rookie_sets"
+  ],
+  "likes": 117,
+  "comments": 28,
+  "isLiked": false,
+  "isBookmarked": false,
+  "version": 2
+}

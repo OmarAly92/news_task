@@ -1,0 +1,67 @@
+{
+  "id": "a_mars_rover_finds",
+  "title": "Mars Rover Finds Evidence of Ancient River Delta",
+  "summary": "Layered sediments suggest water flowed for thousands of years.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Officials stressed that the plan will be rolled out gradually to avoid disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The team behind the effort credits a small group of volunteers who worked through the summer."
+    },
+    {
+      "type": "image",
+      "url": "https://picsum.photos/seed/mars-rover-finds-inline/900/500",
+      "caption": "Image related to the story."
+    },
+    {
+      "type": "quote",
+      "text": "If it is not measured, it will not improve."
+    },
+    {
+      "type": "heading",
+      "text": "What happens next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporters point to similar efforts abroad that delivered results within a few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts say the move could reshape how teams plan their next two years of work."
+    }
+  ],
+  "source": "Science Journal",
+  "author": {
+    "id": "u_hana",
+    "name": "Hana Sato",
+    "avatar": "https://picsum.photos/seed/hana/120",
+    "bio": "Space and astronomy writer."
+  },
+  "topicId": "t_science",
+  "publishedAt": "2026-09-10T08:03:00Z",
+  "updatedAt": "2026-09-10T09:13:00Z",
+  "readTimeMinutes": 4,
+  "image": "https://picsum.photos/seed/mars-rover-finds/900/600",
+  "gallery": [
+    "https://picsum.photos/seed/mars-rover-finds-1/900/600",
+    "https://picsum.photos/seed/mars-rover-finds-2/900/600",
+    "https://picsum.photos/seed/mars-rover-finds-3/900/600"
+  ],
+  "tags": [
+    "space",
+    "mars"
+  ],
+  "related": [
+    "a_asteroid_sample_reveals",
+    "a_fusion_reactor_sustains",
+    "a_deep_sea_expedition"
+  ],
+  "likes": 313,
+  "comments": 52,
+  "isLiked": false,
+  "isBookmarked": true,
+  "version": 5
+}
