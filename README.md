@@ -1,9 +1,3 @@
-
-
-
-
-https://github.com/user-attachments/assets/dcfd2f90-92bd-4751-930f-3342e1c21a09
-
 # News Feed
 
 A Flutter news-feed app built for the take-home task: paginated feed, debounced search with filters, article details, bookmarks, optimistic reactions, an offline outbox with server sync, and an offline cache for the feed and articles. No real backend — everything is served by an in-app mock server that reads the JSON assets in `json_data/`.
@@ -31,7 +25,9 @@ A Flutter news-feed app built for the take-home task: paginated feed, debounced 
 
 ## Demo
 
-[▶ Watch the demo video](video/demo-video.mp4) — feed pagination, pull to refresh, debounced search, article details, bookmark persistence, optimistic likes, and offline behaviour.
+https://github.com/user-attachments/assets/dcfd2f90-92bd-4751-930f-3342e1c21a09
+
+Feed pagination, pull to refresh, debounced search, article details, bookmark persistence, optimistic likes, and offline behaviour. Direct file: [video/demo-video.mp4](video/demo-video.mp4).
 
 ---
 
