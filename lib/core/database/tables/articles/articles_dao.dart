@@ -20,6 +20,21 @@ class ArticlesDao extends DatabaseAccessor<AppDatabase>
   Future<void> upsertArticle(ArticlesCompanion article) =>
       into(articles).insertOnConflictUpdate(article).handleLocalFailure();
 
+  Future<void> updateReaction(
+    String articleId, {
+    required bool isLiked,
+    int? likes,
+    int? version,
+  }) => (update(articles)..where((t) => t.articleId.equals(articleId)))
+      .write(
+        ArticlesCompanion(
+          isLiked: Value(isLiked),
+          likes: likes == null ? const Value.absent() : Value(likes),
+          version: version == null ? const Value.absent() : Value(version),
+        ),
+      )
+      .handleLocalFailure();
+
   Future<int> deleteArticle(String articleId) => (delete(
     articles,
   )..where((t) => t.articleId.equals(articleId))).go().handleLocalFailure();

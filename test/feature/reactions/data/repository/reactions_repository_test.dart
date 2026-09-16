@@ -4,6 +4,7 @@ import 'package:news_task/core/api/models/global_response.dart';
 import 'package:news_task/feature/reactions/data/model/params/enqueue_reaction_params.dart';
 import 'package:news_task/feature/reactions/data/model/params/set_reaction_params.dart';
 import 'package:news_task/feature/reactions/data/model/reaction_result_model.dart';
+import 'package:news_task/feature/reactions/data/model/reaction_update_model.dart';
 import 'package:news_task/feature/reactions/data/repository/reactions_repository.dart';
 
 import '../../../../helpers/fixtures.dart';
@@ -31,6 +32,7 @@ void main() {
         idempotencyKey: 'k',
       ),
     );
+    registerFallbackValue(const ReactionUpdateModel());
   });
 
   setUp(() {
@@ -40,6 +42,7 @@ void main() {
     repository = ReactionsRepositoryImp(remote, local, network);
     when(() => local.enqueueReaction(any())).thenAnswer((_) async {});
     when(() => local.removePending(any())).thenAnswer((_) async {});
+    when(() => local.saveServerState(any())).thenAnswer((_) async {});
   });
 
   group('setReaction', () {
@@ -67,6 +70,13 @@ void main() {
       expect(params.expectedVersion, 1);
       expect(params.clientMutationId, isNotEmpty);
       verify(() => local.removePending('a')).called(1);
+      final saved =
+          verify(() => local.saveServerState(captureAny())).captured.single
+              as ReactionUpdateModel;
+      expect(saved.articleId, 'a');
+      expect(saved.isLiked, isTrue);
+      expect(saved.likes, 11);
+      expect(saved.version, 2);
     });
 
     test('queues the reaction in the outbox when offline', () async {
@@ -103,6 +113,13 @@ void main() {
 
         expect(result.isConflict, isTrue);
         expect(result.serverState?.likes, 20);
+        final saved =
+            verify(() => local.saveServerState(captureAny())).captured.single
+                as ReactionUpdateModel;
+        expect(saved.articleId, 'a');
+        expect(saved.isLiked, isTrue);
+        expect(saved.likes, 20);
+        expect(saved.version, 5);
       },
     );
 

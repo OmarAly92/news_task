@@ -46,7 +46,6 @@ class SuggestionChip extends StatelessWidget {
               duration: AppMotion.fast,
               curve: AppMotion.easeOut,
               constraints: const BoxConstraints(minHeight: 40),
-              alignment: Alignment.center,
               padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
               decoration: BoxDecoration(
                 color: isSelected

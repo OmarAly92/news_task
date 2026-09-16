@@ -57,6 +57,7 @@ void main() {
     when(() => bookmarksLocal.markSynced(any())).thenAnswer((_) async {});
     when(() => bookmarksLocal.deleteBookmark(any())).thenAnswer((_) async {});
     when(() => reactions.publish(any())).thenReturn(null);
+    when(() => reactions.saveServerState(any())).thenAnswer((_) async {});
   });
 
   void stubPending({
@@ -111,6 +112,11 @@ void main() {
         'bookmark:b:1000',
       ]);
       verify(() => local.removeMutation('r1')).called(1);
+      final saved =
+          verify(() => reactions.saveServerState(captureAny())).captured.single
+              as ReactionUpdateModel;
+      expect(saved.articleId, 'a');
+      expect(saved.isLiked, isTrue);
       verify(() => bookmarksLocal.markSynced('b')).called(1);
       verify(() => local.saveBaseVersion(19)).called(1);
     });
@@ -148,6 +154,7 @@ void main() {
         expect(update.articleId, 'a');
         expect(update.likes, 186);
         expect(update.isLiked, isTrue);
+        verify(() => reactions.saveServerState(update)).called(1);
       },
     );
 

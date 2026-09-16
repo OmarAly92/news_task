@@ -182,7 +182,11 @@ class ServiceLocator {
       () => ReactionsRemoteDataSourceImp(sl<ApiConsumer>()),
     );
     sl.registerLazySingleton<ReactionsLocalDataSource>(
-      () => ReactionsLocalDataSourceImp(sl<OutboxDao>()),
+      () => ReactionsLocalDataSourceImp(
+        sl<OutboxDao>(),
+        sl<ArticlesDao>(),
+        sl<FeedItemsDao>(),
+      ),
     );
     sl.registerLazySingleton<OutboxDao>(() => OutboxDao(sl<AppDatabase>()));
   }

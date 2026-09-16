@@ -35,12 +35,6 @@ class SyncStatusBanner extends StatelessWidget {
           skin.accent,
           const SizedBox.square(dimension: 14, child: AppLoader.pagination()),
         ),
-        SyncSuccessState(:final conflicts) when conflicts > 0 => (
-          LocaleKeys.syncNeedsReview.tr(args: ['$conflicts']),
-          skin.warningLight,
-          skin.warning,
-          Icon(Icons.info_outline_rounded, size: 16, color: skin.warning),
-        ),
         SyncSuccessState() => (
           LocaleKeys.syncedChanges.tr(),
           skin.successLight,

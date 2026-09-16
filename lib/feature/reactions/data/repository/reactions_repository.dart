@@ -24,6 +24,8 @@ abstract class ReactionsRepository {
   FutureResult<List<PendingReactionModel>> getPendingReactions();
 
   void publish(ReactionUpdateModel update);
+
+  Future<void> saveServerState(ReactionUpdateModel update);
 }
 
 class ReactionsRepositoryImp implements ReactionsRepository {
@@ -80,11 +82,35 @@ class ReactionsRepositoryImp implements ReactionsRepository {
         ),
       );
       await _localDataSource.removePending(articleId);
-      return Result.success(response.data ?? const ReactionResultModel());
+      final data = response.data ?? const ReactionResultModel();
+      if (data.isSuccess) {
+        await saveServerState(
+          ReactionUpdateModel(
+            articleId: articleId,
+            isLiked: like,
+            likes: data.likes,
+            version: data.version,
+          ),
+        );
+      } else if (data.isConflict) {
+        await saveServerState(
+          ReactionUpdateModel(
+            articleId: articleId,
+            isLiked: data.serverState?.isLiked,
+            likes: data.serverState?.likes,
+            version: data.serverState?.version,
+          ),
+        );
+      }
+      return Result.success(data);
     } on Failure catch (error) {
       return Result.failure(error);
     }
   }
+
+  @override
+  Future<void> saveServerState(ReactionUpdateModel update) =>
+      _localDataSource.saveServerState(update);
 
   @override
   FutureResult<List<PendingReactionModel>> getPendingReactions() async {

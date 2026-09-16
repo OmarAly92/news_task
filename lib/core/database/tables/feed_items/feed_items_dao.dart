@@ -31,6 +31,21 @@ class FeedItemsDao extends DatabaseAccessor<AppDatabase>
     (b) => b.insertAllOnConflictUpdate(feedItems, items),
   ).handleLocalFailure();
 
+  Future<void> updateReaction(
+    String articleId, {
+    required bool isLiked,
+    int? likes,
+    int? version,
+  }) => (update(feedItems)..where((t) => t.articleId.equals(articleId)))
+      .write(
+        FeedItemsCompanion(
+          isLiked: Value(isLiked),
+          likes: likes == null ? const Value.absent() : Value(likes),
+          version: version == null ? const Value.absent() : Value(version),
+        ),
+      )
+      .handleLocalFailure();
+
   Future<int> deleteArticles(List<String> articleIds) => (delete(
     feedItems,
   )..where((t) => t.articleId.isIn(articleIds))).go().handleLocalFailure();

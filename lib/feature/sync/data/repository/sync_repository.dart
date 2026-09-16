@@ -100,12 +100,19 @@ class SyncRepositoryImp implements SyncRepository {
       if (mutation.isReaction) {
         await _localDataSource.removeMutation(key);
         if (conflict != null) {
-          _reactionsRepository.publish(
+          final update = ReactionUpdateModel(
+            articleId: articleId,
+            isLiked: conflict.isLiked,
+            likes: conflict.serverLikes,
+            version: conflict.version,
+          );
+          await _reactionsRepository.saveServerState(update);
+          _reactionsRepository.publish(update);
+        } else {
+          await _reactionsRepository.saveServerState(
             ReactionUpdateModel(
               articleId: articleId,
-              isLiked: conflict.isLiked,
-              likes: conflict.serverLikes,
-              version: conflict.version,
+              isLiked: mutation.payload?['reaction'] == 'like',
             ),
           );
         }
