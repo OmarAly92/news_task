@@ -9,14 +9,18 @@ class ListItemAnimation extends StatelessWidget {
     required this.child,
   });
 
+  static const int staggeredItems = 6;
+
   final Widget child;
   final int index;
 
   @override
   Widget build(BuildContext context) {
+    if (index >= staggeredItems) return child;
     return AnimationConfiguration.staggeredList(
       position: index,
       duration: AppMotion.screen,
+      delay: AppMotion.staggerStep,
       child: SlideAnimation(
         horizontalOffset: 50.0,
         child: FadeInAnimation(child: child),

@@ -1,3 +1,4 @@
+import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:internet_connection_checker_plus/internet_connection_checker_plus.dart';
@@ -221,7 +222,7 @@ class ServiceLocator {
     /// Core
     sl.registerLazySingleton<AppDatabase>(() => AppDatabase());
     sl.registerLazySingleton<NetworkStatus>(
-      () => NetworkStatusImp(sl<InternetConnection>()),
+      () => NetworkStatusImp(sl<InternetConnection>(), sl<Connectivity>()),
     );
     sl.registerLazySingleton<NetworkCubit>(
       () => NetworkCubit(sl<NetworkStatus>()),
@@ -235,20 +236,24 @@ class ServiceLocator {
 
     /// External Packages
     sl.registerLazySingleton<Dio>(() => Dio());
+    sl.registerLazySingleton<Connectivity>(Connectivity.new);
     sl.registerLazySingleton<InternetConnection>(
       () => InternetConnection.createInstance(
+        checkInterval: const Duration(seconds: 3),
+        useDefaultOptions: false,
+        triggerStream: sl<Connectivity>().onConnectivityChanged,
         customCheckOptions: [
           InternetCheckOption(
             uri: Uri.parse('https://1.1.1.1'),
-            timeout: const Duration(seconds: 3),
+            timeout: const Duration(seconds: 2),
           ),
           InternetCheckOption(
             uri: Uri.parse('https://cloudflare.com/cdn-cgi/trace'),
-            timeout: const Duration(seconds: 3),
+            timeout: const Duration(seconds: 2),
           ),
           InternetCheckOption(
             uri: Uri.parse('https://www.google.com/generate_204'),
-            timeout: const Duration(seconds: 3),
+            timeout: const Duration(seconds: 2),
           ),
         ],
       ),
